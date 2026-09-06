@@ -1,0 +1,1591 @@
+{"courses":[
+  {
+    "heading": {
+      "title": "Koçluk ICF Seviye 1",
+      "backgroundImage": "url('images/banner/courses-banner.jpg')"
+    },
+    "breadcrumb": {
+      "listItems": ["Anasayfa", "Kurslar", "Koçluk ICF Seviye 1"]
+    },
+
+    "page": {
+      "id": "kocluk-icf-seviye-1",
+      "slug": "kocluk-icf-seviye-1",
+      "template": "course-single"
+    },
+
+    "seo": {
+      "title": "Koçluk ICF Seviye 1",
+      "description": "ICF Seviye 1 Koçluk Eğitimi Akreditasyonuna Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+    },
+
+    "content": {
+      "mainTitle": "Koçluk ICF Seviye 1",
+
+      "viewHeader": {
+        "author": {
+          "label": "Eğitmen",
+          "name": "Selcan Arslan",
+          "link": "about.html",
+          "image": {
+            "src": "images/Selcan-Arslan.jpg",
+            "alt": "Eğitmen Selcan Arslan"
+          }
+        },
+        "category": {
+          "label": "Kategori",
+          "value": "Programın Dili"
+        },
+        "rating": {
+          "value": 5,
+          "totalReviews": 5
+        }
+      },
+
+      "heroImage": {
+        "src": "images/kurslar/seviye1.jpg",
+        "alt": "Koçluk ICF Seviye 1"
+      },
+
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Koçluk ICF Seviye 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "ICF Seviye 1 Koçluk Eğitimi Akreditasyonuna Giriş Seviye 1 koçluk eğitimi, koç adaylarına temel becerileri kazandırır ve onları ICF Associate Certified Coach (ACC) unvanına giden net bir yol haritasıyla buluşturur. Seviye 1 akreditasyonu, dünya genelinde üst düzey koçluk eğitimi sunan ve ICF tarafından tanınan seçkin eğitim sağlayıcıları arasına katılmanızı sağlar; böylece kurumunuzun güvenilirliği ve erişim gücü artar."
+        },
+        {
+          "type": "list",
+          "intro": "Seviye 1 akreditasyonuna başvurabilmek için, koçluk eğitimi programınızın her bir katılımcı için aşağıdaki şartları sağlaması gerekir:",
+          "items": [
+            "60 ila 124 saat arasında koçluğa özgü (coach-specific) eğitim teması saati,",
+            "Beş koçluk oturumunun gözlemlenmesi ve her biri için yazılı geri bildirim verilmesi,",
+            "En az üç aylık bir süreye yayılmış toplam 10 saat mentör koçluk,",
+            "ACC minimum yetkinlik seviyesinde bir final performans değerlendirmesi."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ICF Seviye 1 Akreditasyonunun Faydaları"
+        },
+        {
+          "type": "paragraph",
+          "text": "ICF Seviye 1 akreditasyonunu kazanmak, potansiyel öğrencilerinize ve iş ortaklarınıza güçlü bir mesaj verir: Programınız, temel koçluk eğitimi için belirlenen titiz ve uluslararası düzeyde tanınan standartları karşılamaktadır. Ancak faydaları bununla sınırlı değildir."
+        },
+        {
+          "type": "list",
+          "items": [
+            "ACC profesyonel kimliğin “resmi başlangıcıdır",
+            "ICF akreditasyonu 140’tan fazla ülkede tanınmaktadır. Bu da erişim alanınızı genişletmenizi ve dünyanın dört bir yanından öğrencilerin katılımını mümkün kılar.",
+            "Bu aşamada önemli olan mükemmel koç olmak değil, tutarlı koç olmak."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "ICF Seviye 1 programlarından mezun olanlar, ACC unvanına Seviye 1 Yolu (Level 1 Pathway) üzerinden başvurabilir. Bu yol, diğer belgelendirme süreçlerine kıyasla daha basit ve daha akıcıdır. Bu avantaj, potansiyel öğrenciler için oldukça caziptir ve programınız için güçlü bir satış argümanı oluşturabilir."
+        },
+        {
+          "type": "paragraph",
+          "text": "ICF Seviye 1 akreditasyonunu almak; müfredat içeriği, eğitim kalitesi ve etik standartlarla ilgili katı kriterleri karşılamanızı gerektirir. Bu da yüksek kaliteli eğitim uygulamalarını sürdürmenizi sağlar ve öğrenciler için daha iyi öğrenme çıktıları ortaya çıkarır."
+        },
+        {
+          "type": "paragraph",
+          "text": "Akreditasyon süreci düzenli gözden geçirme ve değerlendirmeler içerir. Bu da koçluk programlarınızı sektör standartları, ICF’in Temel Yetkinlikleri ve mentor ile öğrenci geri bildirimleri doğrultusunda sürekli güncellemenizi ve geliştirmenizi teşvik eder. Ayrıca sizi desteklemeye istekli bir meslektaş ağına erişim imkânı da sunar."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Önemli Bilgiler"
+        },
+        {
+          "type": "accordion",
+          "title": "Seviye 1 Akreditasyon için Başvuru Maliyeti",
+          "items": [
+            {
+              "title": "Akreditasyon Maliyeti",
+              "content": "60-75 İletişim Saati Olan Programlar = 2.000$ USD 76+ İletişim Saati Olan Programlar = 2.500$ USD Lütfen dikkat: Başvuru ücretleri iade edilmez ve akreditasyon onayını garanti etmez"
+            },
+            {
+              "title": "Seviye 1 Akreditasyon Başlangıç Tarihi",
+              "content": "Seviye 1 akreditasyonunuz üç takvim yılı için geçerlidir ve başvurunun yapıldığı tarihte başlar.Akreditasyon onayından önce programınızdan bireyleri zaten mezun ettiyseniz, akreditasyonunuz en yeni mezunlara geriye dönük olarak uygulanabilir, yani bu mezunlar Seviye 1 koçluk eğitimini tamamlamışlardır."
+            },
+            {
+              "title": "Gerekli Standartlar",
+              "content": "ICF tarafından akredite edilen programların sadece — öne çıkmamasını sağlayarak küresel standartları yükseltmeye kararlıyız. Bu akreditasyon standartları, öğrencilere yatırımlarının başarılı bir kariyere doğru güçlü bir adım olduğuna dair güvence vererek, en yüksek kalitede koçluk programlarını garanti eder. ICF tarafından akredite olmak için, mükemmelliği sağlayan yedi temel standardı karşılamanız gerekir: Standart 1: Eğitim ve Öğrenme Programının Misyon ve Vizyonu. Standart 2: Yönetim, Organizasyon ve Ticari Operasyonlar. Standart 3: Etik, Dürüstlük ve Şeffaflık. Standart 4: Eğitim ve Öğretim. Standart 5: Öğretim ve Öğretim. Standart 6: Öğrenme Deneyimi ve Desteği. Standart 7: Değerlendirme, Değerlendirme ve Etkililik."
+            },
+            {
+              "title": "Seviye 1 Akreditasyon Süreci",
+              "content": "Akreditasyona başvurmak, programınızın gücünü kapsamlı bir inceleme yoluyla sergilemek, müfredatınızın, öğretim üyelerinizin, öğrenci desteğinizin, öğrenme çıktılarınızın ve sürekli iyileştirme taahhüdünüzün en yüksek standartları karşıladığını onaylamak için bir fırsattır. Programınızın mükemmelliğini doğrulamak ve koçluk endüstrisindeki kalıcı etkisini güvence altına almak için güçlü bir adımdır."
+            },
+            {
+              "title": "Başvurunuzu Gönderme",
+              "content": "İncelemek the Akreditasyon Standartları aşağıdakiler de dahil olmak üzere, başvurunuzu göndermeden önce tüm gereksinimleri karşıladığınızdan ve tüm belgeleri sağladığınızdan emin olmak için: Programın tamamını oluşturan tüm sınıfların ders listesi. Gözlemlenen bir koçluk oturumunun yazılı geri bildirimle kaydedilmesi. ACC düzeyinde yazılı geri bildirim ve kelime kelime transkript ile geçen bir öğrencinin performans değerlendirmesinin kaydedilmesi."
+            },
+            {
+              "title": "Başvurunuzun İncelenmesi",
+              "content": "Seviye 2 uygulaması için tipik inceleme süresi = 8-12 hafta. Başvurunuzu yaptıktan sonraki ilk iki hafta içinde başvurunuz minimum gereklilikleri karşıladığından emin olmak için incelenecektir. Seviye 1 akreditasyonu için şunları doğrularız: Uygulama gerekli program saati sayısını karşılar. Kuruluşunuzun PCC veya MCC sertifikasına sahip bir eğitim direktörü vardır. Performans değerlendirme kaydı ve transkripti uygulamaya dahil olup standartlarımıza uygundur. Bu ilk incelemeden sonra başvurunuz daha derin bir inceleme sürecinden geçecektir. Onay üzerine, resmi onayınızı ve ilgili belgeleri almadan önce 30 dakikalık bir akreditasyon onay görüşmesine katılmanız gerekecektir. Bu görüşmeler, ICF akreditasyonu isteyen kuruluşlarla uyumu sağlamak ve beklentileri belirlemek için proaktif bir yaklaşımdır."
+            }
+          ]
+        }
+      ],
+
+      "instructor": {
+        "name": "Selcan Arslan",
+        "title": "Sosyolog - Eğitim Uzmanı",
+        "image": {
+          "src": "images/Selcan-Arslan.jpg",
+          "alt": "Selcan Arslan"
+        },
+        "bio": "Uzmanlık alanı koçluk eğitimi ve sosyal bilimler."
+      },
+
+      "reviews": {
+        "total": 2,
+        "items": [
+          {
+            "author": "Sevim Akyüz",
+            "date": "2025-03-07",
+            "rating": 5,
+            "text": "Eğitim oldukça tatmin ediciydi."
+          },
+          {
+            "author": "Saim Demir",
+            "date": "2025-03-05",
+            "rating": 5,
+            "text": "İçerik çok açıklayıcıydı."
+          }
+        ]
+      }
+    },
+
+    "sidebar": {
+      "courseInfo": {
+        "price": "$580.00",
+        "students": 50,
+        "duration": "30 gün",
+        "lectures": 10,
+        "videoHours": 12,
+        "certificate": true
+      },
+
+      "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+
+      "introVideo": {
+        "url": "http://www.youtube.com/embed/9bZkp7q19f0?autoplay=1",
+        "thumbnail": "http://placehold.it/260x220"
+      },
+
+      "popularCourses": [
+        {
+          "title": "Introduction to Mobile Apps Development",
+          "price": "$99.00"
+        },
+        {
+          "title": "Become a Professional Film Maker",
+          "price": "Free"
+        }
+      ],
+
+      "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+    }
+  },
+  {
+    "heading": {
+      "title": "Koçluk ICF Seviye 2",
+      "backgroundImage": "url('images/banner/banner-1.jpg')"
+    },
+    "breadcrumb": {
+      "listItems": ["Anasayfa", "Kurs", "Koçluk ICF Seviye 2"]
+    },
+
+    "page": {
+      "id": "kocluk-icf-seviye-2",
+      "slug": "kocluk-icf-seviye-2",
+      "template": "course-single"
+    },
+
+    "seo": {
+      "title": "Koçluk ICF Seviye 2",
+      "description": "ICF Seviye 2 Koçluk Eğitimi Akreditasyonuna Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+    },
+
+    "content": {
+      "mainTitle": "Koçluk ICF Seviye 2",
+
+      "viewHeader": {
+        "author": {
+          "label": "Eğitmen",
+          "name": "Selcan Arslan",
+          "link": "about.html",
+          "image": {
+            "src": "images/Selcan-Arslan.jpg",
+            "alt": "Eğitmen Selcan Arslan"
+          }
+        },
+        "category": {
+          "label": "Kategori",
+          "value": "Programın Dili"
+        },
+        "rating": {
+          "value": 5,
+          "totalReviews": 5
+        }
+      },
+
+      "heroImage": {
+        "src": "images/kurslar/seviye2.jpg",
+        "alt": "Koçluk ICF Seviye 2"
+      },
+
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Koçluk ICF Seviye 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seviye 2 akreditasyon, temel eğitimin ötesine geçen bir koçluk eğitim modelidir. Kapsamlı ve derinlemesine eğitim ile mentorluk desteği sunar; katılımcılara üst düzey koçluk yapabilme ve danışanlarla daha derin ilişkiler kurabilme yetkinliği kazandırır. Bu sayede daha başarılı koçluk sonuçları elde edilmesi hedeflenir."
+        },
+        {
+          "type": "list",
+          "intro": "Seviye 2 akreditasyonuna sahip bir programdan mezun olanlar yalnızca temel becerileri kazanmakla kalmaz, aynı zamanda doğrudan:",
+          "items": ["Associate Certified Coach (ACC)", "Professional Certified Coach (PCC),"]
+        },
+        {
+          "type": "paragraph",
+          "text": "unvanlarına başvurma hakkı elde eder. Bu durum, kariyer gelişimi açısından önemli bir avantaj sağlar ve Seviye 2 eğitimlerini koçlar için son derece cazip hale getirir."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seviye 2 akreditasyonuna uygun olabilmek için koçluk eğitim programınızın katılımcılara aşağıdakileri sağlaması gerekir:"
+        },
+        {
+          "type": "list",
+          "items": ["125–175 saat koçluk odaklı eğitim", "6 koçluk oturumundan gözlem ve yazılı geri bildirim", "En az 3 ay süren 10 saat mentorluk koçluğu", "PCC minimum seviye kriterlerinde final performans değerlendirmesi"]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ICF Seviye 2 Akreditasyonu İçin Gerekli Standartlar"
+        },
+        {
+          "type": "paragraph",
+          "text": "ICF’e akreditasyon almak için kurumunuzun 7 standart alanını karşılaması gerekir. Bu standartlar; kalite, etik, şeffaflık ve eğitim bütünlüğünü güvence altına alır. Aynı zamanda mezunlarınızın koçluk kariyerlerinde anlamlı etki yaratmasını destekler."
+        },
+        {
+          "type": "list",
+          "items": ["Eğitim Programının Misyon ve Vizyonu", "Yönetim, Organizasyon ve İşletme Operasyonları", "Etik, Dürüstlük ve Şeffaflık", "Eğitim ve Öğretim", "Öğrenme ve Uygulama", "Öğrenme Deneyimi ve Destek", "Değerlendirme ve Etkililik"]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Seviye 2 Akreditasyon Süreci"
+        },
+        {
+          "type": "paragraph",
+          "text": "ICF Seviye 2 akreditasyonuna başvurmak karmaşık bir süreç gibi görünebilir; ancak her adımda destek sunulmaktadır. Gerekli belgelerin toplanmasından inceleme sürecine kadar tüm aşamalar açık şekilde tanımlanmıştır. "
+        },
+        {
+          "type": "paragraph",
+          "text": "Süreç kapsamlıdır; çünkü amacımız programınızın ICF standartlarını eksiksiz karşıladığından emin olmaktır. Bu da kurumunuzu koçluk sektöründe lider konuma taşır."
+        },
+        {
+          "type": "list",
+          "items": ["Başvurunun Sunulması", "Başvurunun İncelenmesi"]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Önemli Bilgiler"
+        },
+        {
+          "type": "accordion",
+          "title": "Seviye 2 Akreditasyon için Başvuru Maliyeti",
+          "items": [
+            {
+              "title": "ICF Seviye 2 Akreditasyonunun Faydaları",
+              "content": "Seviye 2 akreditasyonu, kurumunuzun koçluk eğitimindeki itibarını güçlendirir. Motivasyonu yüksek öğrencileri çeker, sunduğunuz eğitimleri genişletir ve mezunlarınızın uzun vadeli başarısını destekler."
+            },
+            {
+              "title": "Programınızın Prestijini Artırır",
+              "content": "Seviye 2 akreditasyonu, kurumunuzu koçluk eğitimi alanında lider konuma taşır. Programınızın ICF’in küresel standartlarını karşıladığını gösterir ve yüksek kaliteli eğitim sunduğunuzun resmi bir kanıtı olur. Bu da daha fazla öğrenci ve sektör paydaşı çekmenizi sağlar."
+            },
+            {
+              "title": "Eğitim Yelpazenizi Genişletir",
+              "content": "ACC ve PCC unvanlarına hazırlık sağlayan kapsamlı bir eğitim sunarak programınızın cazibesini artırırsınız. Kariyerini ilerletmek isteyen koçlar için kurumunuz, prestijli sertifikalara giden güvenilir bir yol haline gelir."
+            },
+            {
+              "title": "Öğrenci Talebini ve Kayıtları Artırır",
+              "content": "Seviye 2 akreditasyonu, daha yüksek bir eğitim standardını temsil eder. Ciddi ve motive öğrencileri çeker, programınıza rekabet avantajı kazandırır ve kayıt sayısında sürdürülebilir artış sağlar."
+            },
+            {
+              "title": "Mezun Başarısını Destekler",
+              "content": "Seviye 2 program mezunları, ileri düzey sertifikasyon ve liderlik rollerine hazırdır. Mezunların başarısı, kurumunuzun itibarını güçlendirir ve olumlu referans etkisi yaratır."
+            }
+          ]
+        }
+      ],
+
+      "instructor": {
+        "name": "Selcan Arslan",
+        "title": "Sosyolog - Eğitim Uzmanı",
+        "image": {
+          "src": "images/Selcan-Arslan.jpg",
+          "alt": "Selcan Arslan"
+        },
+        "bio": "Uzmanlık alanı koçluk eğitimi ve sosyal bilimler."
+      },
+
+      "reviews": {
+        "total": 2,
+        "items": [
+          {
+            "author": "Sevim Akyüz",
+            "date": "2025-03-07",
+            "rating": 5,
+            "text": "Eğitim oldukça tatmin ediciydi."
+          },
+          {
+            "author": "Saim Demir",
+            "date": "2025-03-05",
+            "rating": 5,
+            "text": "İçerik çok açıklayıcıydı."
+          }
+        ]
+      }
+    },
+
+    "sidebar": {
+      "courseInfo": {
+        "price": "$570.00",
+        "students": 50,
+        "duration": "30 gün",
+        "lectures": 10,
+        "videoHours": 12,
+        "certificate": true
+      },
+
+      "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+
+      "introVideo": {
+        "url": "http://www.youtube.com/embed/9bZkp7q19f0?autoplay=1",
+        "thumbnail": "http://placehold.it/260x220"
+      },
+
+      "popularCourses": [
+        {
+          "title": "Introduction to Mobile Apps Development",
+          "price": "$99.00"
+        },
+        {
+          "title": "Become a Professional Film Maker",
+          "price": "Free"
+        }
+      ],
+
+      "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+    }
+  },
+  {
+    "heading": {
+      "title": "Koçluk ICF Seviye 3",
+      "backgroundImage": "url('images/banner/banner-1.jpg')"
+    },
+    "breadcrumb": {
+      "listItems": ["Anasayfa", "Kurs", "Koçluk ICF Seviye 3"]
+    },
+
+    "page": {
+      "id": "kocluk-icf-seviye-3",
+      "slug": "kocluk-icf-seviye-3",
+      "template": "course-single"
+    },
+
+    "seo": {
+      "title": "Koçluk ICF Seviye 3",
+      "description": "ICF Seviye 3 Koçluk Eğitimi Akreditasyonuna Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+    },
+
+    "content": {
+      "mainTitle": "Koçluk ICF Seviye 3",
+
+      "viewHeader": {
+        "author": {
+          "label": "Eğitmen",
+          "name": "Selcan Arslan",
+          "link": "about.html",
+          "image": {
+            "src": "images/Selcan-Arslan.jpg",
+            "alt": "Eğitmen Selcan Arslan"
+          }
+        },
+        "category": {
+          "label": "Kategori",
+          "value": "Programın Dili"
+        },
+        "rating": {
+          "value": 5,
+          "totalReviews": 5
+        }
+      },
+
+      "heroImage": {
+        "src": "images/kurslar/seviye3.jpg",
+        "alt": "Koçluk ICF Seviye 3"
+      },
+
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Koçluk ICF Seviye 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seviye 3 akreditasyonu, eğitiminizin PCC unvanına sahip (aktif) koçları, karmaşık koçluk senaryolarında ustalıkla ilerleyebilecek ve danışanlarda derin dönüşüm sağlayabilecek düzeyde hazırladığını gösterir. Seviye 2 gibi önceki eğitimlerin üzerine inşa edilir ve mezunların prestijli Master Certified Coach (MCC) unvanını hedeflemeye tam donanımlı olmasını sağlar."
+        },
+        {
+          "type": "paragraph",
+          "text": "Programınızın, ICF Temel Yetkinlikleri (Core Competencies) konusunda derin uzmanlık sunması ve güçlü bir mesleki gelişim anlayışı benimsemesi gerekir. Böylece mezunlar yalnızca teknik becerilerini değil, aynı zamanda yaşam boyu öğrenme ve mükemmeliyet anlayışını da içselleştirir."
+        },
+        {
+          "type": "list",
+          "intro": "Seviye 3 için koçluk eğitim programınızın her öğrenciye aşağıdakileri sağlaması gerekir:",
+          "items": ["En az 75 saat öğrenci temas süresi (contact hours)", "5 koçluk oturumuna yönelik gözlem ve yazılı geri bildirim", "En az 3 aylık süreçte minimum 10 saat mentorluk koçluğu"]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ayrıca kuruluşunuzda müfredatı, öğretim süreçlerini, eğitmen eğitimini ve tüm gözlem ile değerlendirme süreçlerini denetleyen bir eğitim direktörü bulunmalıdır."
+        },
+        {
+          "type": "heading",
+          "level": "3",
+          "text": "ICF Seviye 3 Akreditasyonu İçin Gerekli Standartlar"
+        },
+        {
+          "type": "list",
+          "intro": "Ustalık seviyesinde koçlar yetiştirmeyi hedefliyorsanız, yüksek mesleki standartların zaten savunucususunuz demektir. Seviye 3 akreditasyonu için kurumunuzun aşağıdaki 7 temel standart alanını karşılaması gerekir:",
+          "items": ["Eğitim Programının Misyon ve Vizyonu", "Yönetim, Organizasyon ve İşletme Operasyonları", "Etik, Dürüstlük ve Şeffaflık", "Eğitim ve Öğretim", "Öğrenme ve Uygulama", "Öğrenme Deneyimi ve Destek", "Değerlendirme ve Etkililik"]
+        },
+        {
+          "type": "paragraph",
+          "text": "Bu standartların sürdürülmesi, koçluk eğitiminde kaliteyi güvence altına alır, öğrencilerinizin başarısını destekler ve kurumunuzun genel itibarını güçlendirir."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Seviye 3 Akreditasyon Süreci"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seviye 3 akreditasyonuna başvurunuz, programınız için yeni fırsatların kapısını açar. Süreç boyunca gelişim alanlarınızı görme ve programınızı daha da güçlendirme imkânı elde edersiniz."
+        },
+        {
+          "type": "paragraph",
+          "text": "Başvuru süreci, yalnızca bir onay mekanizması değil; aynı zamanda kurumunuzu yüksek kalite ve etik anlayışıyla hizalama fırsatıdır. Bu da mezunlarınızın değişen dünyada danışan ihtiyaçlarına daha güçlü yanıt verebilmesini sağlar."
+        },
+        {
+          "type": "list",
+          "items": ["Başvurunun Sunulması", "Başvurunun İncelenmesi"]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Önemli Bilgiler"
+        },
+        {
+          "type": "accordion",
+          "title": "Seviye 3 Akreditasyon için Başvuru Maliyeti",
+          "items": [
+            {
+              "title": "ICF Seviye 3 Akreditasyonunun Faydaları",
+              "content": "Seviye 3 akreditasyonu, uzun vadeli güçlü bir yapının temeli gibidir. Programınızın köklerini güçlendirir ve koçluk mesleğinin gelişimine katkı sağlayacak liderler yetiştirmenizi destekler. Bu sağlam yapı sayesinde kurumunuz çok sayıda avantaj elde eder."
+            },
+            {
+              "title": "Güçlendirilmiş İtibar",
+              "content": "Seviye 3 akreditasyonu, kurumunuzu koçluk eğitimi alanında üst düzey bir lider olarak konumlandırır. Öğrenciler ve sektör tarafından en yüksek kalite, etik ve profesyonel standartlara bağlılığınızın göstergesi olarak kabul edilir."
+            },
+            {
+              "title": "Kurumsal Büyümenin Artması",
+              "content": "Artan güvenilirlik ve mükemmeliyet itibarı sayesinde öğrenci talebinde artış yaşanır. Bu da uzun vadeli büyüme ve sürdürülebilir gelişim sağlar."
+            },
+            {
+              "title": "Networking ve İş Birliği Fırsatları",
+              "content": "Diğer akredite eğitim sağlayıcıları ve sektör profesyonelleri ile güçlü bağlantılar kurma imkânı sunar. Bu da bilgi paylaşımı ve en iyi uygulamaların yaygınlaşmasını destekler."
+            },
+            {
+              "title": "Ciddi ve Kararlı Öğrencileri Çekme",
+              "content": "Akredite programlardan mezun olanlar, koçluk kariyerlerinde daha başarılı olma eğilimindedir. Bu durum güçlü bir mezun ağı oluşturur, kurumunuzun itibarını artırır ve gelecekteki öğrencilere güven verir."
+            }
+          ]
+        }
+      ],
+
+      "instructor": {
+        "name": "Selcan Arslan",
+        "title": "Sosyolog - Eğitim Uzmanı",
+        "image": {
+          "src": "images/Selcan-Arslan.jpg",
+          "alt": "Selcan Arslan"
+        },
+        "bio": "Uzmanlık alanı koçluk eğitimi ve sosyal bilimler."
+      },
+
+      "reviews": {
+        "total": 2,
+        "items": [
+          {
+            "author": "Sevim Akyüz",
+            "date": "2025-03-07",
+            "rating": 5,
+            "text": "Eğitim oldukça tatmin ediciydi."
+          },
+          {
+            "author": "Saim Demir",
+            "date": "2025-03-05",
+            "rating": 5,
+            "text": "İçerik çok açıklayıcıydı."
+          }
+        ]
+      }
+    },
+
+    "sidebar": {
+      "courseInfo": {
+        "price": "$570.00",
+        "students": 50,
+        "duration": "30 gün",
+        "lectures": 10,
+        "videoHours": 12,
+        "certificate": true
+      },
+
+      "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+
+      "introVideo": {
+        "url": "http://www.youtube.com/embed/9bZkp7q19f0?autoplay=1",
+        "thumbnail": "http://placehold.it/260x220"
+      },
+
+      "popularCourses": [
+        {
+          "title": "Introduction to Mobile Apps Development",
+          "price": "$99.00"
+        },
+        {
+          "title": "Become a Professional Film Maker",
+          "price": "Free"
+        }
+      ],
+
+      "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+    }
+  },
+  {
+    "heading": {
+      "title": "Koçlara Özel NLP Uygulama Eğitimi",
+      "backgroundImage": "url('images/banner/banner-1.jpg')"
+    },
+    "breadcrumb": {
+      "listItems": ["Anasayfa", "Kurs", "Koçlara Özel NLP Uygulama Eğitimi"]
+    },
+
+    "page": {
+      "id": "nlp-uygulama-egitimi",
+      "slug": "nlp-uygulama-egitimi",
+      "template": "course-single"
+    },
+
+    "seo": {
+      "title": "Koçlara Özel NLP Uygulama Eğitimi",
+      "description": "Koçlara Özel NLP Uygulama Eğitimi Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+    },
+
+    "content": {
+      "mainTitle": "Koçlara Özel NLP Uygulama Eğitimi",
+
+      "viewHeader": {
+        "author": {
+          "label": "Eğitmen",
+          "name": "Selcan Arslan",
+          "link": "about.html",
+          "image": {
+            "src": "images/Selcan-Arslan.jpg",
+            "alt": "Eğitmen Selcan Arslan"
+          }
+        },
+        "category": {
+          "label": "Kategori",
+          "value": "Programın Dili"
+        },
+        "rating": {
+          "value": 5,
+          "totalReviews": 5
+        }
+      },
+
+      "heroImage": {
+        "src": "images/NPL.jpg",
+        "alt": "Koçlara Özel NLP Uygulama Eğitimi"
+      },
+
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Koçlara Özel NLP Uygulama Eğitimi"
+        },
+
+        {
+          "type": "paragraph",
+          "text": "Koçlara Özel NLP Uygulama Eğitimi, koçluk süreçlerini derinleştirmek ve danışanlarda kalıcı dönüşüm yaratmak isteyen profesyonel koçlar için özel olarak tasarlanmış bir programdır. Bu eğitim, NLP’nin (Neuro-Linguistic Programming) güçlü araçlarını koçluk becerilerine entegre ederek daha etkili, sonuç odaklı ve içgörü kazandıran görüşmeler yapmanıza yardımcı olur. "
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Bu Eğitimle Neyi Hedefliyoruz?"
+        },
+        {
+          "type": "list",
+          "intro": "Bu eğitim sayesinde koçlar:",
+          "items": [
+            "NLP tekniklerini birebir koçluk seanslarına uygulayabilir,",
+            "Danışanın bilinçaltı kalıplarını fark edip dönüştürmesine yardımcı olabilir,",
+            "Duygu-düşünce-davranış zincirini çözümleyerek kalıcı değişim sağlayabilir,",
+            "Seanslarda derin içgörü ve netlik yaratmayı öğrenir,",
+            "Koçluk sürecinde bilinçli dil kullanımı ve yönlendirme becerilerini güçlendirir."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Eğitim İçeriği"
+        },
+        {
+          "type": "list",
+          "items": [
+            "NLP’ye giriş ve koçlukla entegrasyonu",
+            "Zihin haritaları ve temsil sistemleri",
+            "Inancı dönüştürme teknikleri (Reframing, Swish Pattern vb.)",
+            "Meta Model ve Milton Model kullanımı",
+            "Nörolojik düzeylerde değişim",
+            "NLP koçluk protokolleri ve örnek vaka çalışmaları",
+            "Pratik uygulama alanları ve süpervizyon"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kimler Katılmalı?"
+        },
+        {
+          "type": "list",
+          "items": ["ICF unvanlı ya da koçluk eğitimi almış profesyonel koçlar", "NLP’yi koçluk seanslarına entegre etmek isteyen uygulayıcılar", "Dönüşüm odaklı ve kısa sürede etki yaratan bir teknik arayanlar", "Koçluk seanslarında daha derin çalışmak isteyen danışmanlar, psikolojik danışmanlar"]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Neden Bu Eğitim?"
+        },
+        {
+          "type": "list",
+          "items": ["Koçlar için özel kurgulanmış içerik", "Teknik değil, uygulama odaklı öğrenme", "Gerçek vaka ve senaryo uygulamaları", "Etik ve profesyonel NLP anlayışı","Eğitim sonrası destek grubu ve kaynak paylaşımı"]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Önemli Bilgiler"
+        },
+        {
+          "type": "accordion",
+          "title": "Eğitim Sonunda Kazanımlarınız",
+          "items": [
+            {
+              "title": "NLP tekniklerini etik ve etkili şekilde kullanma yetkinliği",
+              "content": "Bu eğitim sonunda, NLP araçlarını manipülasyon amacıyla değil; danışanın hedefleri ve değerleri doğrultusunda, etik çerçevede kullanmayı öğrenirsiniz. Tekniklerin hangi durumda işe yarayıp hangi durumda yaramayacağını ayırt edebilir, bilinçli ve sorumluluk sahibi uygulamalar yapabilirsiniz."
+            },
+            {
+              "title": "Bilinçaltı değişimi tetikleyebilecek uygulamalı bilgi",
+              "content": "Sadece teorik kavramları değil, bilinçaltı kalıpları dönüştürmeye yönelik pratik egzersizleri deneyimleyerek öğrenirsiniz. İnanç, duygu ve davranış zincirini analiz edip müdahale noktalarını belirleyebilecek düzeye gelirsiniz."
+            },
+            {
+              "title": "NLP’yi danışan diline entegre edebilme becerisi",
+              "content": "Danışanın kullandığı kelimeler, metaforlar ve temsil sistemleri üzerinden iletişim kurmayı öğrenirsiniz. Böylece soyut teknikleri, danışanın dünyasında anlamlı ve etkili bir dile dönüştürme becerisi kazanırsınız."
+            },
+            {
+              "title": "Koçluk seanslarında dönüşüm hızını artıracak yöntemler",
+              "content": "Seans içinde hedef netleştirme, çerçeve değiştirme (reframing) ve kaynak durum aktivasyonu gibi yöntemlerle ilerlemeyi hızlandırabilirsiniz. Tıkanma yaşanan noktalarda alternatif müdahale stratejileri geliştirerek süreci daha verimli yönetebilirsiniz."
+            },
+            {
+              "title": "Katılım sertifikası ve uygulama rehberi",
+              "content": "Eğitim sonunda katılımınızı belgeleyen resmi bir sertifika alırsınız. Ayrıca öğrendiklerinizi sahada uygulayabilmeniz için adım adım örnek seans akışları ve pratik rehber dokümanlar sunulur."
+            }
+          ]
+        }
+      ],
+
+      "instructor": {
+        "name": "Selcan Arslan",
+        "title": "Sosyolog - Eğitim Uzmanı",
+        "image": {
+          "src": "images/Selcan-Arslan.jpg",
+          "alt": "Selcan Arslan"
+        },
+        "bio": "Uzmanlık alanı koçluk eğitimi ve sosyal bilimler."
+      },
+
+      "reviews": {
+        "total": 2,
+        "items": [
+          {
+            "author": "Sevim Akyüz",
+            "date": "2025-03-07",
+            "rating": 5,
+            "text": "Eğitim oldukça tatmin ediciydi."
+          },
+          {
+            "author": "Saim Demir",
+            "date": "2025-03-05",
+            "rating": 5,
+            "text": "İçerik çok açıklayıcıydı."
+          }
+        ]
+      }
+    },
+
+    "sidebar": {
+      "courseInfo": {
+        "price": "$570.00",
+        "students": 50,
+        "duration": "30 gün",
+        "lectures": 10,
+        "videoHours": 12,
+        "certificate": true
+      },
+
+      "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+
+      "introVideo": {
+        "url": "http://www.youtube.com/embed/9bZkp7q19f0?autoplay=1",
+        "thumbnail": "http://placehold.it/260x220"
+      },
+
+      "popularCourses": [
+        {
+          "title": "Introduction to Mobile Apps Development",
+          "price": "$99.00"
+        },
+        {
+          "title": "Become a Professional Film Maker",
+          "price": "Free"
+        }
+      ],
+
+      "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+    }
+  },
+  {
+    "heading": {
+      "title": "Koçlara Özel Beden Analiz Eğitimi",
+      "backgroundImage": "url('images/banner/banner-1.jpg')"
+    },
+    "breadcrumb": {
+      "listItems": ["Anasayfa", "Kurs", "Koçlara Özel Beden Analiz Eğitimi"]
+    },
+
+    "page": {
+      "id": "beden-analiz-egitimi",
+      "slug": "beden-analiz-egitimi",
+      "template": "course-single"
+    },
+
+    "seo": {
+      "title": "Koçlara Özel Beden Analiz Eğitimi",
+      "description": "Koçlara Özel Beden Analiz Eğitimi Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+    },
+
+    "content": {
+      "mainTitle": "Koçlara Özel Beden Analiz Eğitimi",
+
+      "viewHeader": {
+        "author": {
+          "label": "Eğitmen",
+          "name": "Selcan Arslan",
+          "link": "about.html",
+          "image": {
+            "src": "images/Selcan-Arslan.jpg",
+            "alt": "Eğitmen Selcan Arslan"
+          }
+        },
+        "category": {
+          "label": "Kategori",
+          "value": "Programın Dili"
+        },
+        "rating": {
+          "value": 5,
+          "totalReviews": 5
+        }
+      },
+
+      "heroImage": {
+        "src": "images/beden-dili.jpg",
+        "alt": "Koçlara Özel Beden Analiz Eğitimi"
+      },
+
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Koçlara Özel Beden Analiz Eğitimi"
+        },
+
+        {
+          "type": "paragraph",
+          "text": "Koçlara Özel Beden Analiz Eğitimi , koçluk görüşmelerinde sözcüklerin ötesine geçmek ve danışanın bilinçdışı sinyallerini okumayı öğrenmek isteyen koçlar için hazırlanmış özel bir programdır. Bu eğitimle, bedenin anlattığı hikâyeyi doğru analiz etmeyi, karşı tarafla daha derin ve etkili bağ kurmayı öğrenirsiniz. "
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Bu Eğitimle Neyi Hedefliyoruz?"
+        },
+        {
+          "type": "list",
+          "intro": "Eğitim, koçlara şu becerileri kazandırmayı amaçlar:",
+          "items": [
+            "Danışanın jest, mimik, duruş ve mikro ifadelerini okuyabilme",
+            "Söylenen ile hissedilen arasındaki farkı anlayabilme",
+            "Koçlukta sezgisel derinliği geliştirme",
+            "Empati, güven ve duygusal zeka gibi iletişim öğelerini güçlendirme",
+            "Sessiz mesajları fark ederek doğru soru sorma zamanını belirleme"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Eğitim İçeriği"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Beden dili teorisi: Evrensel jestler ve kültürel farklar",
+            "Mikro ifadeler ve duygusal sinyallerin çözümlemesi",
+            "Duruş, göz teması, ses tonu analizi",
+            "Beden dili ile koçlukta içgörü üretme teknikleri",
+            "Sessiz direnç ve kabul göstergelerinin ayırt edilmesi",
+            "Canlı vaka analizi ve pratik gözlem çalışmaları"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kimler Katılmalı?"
+        },
+        {
+          "type": "list",
+          "items": ["Profesyonel koçlar ve koçluk eğitimi almış bireyler", "Danışan-danışman ilişkisinde güveni ve içgörüyü derinleştirmek isteyenler", "Beden dili okuma becerilerini seanslara uygulamak isteyen NLP uzmanları, eğitmenler", "Duygusal zeka ve sezgisel iletişim becerilerini geliştirmek isteyen koçlar"]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Neden Bu Eğitim?"
+        },
+        {
+          "type": "list",
+          "items": ["Koçlara özel olarak tasarlanmıştır", "Teori değil, uygulama ve gözlem odaklıdır", "Etik sınırlar dahilinde sezgisel yetkinlik geliştirilir", "Koçlukta kalitenizi ve etkileyiciliğinizi artırır"]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Önemli Bilgiler"
+        },
+        {
+          "type": "accordion",
+          "title": "Eğitim Sonunda Kazanımlarınız",
+          "items": [
+            {
+              "title": "Sessiz mesajları çözümleyebilme becerisi",
+              "content": "Danışanın tonlama, duraksama, beden dili ve mikro ifadeleri gibi sözel olmayan ipuçlarını fark edebilir hale gelirsiniz. Böylece yalnızca anlatılan hikâyeyi değil, arka plandaki gerçek duygusal akışı da analiz edebilirsiniz."
+            },
+            {
+              "title": "Duygusal farkındalığı yüksek, sezgisel güçlü koçluk",
+              "content": "Kendi duygusal durumunuzu regüle etmeyi öğrenerek danışanın duygusal alanına daha net ve dengeli şekilde eşlik edebilirsiniz. Sezgiyi kör inanç gibi değil, gözlem ve deneyimle beslenen bilinçli bir farkındalık aracı olarak kullanırsınız."
+            },
+            {
+              "title": "İletişimin görünmeyen kısmını okuma yetkinliği",
+              "content": "Kelime seçimleri, metaforlar ve tekrar eden kalıplar üzerinden danışanın içsel haritasını çıkarabilirsiniz. Böylece yüzeydeki problem yerine, davranışı besleyen inanç ve anlam sistemine odaklanma becerisi kazanırsınız."
+            },
+            {
+              "title": "Koçluk seanslarında daha derin anlayış ve uyum",
+              "content": "Danışanla daha hızlı güven ve uyum (rapport) oluşturabilir, iletişim frekansınızı onunla bilinçli şekilde senkronize edebilirsiniz. Bu da seanslarda yüzeysel çözümler yerine kalıcı içgörülere ulaşmayı kolaylaştırır."
+            },
+            {
+              "title": "Katılım sertifikası ve pratik analiz rehberi",
+              "content": "Eğitim sonunda katılımınızı belgeleyen sertifika sunulur. Ayrıca, öğrendiklerinizi gerçek seanslarda sistemli şekilde uygulayabilmeniz için örnek analiz şablonları ve adım adım kullanım rehberi sağlanır."
+            }
+          ]
+        }
+      ],
+
+      "instructor": {
+        "name": "Selcan Arslan",
+        "title": "Sosyolog - Eğitim Uzmanı",
+        "image": {
+          "src": "images/Selcan-Arslan.jpg",
+          "alt": "Selcan Arslan"
+        },
+        "bio": "Uzmanlık alanı koçluk eğitimi ve sosyal bilimler."
+      },
+
+      "reviews": {
+        "total": 2,
+        "items": [
+          {
+            "author": "Sevim Akyüz",
+            "date": "2025-03-07",
+            "rating": 5,
+            "text": "Eğitim oldukça tatmin ediciydi."
+          },
+          {
+            "author": "Saim Demir",
+            "date": "2025-03-05",
+            "rating": 5,
+            "text": "İçerik çok açıklayıcıydı."
+          }
+        ]
+      }
+    },
+
+    "sidebar": {
+      "courseInfo": {
+        "price": "$570.00",
+        "students": 50,
+        "duration": "30 gün",
+        "lectures": 10,
+        "videoHours": 12,
+        "certificate": true
+      },
+
+      "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+
+      "introVideo": {
+        "url": "http://www.youtube.com/embed/9bZkp7q19f0?autoplay=1",
+        "thumbnail": "http://placehold.it/260x220"
+      },
+
+      "popularCourses": [
+        {
+          "title": "Introduction to Mobile Apps Development",
+          "price": "$99.00"
+        },
+        {
+          "title": "Become a Professional Film Maker",
+          "price": "Free"
+        }
+      ],
+
+      "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+    }
+  },
+  {
+    "heading": {
+      "title": "PCC/MCC Sınav Mentörlüğü",
+      "backgroundImage": "url('images/banner/banner-1.jpg')"
+    },
+    "breadcrumb": {
+      "listItems": ["Anasayfa", "Kurs", "PCC/MCC Sınav Mentörlüğü"]
+    },
+
+    "page": {
+      "id": "pcc-mcc-sinav-mentorlugu",
+      "slug": "pcc-mcc-sinav-mentorlugu",
+      "template": "course-single"
+    },
+
+    "seo": {
+      "title": "PCC/MCC Sınav Mentörlüğü",
+      "description": "PCC/MCC Sınav Mentörlüğü Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+    },
+
+    "content": {
+      "mainTitle": "PCC/MCC Sınav Mentörlüğü",
+
+      "viewHeader": {
+        "author": {
+          "label": "Eğitmen",
+          "name": "Selcan Arslan",
+          "link": "about.html",
+          "image": {
+            "src": "images/Selcan-Arslan.jpg",
+            "alt": "Eğitmen Selcan Arslan"
+          }
+        },
+        "category": {
+          "label": "Kategori",
+          "value": "Programın Dili"
+        },
+        "rating": {
+          "value": 5,
+          "totalReviews": 5
+        }
+      },
+
+      "heroImage": {
+        "src": "images/sinav-metorlugu.jpg",
+        "alt": "PCC/MCC Sınav Mentörlüğü"
+      },
+
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "PCC/MCC Sınav Mentörlüğü"
+        },
+
+        {
+          "type": "paragraph",
+          "text": "PCC / MCC Sınav Mentörlüğü, ICF’in profesyonel (PCC) ve usta seviye (MCC) unvanlarına başvuran koçlar için özel olarak tasarlanmış birebir ve grup destek programıdır. Bu süreç, ses kaydı analizi, yetkinlik geri bildirimi, etik değerlendirme ve sınav hazırlığı gibi tüm adımlarda profesyonel bir mentörle birlikte ilerlemenizi sağlar."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Neden Sınav Mentörlüğü Almalıyım?"
+        },
+        {
+          "type": "list",
+          "intro": "PCC ya da MCC sürecinde:",
+          "items": [
+            "ICF’in 8 temel koçluk yetkinliğine ustalık düzeyinde hâkimiyet gerekir",
+           " Ses kayıtlarının yetkinlik bazlı analiz edilmesi önemlidir",
+            "ICF’in beklentileri ve değerlendirme kriterleri hakkında net farkındalık gerekir",
+            "Bu süreçte yalnız ilerlemek zaman kaybı ve geri dönüş riski doğurabilir",
+            "Mentörlük desteği, bu süreci stratejik ve etkili şekilde tamamlamanızı sağlar"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Mentörlük Programının İçeriği"
+        },
+        {
+          "type": "list",
+          "items": [
+           "ICF Seviye 2 veya 3 yolculuğunuzun analizi",
+            "PCC veya MCC seviyesinde yetkinlik odaklı geri bildirimler",
+            "Ses kaydı dinleme, çözümleme ve geliştirme çalışmaları",
+            "ICF sınav kriterlerine uygun uygulama çalışmaları",
+            "Etik değerlendirmeler ve vaka analizi",
+            "Yazılı sınava hazırlık stratejileri",
+            "10 saat mentor koçluk saatinin belgeye yansıması (ICF geçerli)"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kimler Katılabilir?"
+        },
+        {
+          "type": "list",
+          "items": [
+          "ICF PCC ya da MCC unvanına başvurmak isteyen koçlar",
+          "Başvurusunu yapmış fakat destek almak isteyen adaylar",
+          "ICF Seviye 2 veya Seviye 3 eğitimini tamamlamış koçlar",
+          "Ses kayıtları ve yazılı sınav için kendini geliştirmek isteyen koçlar"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Önemli Bilgiler"
+        },
+        {
+          "type": "accordion",
+          "title": "Mentörlükten Neler Kazanırsınız?",
+          "items": [
+            {
+              "title": "Uygun ve etkili ses kayıtları oluşturma becerisi",
+              "content": "ICF kriterlerine uygun, yapılandırılmış ve profesyonel düzeyde koçluk ses kayıtları hazırlamayı öğrenirsiniz. Seans akışınızı, soru kalitenizi ve koçluk varlığınızı bilinçli şekilde optimize edebilirsiniz."
+            },
+            {
+              "title": "Yetkinliklerde güçlü ve gelişime açık yönlerin net analizi",
+              "content": "International Coaching Federation yetkinlik çerçevesine göre performansınız detaylı biçimde değerlendirilir. Hangi alanlarda güçlü olduğunuzu ve hangi mikro becerileri geliştirmeniz gerektiğini somut örneklerle görürsünüz."
+            },
+            {
+              "title": "Yazılı sınava güvenle hazırlanma",
+              "content": "ICF bilgi sınavının mantığını, soru tiplerini ve değerlendirme yaklaşımını anlayarak sistemli şekilde hazırlanırsınız. Sadece ezber değil, kavramsal netlik kazanarak sınavı daha kontrollü bir zihinle tamamlarsınız."
+            },
+            {
+              "title": "Geri bildirim kültürüyle koçluk becerilerinde sıçrama",
+              "content": "Yapıcı, yapılandırılmış ve ölçüt temelli geri bildirim alarak koçluk kaslarınızı güçlendirirsiniz. Savunmaya geçmeden öğrenmeyi, her seansı gelişim fırsatına dönüştürmeyi öğrenirsiniz."
+            },
+            {
+              "title": "ICF geçerli mentörlük saatleri ile unvan dosyasının tamamlanması",
+              "content": "ICF standartlarına uygun mentörlük saatlerinizi resmi olarak tamamlarsınız. Böylece unvan başvuru sürecinde gerekli dosya ve saat gerekliliklerini eksiksiz yerine getirme avantajı elde edersiniz."
+            }
+          ]
+        }
+      ],
+
+      "instructor": {
+        "name": "Selcan Arslan",
+        "title": "Sosyolog - Eğitim Uzmanı",
+        "image": {
+          "src": "images/Selcan-Arslan.jpg",
+          "alt": "Selcan Arslan"
+        },
+        "bio": "Uzmanlık alanı koçluk eğitimi ve sosyal bilimler."
+      },
+
+      "reviews": {
+        "total": 2,
+        "items": [
+          {
+            "author": "Sevim Akyüz",
+            "date": "2025-03-07",
+            "rating": 5,
+            "text": "Eğitim oldukça tatmin ediciydi."
+          },
+          {
+            "author": "Saim Demir",
+            "date": "2025-03-05",
+            "rating": 5,
+            "text": "İçerik çok açıklayıcıydı."
+          }
+        ]
+      }
+    },
+
+    "sidebar": {
+      "courseInfo": {
+        "price": "$570.00",
+        "students": 50,
+        "duration": "30 gün",
+        "lectures": 10,
+        "videoHours": 12,
+        "certificate": true
+      },
+
+      "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+
+      "introVideo": {
+        "url": "http://www.youtube.com/embed/9bZkp7q19f0?autoplay=1",
+        "thumbnail": "http://placehold.it/260x220"
+      },
+
+      "popularCourses": [
+        {
+          "title": "Introduction to Mobile Apps Development",
+          "price": "$99.00"
+        },
+        {
+          "title": "Become a Professional Film Maker",
+          "price": "Free"
+        }
+      ],
+
+      "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+    }
+  },
+  {
+    "heading": {
+      "title": "Eğiticinin Eğitimi",
+      "backgroundImage": "url('images/banner/banner-1.jpg')"
+    },
+    "breadcrumb": {
+      "listItems": ["Anasayfa", "Kurs", "Eğiticinin Eğitimi"]
+    },
+
+    "page": {
+      "id": "egiticinin-egitimi",
+      "slug": "egiticinin-egitimi",
+      "template": "course-single"
+    },
+
+    "seo": {
+      "title": "Eğiticinin Eğitimi",
+      "description": "Eğiticinin Eğitimi Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+    },
+
+    "content": {
+      "mainTitle": "Eğiticinin Eğitimi",
+
+      "viewHeader": {
+        "author": {
+          "label": "Eğitmen",
+          "name": "Selcan Arslan",
+          "link": "about.html",
+          "image": {
+            "src": "images/Selcan-Arslan.jpg",
+            "alt": "Eğitmen Selcan Arslan"
+          }
+        },
+        "category": {
+          "label": "Kategori",
+          "value": "Programın Dili"
+        },
+        "rating": {
+          "value": 5,
+          "totalReviews": 5
+        }
+      },
+
+      "heroImage": {
+        "src": "images/egiticinin-egitimi.jpg",
+        "alt": "Eğiticinin Eğitimi"
+      },
+
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Eğiticinin Eğitimi"
+        },
+
+        {
+          "type": "paragraph",
+          "text": "Eğiticinin Eğitimi, uzmanlık bilgilerini başkalarına etkili bir şekilde aktarmak isteyen koçlar, danışmanlar, eğitmen adayları ve eğitim profesyonelleri için tasarlanmış kapsamlı bir gelişim programıdır. Bu eğitimle, katılımcılar hem yetişkin öğrenme ilkelerini hem de sahnede güçlü ve ilham verici bir duruş sergilemeyi öğrenir."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Eğitimin Amacı Nedir?"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Katılımcıların eğitici kimliğini profesyonelleştirmek",
+            "Bilgiyi etkili, sade ve kalıcı şekilde sunabilmeyi öğretmek",
+            "Farklı öğrenme stillerine uygun anlatım becerisi kazandırmak",
+            "Sunum tekniklerini geliştirmek ve etkileşimi artırmak",
+            "Eğitmen olarak güven, akış ve sahne hâkimiyeti sağlamak"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": " Programının İçeriği"
+        },
+        {
+          "type": "list",
+          "items": [
+           "Yetişkin öğrenme psikolojisi ve eğitici rolleri",
+            "Eğitim tasarımı ve içerik yapılandırma",
+            "Farklı öğrenme stilleriyle uyumlu yöntemler",
+            "Etkileşimli eğitim teknikleri (soru sorma, oyunlaştırma, grup çalışması)",
+            "Sahne duruşu, ses ve beden dili kullanımı",
+            "Zor katılımcılarla baş etme ve kriz yönetimi",
+            "Uygulamalı sunum, geri bildirim ve mentörlük"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kimler Katılmalı?"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Kurumsal ya da bireysel eğitim vermek isteyen koçlar",
+            "Online veya yüz yüze eğitim planlayan uzmanlar",
+            "Etkili sunum, iletişim ve grup yönetimi becerilerini geliştirmek isteyenler",
+            "Eğitim içeriği oluşturma ve sunma konusunda profesyonelleşmek isteyen herkes"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Önemli Bilgiler"
+        },
+        {
+          "type": "accordion",
+          "title": "Eğitim Kazanımları",
+          "items": [
+            {
+              "title": "Öğrenmeye uygun içerik üretme ve sunma becerisi",
+              "content": "Bilgiyi sadece aktarmak yerine, yetişkin öğrenme prensiplerine uygun şekilde yapılandırmayı öğrenirsiniz. İçeriği hedef kitleye göre sadeleştirme, örneklendirme ve akış tasarlama becerisi kazanırsınız."
+            },
+            {
+              "title": "Etkileyici bir sahne dili ve sunum yetkinliği",
+              "content": "Ses tonu, beden dili, duruş ve vurgu kullanımını bilinçli şekilde yönetmeyi öğrenirsiniz. Sahne hâkimiyetinizi artırarak mesajınızın hem zihinsel hem duygusal düzeyde etkili olmasını sağlarsınız."
+            },
+            {
+              "title": "Katılımcı odaklı, etkileşimli ve dinamik eğitim yapısı kurabilme",
+              "content": "Tek yönlü anlatım yerine, soru–cevap, uygulama ve grup çalışmalarıyla katılımcıyı sürecin içine çeken bir yapı tasarlayabilirsiniz. Böylece öğrenme pasif dinleme değil, aktif deneyim üzerinden gerçekleşir."
+            },
+            {
+              "title": "Eğitim sonrası güçlü geri bildirim alma ve gelişimi sürdürme becerisi",
+              "content": "Yapıcı geri bildirimi savunmaya geçmeden analiz etmeyi ve bunu gelişim planına dönüştürmeyi öğrenirsiniz. Her eğitim deneyimini performans iyileştirme fırsatına çevirme alışkanlığı kazanırsınız."
+            },
+            {
+              "title": "Katılım sertifikası ve bireysel uygulama değerlendirmesi",
+              "content": "Eğitim sonunda katılımınızı belgeleyen sertifika sunulur. Ayrıca bireysel sunum veya uygulama performansınız değerlendirilerek kişisel gelişim alanlarınıza dair somut geri bildirim sağlanır."
+            }
+          ]
+        }
+      ],
+
+      "instructor": {
+        "name": "Selcan Arslan",
+        "title": "Sosyolog - Eğitim Uzmanı",
+        "image": {
+          "src": "images/Selcan-Arslan.jpg",
+          "alt": "Selcan Arslan"
+        },
+        "bio": "Uzmanlık alanı koçluk eğitimi ve sosyal bilimler."
+      },
+
+      "reviews": {
+        "total": 2,
+        "items": [
+          {
+            "author": "Sevim Akyüz",
+            "date": "2025-03-07",
+            "rating": 5,
+            "text": "Eğitim oldukça tatmin ediciydi."
+          },
+          {
+            "author": "Saim Demir",
+            "date": "2025-03-05",
+            "rating": 5,
+            "text": "İçerik çok açıklayıcıydı."
+          }
+        ]
+      }
+    },
+
+    "sidebar": {
+      "courseInfo": {
+        "price": "$570.00",
+        "students": 50,
+        "duration": "30 gün",
+        "lectures": 10,
+        "videoHours": 12,
+        "certificate": true
+      },
+
+      "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+
+      "introVideo": {
+        "url": "http://www.youtube.com/embed/9bZkp7q19f0?autoplay=1",
+        "thumbnail": "http://placehold.it/260x220"
+      },
+
+      "popularCourses": [
+        {
+          "title": "Introduction to Mobile Apps Development",
+          "price": "$99.00"
+        },
+        {
+          "title": "Become a Professional Film Maker",
+          "price": "Free"
+        }
+      ],
+
+      "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+    }
+  },
+   {
+     "heading": {
+       "title": "Kendini Tanıma Eğitimi",
+       "backgroundImage": "url('images/banner/banner-1.jpg')"
+     },
+     "breadcrumb": {
+       "listItems": ["Anasayfa", "Kurs", "Kendini Tanıma Eğitimi"]
+     },
+
+     "page": {
+       "id": "kendini-tanima-egitimi",
+       "slug": "kendini-tanima-egitimi",
+       "template": "course-single"
+     },
+
+     "seo": {
+       "title": "Kendini Tanıma Eğitimi",
+       "description": "Kendini Tanıma Eğitimi Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+     },
+
+     "content": {
+       "mainTitle": "Kendini Tanıma Eğitimi",
+
+       "viewHeader": {
+         "author": {
+           "label": "Eğitmen",
+           "name": "Selcan Arslan",
+           "link": "about.html",
+           "image": {
+             "src": "images/Selcan-Arslan.jpg",
+             "alt": "Eğitmen Selcan Arslan"
+           }
+         },
+         "category": {
+           "label": "Kategori",
+           "value": "Programın Dili"
+         },
+         "rating": {
+           "value": 5,
+           "totalReviews": 5
+         }
+       },
+
+       "heroImage": {
+         "src": "images/kendini-tanima.jpg",
+         "alt": "Kendini Tanıma Eğitimi"
+       },
+
+       "blocks": [
+         {
+           "type": "heading",
+           "level": 3,
+           "text": "Kendini Tanıma Eğitimi"
+         },
+
+         {
+           "type": "paragraph",
+           "text": "Jung Temelli Astroloji Yoluyla Kendini Tanıma Eğitimi, Carl Gustav Jung’un psikolojik tipolojileriyle astrolojik sembolleri birleştiren, içsel farkındalık odaklı bir eğitimdir. Bu özel eğitimde, doğum haritanız üzerinden kişilik yapınızı, bilinçaltı eğilimlerinizi ve potansiyel dönüşüm alanlarınızı tanıyarak kendinize yepyeni bir pencereden bakmayı öğreneceksiniz."
+         },
+         {
+           "type": "heading",
+           "level": 3,
+           "text": "Eğitimin Amacı Nedir?"
+         },
+         {
+           "type": "list",
+           "intro" :"Bu eğitimle katılımcılar:",
+           "items": [
+             "Kendi psikolojik haritalarını çözümlemeyi öğrenir",
+              "Astrolojik arketipleri Jung’un kişilik kuramıyla ilişkilendirir",
+              "Gölgeleriyle yüzleşme ve içsel kaynaklarını keşfetme fırsatı bulur",
+              "Öz farkındalık geliştirerek duygusal ve zihinsel denge kazanır",
+              "Kendiyle ve çevresiyle daha bilinçli ilişkiler kurar"
+           ]
+         },
+         {
+           "type": "heading",
+           "level": 3,
+           "text": " Programının İçeriği"
+         },
+         {
+           "type": "list",
+           "items": [
+             "Jung’un 4 psikolojik işlevi (Düşünce, Duygu, Duyum, Sezgi)",
+              "12 burcun psikolojik tiplerle eşleştirilmesi",
+              "Gölge arketipi ve içsel çatışmalar",
+              "Doğum haritası üzerinden kendini tanıma uygulamaları",
+              "Elementler, modaliteler ve persona-gölge dengesi",
+              "İçsel çocuk, ana arketipler, bireyleşme yolculuğu",
+              "Psikolojik astrolojinin dönüşüm gücü"
+           ]
+         },
+         {
+           "type": "heading",
+           "level": 3,
+           "text": "Kimler Katılmalı?"
+         },
+         {
+           "type": "list",
+           "items": ["Kendi içsel dünyasını derinlemesine anlamak isteyen bireyler",
+                  "Koçlar, danışmanlar ve psikolojiyle ilgilenen profesyoneller",
+                  "Astrolojiyi sadece öngörü değil, iç görü aracı olarak kullanmak isteyenler",
+                  "İlişkilerde, kariyerde veya yaşam yönünde netleşmek isteyen herkes"]
+         },
+         {
+           "type": "heading",
+           "level": 2,
+           "text": "Önemli Bilgiler"
+         },
+         {
+           "type": "accordion",
+           "title": "Eğitim Kazanımları",
+           "items": [
+             {
+               "title": "Kendinize dair derin iç görü",
+               "content": "Doğum haritasındaki temaları birer kader hükmü gibi değil, kişilik dinamiklerini düşünmek için bir ayna olarak ele alırsınız. Güçlü eğilimlerinizi, tekrar eden yaşam temalarınızı ve motivasyon kaynaklarınızı daha bilinçli analiz edebilirsiniz."
+             },
+             {
+               "title": "Astrolojik sembolleri psikolojik olarak yorumlayabilme becerisi",
+               "content": "Gezegen, burç ve ev kavramlarını literal değil, arketipsel (evrensel sembolik kalıplar) düzeyde okumayı öğrenirsiniz. Böylece sembolleri davranış kalıpları, ihtiyaçlar ve içsel çatışmalar üzerinden anlamlandırabilirsiniz."
+             },
+             {
+               "title": "Kendi gölge yönlerinizi dönüştürme adımları",
+               "content": "Zorlayıcı yerleşimleri “problem” olarak etiketlemek yerine, bastırılmış potansiyeller olarak değerlendirmeyi öğrenirsiniz. Farkındalık, kabul ve bilinçli davranış değişikliği adımlarıyla bu alanları daha dengeli şekilde yönetebilirsiniz."
+             },
+             {
+               "title": "Kendinizle ve başkalarıyla iletişimde şeffaflık ve farkındalık",
+               "content": "Kendi tetikleyicilerinizi ve savunma mekanizmalarınızı daha net tanıyarak ilişkilerde daha açık bir iletişim kurabilirsiniz. Empati kapasiteniz artar; farklı karakter yapılarını daha az yargılayarak anlamaya başlarsınız."
+             },
+             {
+               "title": "Katılım sertifikası ve kişisel harita analiz dosyası",
+               "content": "Eğitim sonunda katılımınızı belgeleyen sertifika sunulur. Ayrıca doğum haritanızın psikolojik temelli yorumlarını içeren kişisel analiz dosyası, öğrendiklerinizi somutlaştırmanızı sağlar."
+             }
+           ]
+         }
+       ],
+
+       "instructor": {
+         "name": "Selcan Arslan",
+         "title": "Sosyolog - Eğitim Uzmanı",
+         "image": {
+           "src": "images/Selcan-Arslan.jpg",
+           "alt": "Selcan Arslan"
+         },
+         "bio": "Uzmanlık alanı koçluk eğitimi ve sosyal bilimler."
+       },
+
+       "reviews": {
+         "total": 2,
+         "items": [
+           {
+             "author": "Sevim Akyüz",
+             "date": "2025-03-07",
+             "rating": 5,
+             "text": "Eğitim oldukça tatmin ediciydi."
+           },
+           {
+             "author": "Saim Demir",
+             "date": "2025-03-05",
+             "rating": 5,
+             "text": "İçerik çok açıklayıcıydı."
+           }
+         ]
+       }
+     },
+
+     "sidebar": {
+       "courseInfo": {
+         "price": "$570.00",
+         "students": 50,
+         "duration": "30 gün",
+         "lectures": 10,
+         "videoHours": 12,
+         "certificate": true
+       },
+
+       "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+
+       "introVideo": {
+         "url": "http://www.youtube.com/embed/9bZkp7q19f0?autoplay=1",
+         "thumbnail": "http://placehold.it/260x220"
+       },
+
+       "popularCourses": [
+         {
+           "title": "Introduction to Mobile Apps Development",
+           "price": "$99.00"
+         },
+         {
+           "title": "Become a Professional Film Maker",
+           "price": "Free"
+         }
+       ],
+
+       "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+     }
+   }
+]
+}
+
+
