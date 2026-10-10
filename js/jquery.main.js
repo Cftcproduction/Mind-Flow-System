@@ -191,7 +191,7 @@ $(document).ready(function () {
   initCountDown();
   // count down init
   function initCountDown() {
-    var newDate = new Date(2026, 10, 22);
+		var newDate = new Date(2026, 9, 22);
 
     jQuery("#defaultCountdown").countdown({ until: newDate });
   }
