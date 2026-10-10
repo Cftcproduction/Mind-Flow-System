@@ -52,6 +52,16 @@ async function renderCourse(data) {
   const dataContent = data.content;
   document.getElementById("courseTitle").textContent = dataContent.mainTitle;
 
+  // Preselect the current course in the consultation form.
+  const programSelect = document.getElementById("course-consultation-program");
+  if (programSelect) {
+    const currentProgram = String(dataContent.mainTitle || "").trim();
+    const matchingOption = Array.from(programSelect.options).find(
+      option => option.value === currentProgram
+    );
+    if (matchingOption) programSelect.value = matchingOption.value;
+  }
+
   // instructor image and name
   const { src, alt } = dataContent.viewHeader.author.image;
 
@@ -172,7 +182,7 @@ async function renderCourse(data) {
     }
 
     // Çalıştır
-    buildAccordionFromCourse("./data/courses.json")
+    await buildAccordionFromCourse("./data/courses.json")
 
     // =====================================================
     // COURSE SINGLE (accordion'dan sonrası)
@@ -484,5 +494,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   } catch (err) {
     console.error("initCoursePage error", err);
     // optionally show a user-friendly message or redirect
+  } finally {
+    const main = document.getElementById("main");
+    if (main) main.classList.remove("is-loading");
   }
 });

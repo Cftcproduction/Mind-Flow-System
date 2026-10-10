@@ -136,7 +136,11 @@
       </div>
     </header>
     <!-- contain main informative part of the site -->
-    <main id="main">
+    <main id="main" class="course-page-main is-loading">
+      <div id="coursePageLoader" class="course-page-loader" role="status" aria-live="polite">
+        <span class="course-page-spinner" aria-hidden="true"></span>
+        <span>Kurs bilgileri yükleniyor...</span>
+      </div>
       <!-- heading banner -->
       <header class="heading-banner text-white bgCover" id="headingBg" style="background-image: url()">
         <div class="container holder">
@@ -225,6 +229,51 @@
             </div>
             <div class="panel-group sectionRowPanelGroup" id="accordion"></div>
 
+            <!-- COURSE APPLICATION FORM -->
+            <section class="course-consultation-section" aria-labelledby="course-consultation-title">
+              <div class="free-consultation-card course-consultation-card">
+                <span class="free-consultation-badge">ÜCRETSİZ&nbsp;&nbsp;GÖRÜŞME</span>
+                <h2 id="course-consultation-title">Sizi Arayalım</h2>
+                <p class="free-consultation-intro">Formu doldurun, uzman danışmanımız <strong>24 saat içinde</strong>
+                  sizi arayarak program detaylarını ve sizin için en uygun seviyeyi paylaşsın.</p>
+                <form class="free-consultation-form" action="contact.html" method="get">
+                  <div class="free-consultation-field free-consultation-field-full">
+                    <label for="course-consultation-name">Ad Soyad <span>*</span></label>
+                    <input id="course-consultation-name" name="name" type="text" placeholder="Adınız Soyadınız"
+                      required>
+                  </div>
+                  <div class="free-consultation-field">
+                    <label for="course-consultation-phone">Telefon <span>*</span></label>
+                    <input id="course-consultation-phone" name="phone" type="tel" placeholder="05XX XXX XX XX" required>
+                  </div>
+                  <div class="free-consultation-field">
+                    <label for="course-consultation-email">E-Posta <span>*</span></label>
+                    <input id="course-consultation-email" name="email" type="email" placeholder="ornek@mail.com"
+                      required>
+                  </div>
+                  <div class="free-consultation-field free-consultation-field-full">
+                    <label for="course-consultation-program">İlgilendiğiniz Program <span>*</span></label>
+                    <select id="course-consultation-program" name="program" required>
+                      <option value="">Seçim Yapın</option>
+                      <option value="ICF Level 1">ICF Level 1</option>
+                      <option value="ICF Level 2">ICF Level 2</option>
+                      <option value="MYK Koç Seviye 6">MYK Koç Seviye 6</option>
+                      <option value="NLP Koçluk Eğitimi">NLP Koçluk Eğitimi</option>
+                      <option value="MYK Eğitim Uzmanı Seviye 6">MYK Eğitim Uzmanı Seviye 6</option>
+                      <option value="MFS - Performans Koçluğu ve Liderlik">MFS - Performans Koçluğu ve Liderlik</option>
+                      <option value="Eğiticinin Eğitimi">Eğiticinin Eğitimi</option>
+                      <option value="Kendini Tanıma Eğitimi">Kendini Tanıma Eğitimi</option>
+                    </select>
+                  </div>
+                  <button class="free-consultation-submit" type="submit">Sizi Arayalım <span
+                      aria-hidden="true">→</span></button>
+                </form>
+                <p class="free-consultation-privacy"><span aria-hidden="true">🔒</span> Bilgileriniz yalnızca size
+                  ulaşmak
+                  için kullanılır. KVKK kapsamında korunur.</p>
+              </div>
+            </section>
+
             <!-- BOOKMARK FOOT -->
             <div id="courseBookmarkFooter" class="bookmarkFoot">
               <div class="bookmarkCol">
@@ -238,9 +287,9 @@
                 </ul>
               </div>
 
-              <div class="bookmarkCol text-right">
+              <!-- <div class="bookmarkCol text-right">
                 <a id="courseCTA" href="#" class="btn btn-theme btn-warning text-uppercase fw-bold"> Kursa Kayıt Ol </a>
-              </div>
+              </div> -->
             </div>
 
             <!-- INSTRUCTOR -->
