@@ -7919,12 +7919,89 @@ form .star-rating .customFormReset:checked + label {
   margin-bottom: 10px;
 }
 
+/* Remove the empty price wrapper as well as the hidden price label. */
+#content > .row.flex-wrap > [class*="col-"] > .popular-post > div:has(.price-tag) {
+  display: none;
+}
+
 #content > .row.flex-wrap > [class*="col-"] > .popular-post .post-author {
-  min-height: 52px;
+  min-height: 44px;
 }
 
 #content > .row.flex-wrap > [class*="col-"] > .popular-post .post-foot {
-  /* margin-top: 10px; */
+  /* margin-top: 6px; */
+  min-height: 58px;
+  height: 58px;
+  padding: 0 20px;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  gap: 8px;
+}
+
+#content > .row.flex-wrap > [class*="col-"] > .popular-post .post-statuses-list {
+  flex-wrap: nowrap;
+  min-width: 0;
+}
+
+#content > .row.flex-wrap > [class*="col-"] > .popular-post .star-rating {
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
+/* Match the homepage "En Popüler Kurslar" cards to the course-list cards. */
+.popular-posts-slider .popular-post {
+  margin-bottom: 0;
+}
+
+/* Slick gives each slide its own natural height by default. Stretch the
+   slides to the tallest card so every footer lands on the same baseline. */
+.popular-posts-slider .slick-track {
+  display: flex;
+  align-items: stretch;
+}
+
+.popular-posts-slider .slick-slide {
+  height: auto;
+  display: flex;
+}
+
+.popular-posts-slider .slick-slide > div {
+  width: 100%;
+  display: flex;
+}
+
+.popular-posts-slider .slick-slide .col-xs-12,
+.popular-posts-slider .slick-slide .popular-post {
+  height: 100%;
+}
+
+.popular-posts-slider .popular-post .post-heading {
+  min-height: 0;
+  margin-bottom: 10px;
+}
+
+.popular-posts-slider .popular-post .post-author {
+  min-height: 44px;
+}
+
+.popular-posts-slider .popular-post .post-foot {
+  margin-top: 6px;
+  min-height: 58px;
+  height: 58px;
+  padding: 0 20px;
+  flex-wrap: nowrap;
+  white-space: nowrap;
+  gap: 8px;
+}
+
+.popular-posts-slider .popular-post .post-statuses-list {
+  flex-wrap: nowrap;
+  min-width: 0;
+}
+
+.popular-posts-slider .popular-post .star-rating {
+  flex: 0 0 auto;
+  white-space: nowrap;
 }
 
 /* Homepage-only free consultation form. */
@@ -8129,7 +8206,7 @@ form .star-rating .customFormReset:checked + label {
   -ms-flex-align: center;
   align-items: center;
   overflow: hidden;
-  margin-bottom: 24px;
+  /* margin-bottom: 24px; */
 }
 
 .post-author .alignleft {

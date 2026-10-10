@@ -993,11 +993,11 @@
   },
   {
     "heading": {
-      "title": "Mind Flow System - Performans Koçluğu ve Liderlik",
+      "title": "MFS - Performans Koçluğu ve Liderlik",
       "backgroundImage": "url('images/banner/banner-1.jpg')"
     },
     "breadcrumb": {
-      "listItems": ["Anasayfa", "Kurs", "Mind Flow System - Performans Koçluğu ve Liderlik"]
+      "listItems": ["Anasayfa", "Kurs", "MFS - Performans Koçluğu ve Liderlik"]
     },
 
     "page": {
@@ -1007,12 +1007,12 @@
     },
 
     "seo": {
-      "title": "Mind Flow System - Performans Koçluğu ve Liderlik",
-      "description": "Mind Flow System - Performans Koçluğu ve Liderlik Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+      "title": "MFS - Performans Koçluğu ve Liderlik",
+      "description": "MFS - Performans Koçluğu ve Liderlik Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
     },
 
     "content": {
-      "mainTitle": "Mind Flow System - Performans Koçluğu ve Liderlik",
+      "mainTitle": "MFS - Performans Koçluğu ve Liderlik",
 
       "viewHeader": {
         "author": {
@@ -1036,14 +1036,14 @@
 
       "heroImage": {
         "src": "images/sinav-metorlugu.jpg",
-        "alt": "Mind Flow System - Performans Koçluğu ve Liderlik"
+        "alt": "MFS - Performans Koçluğu ve Liderlik"
       },
 
       "blocks": [
         {
           "type": "heading",
           "level": 3,
-          "text": "Mind Flow System - Performans Koçluğu ve Liderlik"
+          "text": "MFS - Performans Koçluğu ve Liderlik"
         },
 
         {
