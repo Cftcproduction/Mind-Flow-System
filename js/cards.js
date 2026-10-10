@@ -1,25 +1,25 @@
-const temp = document.getElementById('template')
+const temp = document.getElementById("template");
 let coursesObj = null;
 
-fetch("data/courses.json").then(response =>{
-    if(!response.ok){throw new Error("Json yüklenemedi")}
-    return response.json()})
-.then(data =>{ 
+fetch("data/courses.json")
+  .then((response) => {
+    if (!response.ok) {
+      throw new Error("Json yüklenemedi");
+    }
+    return response.json();
+  })
+  .then((data) => {
     console.log(data);
-    const course = data.courses.find(c => 
-       c.page.slug 
+    const course = data.courses.find((c) => c.page.slug);
+    console.log(course);
 
-    )
-console.log(course);
+    coursesObj = {
+      title: course.heading.title,
+      price: course.sidebar.courseInfo.price,
+      heroImage: course.content.heroImage.src,
+    };
 
-
-coursesObj = {
-  title: course.heading.title,
-  price: course.sidebar.courseInfo.price,
-  heroImage: course.content.heroImage.src
-}
-
-const templateCard = `
+    const templateCard = `
 <article class="popular-post">
                     <div class="aligncenter">
                       <img src="${coursesObj.heroImage}" alt="${coursesObj.title}">
@@ -30,9 +30,9 @@ const templateCard = `
                     <h3 class="post-heading"><a href="course-single-temp.html?slug=egiticinin-egitimi" tabindex="-1">${coursesObj.title}</a></h3>
                     <div class="post-author">
                       <div class="alignleft no-shrink rounded-circle">
-                        <a href="instructor-single.html" tabindex="-1"><img src="images/Selcan-Arslan.jpg" class="rounded-circle" alt="image description"></a>
+                        <a href="about.html" tabindex="-1"><img src="images/Selcan-Arslan.jpg" class="rounded-circle" alt="image description"></a>
                       </div>
-                      <h4 class="author-heading"><a href="instructor-single.html" tabindex="-1">Selcan Arslan</a></h4>
+                      <h4 class="author-heading"><a href="about.html" tabindex="-1">Selcan Arslan</a></h4>
                     </div>
                     <footer class="post-foot gutter-reset">
                       <ul class="list-unstyled post-statuses-list">
@@ -68,7 +68,7 @@ const templateCard = `
                       </ul>
                     </footer>
                   </article>
-`
+`;
 
-temp.innerHTML = templateCard
-})
+    temp.innerHTML = templateCard;
+  });
