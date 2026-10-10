@@ -41,11 +41,24 @@ async function renderCourse(data) {
   const { listItems } = data.breadcrumb;
   const breadCrumb = document.getElementById("js-breadcrumb");
   breadCrumb.innerHTML = "";
-  listItems.forEach(item => {
+  listItems.forEach((item, index) => {
     const li = document.createElement("li");
-    li.textContent = item;
+    const isLast = index === listItems.length - 1;
+    const linkTarget = item === "Anasayfa"
+      ? "index.html"
+      : (item === "Kurs" || item === "Kurslar" ? "courses-list.html" : null);
+
+    if (!isLast && linkTarget) {
+      const link = document.createElement("a");
+      link.href = linkTarget;
+      link.textContent = item;
+      li.appendChild(link);
+    } else {
+      li.textContent = item;
+    }
+
     breadCrumb.appendChild(li);
-    listItems.lastIndexOf(item) === listItems.length - 1 ? li.classList.add("active") : null;
+    if (isLast) li.classList.add("active");
   });
 
   // head content
