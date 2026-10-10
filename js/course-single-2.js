@@ -434,13 +434,7 @@ async function renderCourse(data) {
       const sb = data?.sidebar
       if (!sb) return
 
-      // 4.1 Price
-      const priceEl = document.getElementById("sbPrice")
-      if (priceEl && sb.courseInfo?.price) {
-        priceEl.textContent = `Fiyat: ${sb.courseInfo.price}`
-      }
-
-      // 4.2 Facts (Students, Duration, Lectures, Video, Certificate)
+      // Facts (Students, Duration, Lectures, Video, Certificate)
       const facts = document.getElementById("sbFacts")
       if (facts && sb.courseInfo) {
         const ci = sb.courseInfo

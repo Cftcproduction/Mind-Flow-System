@@ -1,11 +1,11 @@
 {"courses":[
   {
     "heading": {
-      "title": "Koçluk ICF Seviye 1",
+      "title": "ICF Level 1",
       "backgroundImage": "url('images/banner/courses-banner.jpg')"
     },
     "breadcrumb": {
-      "listItems": ["Anasayfa", "Kurslar", "Koçluk ICF Seviye 1"]
+      "listItems": ["Anasayfa", "Kurslar", "ICF Level 1"]
     },
 
     "page": {
@@ -15,12 +15,12 @@
     },
 
     "seo": {
-      "title": "Koçluk ICF Seviye 1",
+      "title": "ICF Level 1",
       "description": "ICF Seviye 1 Koçluk Eğitimi Akreditasyonuna Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
     },
 
     "content": {
-      "mainTitle": "Koçluk ICF Seviye 1",
+      "mainTitle": "ICF Level 1",
 
       "viewHeader": {
         "author": {
@@ -44,14 +44,14 @@
 
       "heroImage": {
         "src": "images/kurslar/seviye1.jpg",
-        "alt": "Koçluk ICF Seviye 1"
+        "alt": "ICF Level 1"
       },
 
       "blocks": [
         {
           "type": "heading",
           "level": 3,
-          "text": "Koçluk ICF Seviye 1"
+          "text": "ICF Level 1"
         },
         {
           "type": "paragraph",
@@ -195,11 +195,11 @@
   },
   {
     "heading": {
-      "title": "Koçluk ICF Seviye 2",
+      "title": "ICF Level 2",
       "backgroundImage": "url('images/banner/banner-1.jpg')"
     },
     "breadcrumb": {
-      "listItems": ["Anasayfa", "Kurs", "Koçluk ICF Seviye 2"]
+      "listItems": ["Anasayfa", "Kurs", "ICF Level 2"]
     },
 
     "page": {
@@ -209,12 +209,12 @@
     },
 
     "seo": {
-      "title": "Koçluk ICF Seviye 2",
+      "title": "ICF Level 2",
       "description": "ICF Seviye 2 Koçluk Eğitimi Akreditasyonuna Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
     },
 
     "content": {
-      "mainTitle": "Koçluk ICF Seviye 2",
+      "mainTitle": "ICF Level 2",
 
       "viewHeader": {
         "author": {
@@ -238,14 +238,14 @@
 
       "heroImage": {
         "src": "images/kurslar/seviye2.jpg",
-        "alt": "Koçluk ICF Seviye 2"
+        "alt": "ICF Level 2"
       },
 
       "blocks": [
         {
           "type": "heading",
           "level": 3,
-          "text": "Koçluk ICF Seviye 2"
+          "text": "ICF Level 2"
         },
         {
           "type": "paragraph",
@@ -393,11 +393,11 @@
   },
   {
     "heading": {
-      "title": "Koçluk ICF Seviye 3",
+      "title": "MYK Koç Seviye 6",
       "backgroundImage": "url('images/banner/banner-1.jpg')"
     },
     "breadcrumb": {
-      "listItems": ["Anasayfa", "Kurs", "Koçluk ICF Seviye 3"]
+      "listItems": ["Anasayfa", "Kurs", "MYK Koç Seviye 6"]
     },
 
     "page": {
@@ -407,12 +407,12 @@
     },
 
     "seo": {
-      "title": "Koçluk ICF Seviye 3",
+      "title": "MYK Koç Seviye 6",
       "description": "ICF Seviye 3 Koçluk Eğitimi Akreditasyonuna Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
     },
 
     "content": {
-      "mainTitle": "Koçluk ICF Seviye 3",
+      "mainTitle": "MYK Koç Seviye 6",
 
       "viewHeader": {
         "author": {
@@ -436,14 +436,14 @@
 
       "heroImage": {
         "src": "images/kurslar/seviye3.jpg",
-        "alt": "Koçluk ICF Seviye 3"
+        "alt": "MYK Koç Seviye 6"
       },
 
       "blocks": [
         {
           "type": "heading",
           "level": 3,
-          "text": "Koçluk ICF Seviye 3"
+          "text": "MYK Koç Seviye 6"
         },
         {
           "type": "paragraph",
@@ -588,11 +588,11 @@
   },
   {
     "heading": {
-      "title": "Koçlara Özel NLP Uygulama Eğitimi",
+      "title": "NLP Koçluk Eğitimi",
       "backgroundImage": "url('images/banner/banner-1.jpg')"
     },
     "breadcrumb": {
-      "listItems": ["Anasayfa", "Kurs", "Koçlara Özel NLP Uygulama Eğitimi"]
+      "listItems": ["Anasayfa", "Kurs", "NLP Koçluk Eğitimi"]
     },
 
     "page": {
@@ -602,12 +602,12 @@
     },
 
     "seo": {
-      "title": "Koçlara Özel NLP Uygulama Eğitimi",
-      "description": "Koçlara Özel NLP Uygulama Eğitimi Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+      "title": "NLP Koçluk Eğitimi",
+      "description": "NLP Koçluk Eğitimi Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
     },
 
     "content": {
-      "mainTitle": "Koçlara Özel NLP Uygulama Eğitimi",
+      "mainTitle": "NLP Koçluk Eğitimi",
 
       "viewHeader": {
         "author": {
@@ -631,19 +631,19 @@
 
       "heroImage": {
         "src": "images/NPL.jpg",
-        "alt": "Koçlara Özel NLP Uygulama Eğitimi"
+        "alt": "NLP Koçluk Eğitimi"
       },
 
       "blocks": [
         {
           "type": "heading",
           "level": 3,
-          "text": "Koçlara Özel NLP Uygulama Eğitimi"
+          "text": "NLP Koçluk Eğitimi"
         },
 
         {
           "type": "paragraph",
-          "text": "Koçlara Özel NLP Uygulama Eğitimi, koçluk süreçlerini derinleştirmek ve danışanlarda kalıcı dönüşüm yaratmak isteyen profesyonel koçlar için özel olarak tasarlanmış bir programdır. Bu eğitim, NLP’nin (Neuro-Linguistic Programming) güçlü araçlarını koçluk becerilerine entegre ederek daha etkili, sonuç odaklı ve içgörü kazandıran görüşmeler yapmanıza yardımcı olur. "
+          "text": "NLP Koçluk Eğitimi, koçluk süreçlerini derinleştirmek ve danışanlarda kalıcı dönüşüm yaratmak isteyen profesyonel koçlar için özel olarak tasarlanmış bir programdır. Bu eğitim, NLP’nin (Neuro-Linguistic Programming) güçlü araçlarını koçluk becerilerine entegre ederek daha etkili, sonuç odaklı ve içgörü kazandıran görüşmeler yapmanıza yardımcı olur. "
         },
         {
           "type": "heading",
@@ -791,11 +791,11 @@
   },
   {
     "heading": {
-      "title": "Koçlara Özel Beden Analiz Eğitimi",
+      "title": "MYK Eğitim Uzmanı Seviye 6",
       "backgroundImage": "url('images/banner/banner-1.jpg')"
     },
     "breadcrumb": {
-      "listItems": ["Anasayfa", "Kurs", "Koçlara Özel Beden Analiz Eğitimi"]
+      "listItems": ["Anasayfa", "Kurs", "MYK Eğitim Uzmanı Seviye 6"]
     },
 
     "page": {
@@ -805,12 +805,12 @@
     },
 
     "seo": {
-      "title": "Koçlara Özel Beden Analiz Eğitimi",
-      "description": "Koçlara Özel Beden Analiz Eğitimi Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+      "title": "MYK Eğitim Uzmanı Seviye 6",
+      "description": "MYK Eğitim Uzmanı Seviye 6 Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
     },
 
     "content": {
-      "mainTitle": "Koçlara Özel Beden Analiz Eğitimi",
+      "mainTitle": "MYK Eğitim Uzmanı Seviye 6",
 
       "viewHeader": {
         "author": {
@@ -834,19 +834,19 @@
 
       "heroImage": {
         "src": "images/beden-dili.jpg",
-        "alt": "Koçlara Özel Beden Analiz Eğitimi"
+        "alt": "MYK Eğitim Uzmanı Seviye 6"
       },
 
       "blocks": [
         {
           "type": "heading",
           "level": 3,
-          "text": "Koçlara Özel Beden Analiz Eğitimi"
+          "text": "MYK Eğitim Uzmanı Seviye 6"
         },
 
         {
           "type": "paragraph",
-          "text": "Koçlara Özel Beden Analiz Eğitimi , koçluk görüşmelerinde sözcüklerin ötesine geçmek ve danışanın bilinçdışı sinyallerini okumayı öğrenmek isteyen koçlar için hazırlanmış özel bir programdır. Bu eğitimle, bedenin anlattığı hikâyeyi doğru analiz etmeyi, karşı tarafla daha derin ve etkili bağ kurmayı öğrenirsiniz. "
+          "text": "MYK Eğitim Uzmanı Seviye 6 , koçluk görüşmelerinde sözcüklerin ötesine geçmek ve danışanın bilinçdışı sinyallerini okumayı öğrenmek isteyen koçlar için hazırlanmış özel bir programdır. Bu eğitimle, bedenin anlattığı hikâyeyi doğru analiz etmeyi, karşı tarafla daha derin ve etkili bağ kurmayı öğrenirsiniz. "
         },
         {
           "type": "heading",
@@ -993,11 +993,11 @@
   },
   {
     "heading": {
-      "title": "PCC/MCC Sınav Mentörlüğü",
+      "title": "Mind Flow System - Performans Koçluğu ve Liderlik",
       "backgroundImage": "url('images/banner/banner-1.jpg')"
     },
     "breadcrumb": {
-      "listItems": ["Anasayfa", "Kurs", "PCC/MCC Sınav Mentörlüğü"]
+      "listItems": ["Anasayfa", "Kurs", "Mind Flow System - Performans Koçluğu ve Liderlik"]
     },
 
     "page": {
@@ -1007,12 +1007,12 @@
     },
 
     "seo": {
-      "title": "PCC/MCC Sınav Mentörlüğü",
-      "description": "PCC/MCC Sınav Mentörlüğü Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+      "title": "Mind Flow System - Performans Koçluğu ve Liderlik",
+      "description": "Mind Flow System - Performans Koçluğu ve Liderlik Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
     },
 
     "content": {
-      "mainTitle": "PCC/MCC Sınav Mentörlüğü",
+      "mainTitle": "Mind Flow System - Performans Koçluğu ve Liderlik",
 
       "viewHeader": {
         "author": {
@@ -1036,14 +1036,14 @@
 
       "heroImage": {
         "src": "images/sinav-metorlugu.jpg",
-        "alt": "PCC/MCC Sınav Mentörlüğü"
+        "alt": "Mind Flow System - Performans Koçluğu ve Liderlik"
       },
 
       "blocks": [
         {
           "type": "heading",
           "level": 3,
-          "text": "PCC/MCC Sınav Mentörlüğü"
+          "text": "Mind Flow System - Performans Koçluğu ve Liderlik"
         },
 
         {
