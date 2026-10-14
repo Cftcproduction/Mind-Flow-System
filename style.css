@@ -7984,11 +7984,16 @@ form .star-rating .customFormReset:checked + label {
 .popular-posts-slider .slick-slide > div {
   width: 100%;
   display: flex;
+  align-items: stretch;
 }
 
-.popular-posts-slider .slick-slide .col-xs-12,
+.popular-posts-slider .slick-slide .col-xs-12 {
+  height: auto;
+  display: flex;
+}
+
 .popular-posts-slider .slick-slide .popular-post {
-  height: 100%;
+  height: auto;
 }
 
 .popular-posts-slider .popular-post .post-heading {
@@ -8001,7 +8006,7 @@ form .star-rating .customFormReset:checked + label {
 }
 
 .popular-posts-slider .popular-post .post-foot {
-  margin-top: 6px;
+  margin-top: auto;
   min-height: 58px;
   height: 58px;
   padding: 0 20px;
