@@ -853,6 +853,7 @@
           <form class="free-consultation-form" action="https://formsubmit.co/selcanarslan@gmail.com" method="post">
             <input type="hidden" name="_subject" value="Yeni ücretsiz görüşme talebi">
             <input type="hidden" name="_template" value="table">
+            <input type="hidden" name="_captcha" value="false">
             <input type="text" name="_honey" tabindex="-1" autocomplete="off" style="display: none" aria-hidden="true">
             <div class="free-consultation-field free-consultation-field-full">
               <label for="consultation-name">Ad Soyad <span>*</span></label>
@@ -881,6 +882,7 @@
                 <option>NLP Koçluk Eğitimi</option>
               </select>
             </div>
+            <p class="free-consultation-status" role="status" aria-live="polite"></p>
             <button class="free-consultation-submit" type="submit">Sizi Arayalım <span
                 aria-hidden="true">→</span></button>
           </form>
@@ -1218,6 +1220,7 @@
   <!-- include jQuery -->
 
   <script type="text/javascript" src="js/init.js"></script>
+  <script src="js/consultation-form.js"></script>
 
 </body>
 
