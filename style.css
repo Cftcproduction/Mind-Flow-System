@@ -6881,6 +6881,22 @@ body {
   -ms-overflow-style: scrollbar;
 }
 
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+a:focus {
+  outline: none;
+  outline-offset: 0;
+}
+
+a:focus-visible {
+  outline: none;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
 h1,
 h2,
 h3,
