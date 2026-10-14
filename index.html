@@ -854,21 +854,22 @@
             <input type="hidden" name="_subject" value="Yeni ücretsiz görüşme talebi">
             <input type="hidden" name="_template" value="table">
             <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_blacklist" value="http://,https://,www.,[url,bit.ly,t.me">
             <input type="text" name="_honey" tabindex="-1" autocomplete="off" style="display: none" aria-hidden="true">
             <div class="free-consultation-field free-consultation-field-full">
               <label for="consultation-name">Ad Soyad <span>*</span></label>
               <input id="consultation-name" name="name" type="text" placeholder="Adınız Soyadınız" autocomplete="name"
-                required>
+                minlength="3" maxlength="80" required>
             </div>
             <div class="free-consultation-field">
               <label for="consultation-phone">Telefon <span>*</span></label>
               <input id="consultation-phone" name="phone" type="tel" placeholder="05XX XXX XX XX" autocomplete="tel"
-                inputmode="tel" required>
+                inputmode="tel" minlength="10" maxlength="20" required>
             </div>
             <div class="free-consultation-field">
               <label for="consultation-email">E-Posta <span>*</span></label>
               <input id="consultation-email" name="email" type="email" placeholder="ornek@mail.com" autocomplete="email"
-                required>
+                maxlength="254" required>
             </div>
             <div class="free-consultation-field free-consultation-field-full">
               <label for="consultation-program">İlgilendiğiniz Program <span>*</span></label>
