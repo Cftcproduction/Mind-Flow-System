@@ -5,7 +5,7 @@
 	vertical-align: middle;
 	text-align: left;
 	font-size: 14px;
-	font-family: $font-lato;
+	font-family: $font-outfit;
 	-webkit-user-select: none;
 		 -moz-user-select: none;
 			-ms-user-select: none;
@@ -37,7 +37,7 @@
 	overflow: hidden;
 	white-space: nowrap;
 	text-overflow: ellipsis;
-	font-weight: normal;
+	font-weight: 300;
 	color: #999999;
 }
 
@@ -204,7 +204,7 @@
 
 .chosen-container .chosen-results li.group-result {
 	display: list-item;
-	font-weight: bold;
+	font-weight: 600;
 	cursor: default;
 }
 

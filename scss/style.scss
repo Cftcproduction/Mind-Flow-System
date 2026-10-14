@@ -268,14 +268,14 @@ p{ margin: 0 0 26px; }
 .bg-dark{ background-color: $gray-darker;}
 .bg-gray{ background-color: $clr1;}
 .bg-light{ background-color: $clr3;}
-.font-lato{ font-family: $font-lato;}
+.font-outfit{ font-family: $font-outfit;}
 .font-roboto{ font-family: $font-roboto;}
 .font-base{ font-family: $font-family-sans-serif;}
 .font-serif{ font-family: $font-family-serif;}
-.fw-bold{ font-weight: 700;}
-.fw-normal{ font-weight: 400;}
-.fw-light{ font-weight: 300;}
-.fw-semi{ font-weight: 600;}
+.fw-bold{ font-weight: 600;}
+.fw-normal{ font-weight: 300;}
+.fw-light{ font-weight: 200;}
+.fw-semi{ font-weight: 500;}
 .text-gray{ color: $gray-light;}
 .text-white{ color: $white;}
 .bg-success{ background-color: $brand-success;}
@@ -622,7 +622,7 @@ p{ margin: 0 0 26px; }
 	}
 	.intro-block-heading{
 		color: inherit;
-		font-weight: 700;
+		font-weight: 600;
 		margin: 0 0 13px;
 	}
 	.btns-wrap{
@@ -772,7 +772,7 @@ p{ margin: 0 0 26px; }
 	.post-heading{
 		text-transform: none;
 		margin: 0 0 17px;
-		font-weight: 400;
+		font-weight: 300;
 		font-size: 17px;
 		line-height: (22/17);
 	}
@@ -803,7 +803,7 @@ p{ margin: 0 0 26px; }
 	.author-heading{
 		margin: 0;
 		color: $gray-light;
-		font-weight: 400;
+		font-weight: 300;
 		font-size: 13px;
 		font-family: $font-family-sans-serif;
 	}
@@ -961,9 +961,16 @@ p{ margin: 0 0 26px; }
 		font-size: 14px;
 		margin-bottom: 3px;
 	}
+	.month,
+	.day{
+		font-family: "Outfit", "Segoe UI", Arial, sans-serif;
+		font-weight: 300;
+		font-feature-settings: "locl" 1;
+	}
 	.day{
 		width: 100%;
 		padding-top: 6px;
+		line-height: 1.2;
 	}
 	.description-wrap{
 		overflow: hidden;
@@ -972,7 +979,7 @@ p{ margin: 0 0 26px; }
 	address{ margin: 0 0 12px; }
 	.list-heading{
 		text-transform: none;
-		font-weight: 400;
+		font-weight: 300;
 		margin: 0 0 8px;
 	}
 	.btn{
@@ -1182,7 +1189,7 @@ p{ margin: 0 0 26px; }
 	cite{ font-style: normal; }
 	h5, .h5{
 		margin: 0;
-		font-weight: 400;
+		font-weight: 300;
 		opacity: 0;
 		transform: translateY(80px);
 		transition: all 0.55s linear;
@@ -1305,12 +1312,12 @@ p{ margin: 0 0 26px; }
 	}
 	h3, .h3{
 		margin: 0 0 13px;
-		font-weight: 400;
+		font-weight: 300;
 		line-height: (22/18);
 		text-transform: none;
 	}
 	.time{
-		font-weight: 600;
+		font-weight: 500;
 		font-size: 12px;
 		line-height: (16/12);
 		a{ color: inherit; }
@@ -1328,7 +1335,7 @@ p{ margin: 0 0 26px; }
  42. Newsletter sub form / .newsletter-sub-form
  ---------------------------------------------------------*/
 .newsletter-sub-form{
-	font-weight: 600;
+	font-weight: 500;
 	.text-wrap{
 		display: flex;
 		align-items: center;
@@ -1363,7 +1370,7 @@ p{ margin: 0 0 26px; }
 		color: inherit;
 		border-color: currentColor;
 		background-color: transparent;
-		font-weight: 600;
+		font-weight: 500;
 		border-radius: $border-radius-small;
 		&:hover{
 			background-color: $gray-light;
@@ -1423,7 +1430,7 @@ p{ margin: 0 0 26px; }
 	.description-wrap{ overflow: hidden;}
 	h4, .h4{
 		margin: 0;
-		font-weight: 400;
+		font-weight: 300;
 		font-size: 14px;
 		line-height: (18/14);
 		color: inherit;
@@ -1647,7 +1654,7 @@ p{ margin: 0 0 26px; }
 	> li{
 		margin-right: 8px;
 		> a{
-			font-weight: 700;
+			font-weight: 600;
 			font-size: 14px;
 			line-height: (18/14);
 		}
@@ -1677,7 +1684,7 @@ p{ margin: 0 0 26px; }
 		text-transform: uppercase;
 		position: relative;
 		border-bottom: 1px solid $gray-lighter;
-		font-weight: 600;
+		font-weight: 500;
 		font-size: 15px;
 		margin: 0 0 30px;
 		padding-bottom: 14px;
@@ -1923,7 +1930,7 @@ p{ margin: 0 0 26px; }
 		&.text-right{ text-align: left; }
 	}
 	.title{
-		font-weight: 500;
+		font-weight: 400;
 		color: $gray-darker;
 	}
 	p{
@@ -1986,7 +1993,7 @@ p{ margin: 0 0 26px; }
 	time{ color: $clr4; }
 	h3, .h3{
 		margin: 0;
-		font-weight: 500;
+		font-weight: 400;
 		font-size: 14px;
 		line-height: (18/14);
 	}
@@ -2246,7 +2253,7 @@ p{ margin: 0 0 26px; }
 	display: flex;
 	align-items: center;
 	.title{
-		font-weight: 500;
+		font-weight: 400;
 		margin-right: 18px;
 		color: $gray-darker;
 	}
@@ -2508,7 +2515,7 @@ p{ margin: 0 0 26px; }
 	margin: 0;
 	color: $gray-dark;
 	q{
-		font: 300 16px/1.75 $font-family-serif;
+		font: 200 16px/1.75 $font-family-serif;
 		border: 1px solid $gray-lighter;
 		position: relative;
 		border-radius: 3px;
@@ -2717,7 +2724,7 @@ p{ margin: 0 0 26px; }
 		background-color: $white;
 		padding-left: 20px;
 		padding-right: 20px;
-		font: 600 11px/1 $font-lato;
+		font: 500 11px/1 $font-outfit;
 		text-transform: uppercase;
 		transform: translate(-50%, -50%);
 		text-transform: uppercase;
@@ -2949,7 +2956,7 @@ p{ margin: 0 0 26px; }
 			}
 		}
 		th{
-			font-weight: 400;
+			font-weight: 300;
 			font-size: 13px;
 			line-height: (16/13);
 			padding: 12px 15px;
@@ -3129,7 +3136,7 @@ p{ margin: 0 0 26px; }
 		table-layout: fixed;
 		thead{ border-bottom: 1px solid $gray-lighter; }
 		th{
-			font-weight: 400;
+			font-weight: 300;
 			padding: 18px 10px;
 			border: 0;
 		}
@@ -3345,7 +3352,7 @@ p{ margin: 0 0 26px; }
 		table-layout: fixed;
 		thead{ border-bottom: 1px solid $gray-lighter; }
 		th{
-			font-weight: 400;
+			font-weight: 300;
 			border: 0;
 			color: $gray-darker;
 		}
@@ -3906,7 +3913,7 @@ p{ margin: 0 0 26px; }
 				font-size: 42px;
 				line-height: 30px;
 				color: $clr15;
-				font-weight: 700;
+				font-weight: 600;
 				padding: 25px 10px;
 				display: block;
 				border-radius: 5px;
@@ -3944,7 +3951,7 @@ p{ margin: 0 0 26px; }
 		font-size: 27px;
 		line-height: 35px;
 		color: $white;
-		font-weight: 700;
+		font-weight: 600;
 		margin: 0 0 25px;
 		text-transform: none;
 	}

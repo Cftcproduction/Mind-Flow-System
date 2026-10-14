@@ -252,7 +252,7 @@ button,
   vertical-align: middle;
   text-align: left;
   font-size: 14px;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -287,7 +287,7 @@ button,
   white-space: nowrap;
   -o-text-overflow: ellipsis;
   text-overflow: ellipsis;
-  font-weight: normal;
+  font-weight: 300;
   color: #999999;
 }
 
@@ -466,7 +466,7 @@ button,
 
 .chosen-container .chosen-results li.group-result {
   display: list-item;
-  font-weight: bold;
+  font-weight: 600;
   cursor: default;
 }
 
@@ -1075,7 +1075,7 @@ button.ui-button::-moz-focus-inner {
 .ui-datepicker th {
   padding: 0.7em 0.3em;
   text-align: center;
-  font-weight: bold;
+  font-weight: 600;
   border: 0;
 }
 
@@ -1371,7 +1371,7 @@ button.ui-button::-moz-focus-inner {
 
 .ui-selectmenu-menu .ui-menu .ui-selectmenu-optgroup {
   font-size: 1em;
-  font-weight: bold;
+  font-weight: 600;
   line-height: 1.5;
   padding: 2px 0.4em;
   margin: 0.5em 0 0 0;
@@ -1658,7 +1658,7 @@ body .ui-tooltip {
   border: 1px solid #e78f08;
   background: #f6a828 url("images/ui-bg_gloss-wave_35_f6a828_500x100.png") 50% 50% repeat-x;
   color: #ffffff;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .ui-widget-header a {
@@ -1672,7 +1672,7 @@ body .ui-tooltip {
 .ui-widget-header .ui-state-default {
   border: 1px solid #cccccc;
   background: #f6f6f6 url("images/ui-bg_glass_100_f6f6f6_1x400.png") 50% 50% repeat-x;
-  font-weight: bold;
+  font-weight: 600;
   color: #1c94c4;
 }
 
@@ -1691,7 +1691,7 @@ body .ui-tooltip {
 .ui-widget-header .ui-state-focus {
   border: 1px solid #fbcb09;
   background: #fdf5ce url("images/ui-bg_glass_100_fdf5ce_1x400.png") 50% 50% repeat-x;
-  font-weight: bold;
+  font-weight: 600;
   color: #c77405;
 }
 
@@ -1712,7 +1712,7 @@ body .ui-tooltip {
 .ui-widget-header .ui-state-active {
   border: 1px solid #fbd850;
   background: #ffffff url("images/ui-bg_glass_65_ffffff_1x400.png") 50% 50% repeat-x;
-  font-weight: bold;
+  font-weight: 600;
   color: #eb8f00;
 }
 
@@ -1762,7 +1762,7 @@ body .ui-tooltip {
 .ui-priority-primary,
 .ui-widget-content .ui-priority-primary,
 .ui-widget-header .ui-priority-primary {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .ui-priority-secondary,
@@ -1771,7 +1771,7 @@ body .ui-tooltip {
   opacity: 0.7;
   filter: Alpha(Opacity=70);
   /* support: IE8 */
-  font-weight: normal;
+  font-weight: 300;
 }
 
 .ui-state-disabled,
@@ -6895,8 +6895,8 @@ p {
   background-color: #fcfcfc;
 }
 
-.font-lato {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+.font-outfit {
+  font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .font-roboto {
@@ -6912,19 +6912,19 @@ p {
 }
 
 .fw-bold {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .fw-normal {
-  font-weight: 400;
-}
-
-.fw-light {
   font-weight: 300;
 }
 
+.fw-light {
+  font-weight: 200;
+}
+
 .fw-semi {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .text-gray {
@@ -7426,7 +7426,7 @@ form .star-rating .customFormReset:checked + label {
 }
 .intro-block-slide .intro-block-heading {
   color: inherit;
-  font-weight: 700;
+  font-weight: 600;
   margin: 0 0 13px;
 }
 .intro-block-slide .btns-wrap {
@@ -7607,7 +7607,7 @@ form .star-rating .customFormReset:checked + label {
 .popular-post .post-heading {
   text-transform: none;
   margin: 0 0 7px;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 17px;
   line-height: 1.29412;
 }
@@ -7648,7 +7648,7 @@ form .star-rating .customFormReset:checked + label {
 .post-author .author-heading {
   margin: 0;
   color: #777777;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 13px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -7872,9 +7872,16 @@ form .star-rating .customFormReset:checked + label {
   font-size: 14px;
   margin-bottom: 3px;
 }
+.upcoming-events-list .month,
+.upcoming-events-list .day {
+  font-family: "Outfit", "Segoe UI", Arial, sans-serif;
+  font-weight: 300;
+  font-feature-settings: "locl" 1;
+}
 .upcoming-events-list .day {
   width: 100%;
   padding-top: 6px;
+  line-height: 1.2;
 }
 .upcoming-events-list .description-wrap {
   overflow: hidden;
@@ -7885,7 +7892,7 @@ form .star-rating .customFormReset:checked + label {
 }
 .upcoming-events-list .list-heading {
   text-transform: none;
-  font-weight: 400;
+  font-weight: 300;
   margin: 0 0 8px;
 }
 .upcoming-events-list .btn {
@@ -8134,7 +8141,7 @@ form .star-rating .customFormReset:checked + label {
 .testimonial-quote h5,
 .testimonial-quote .h5 {
   margin: 0;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 /* testimonail slider styles */
@@ -8285,12 +8292,12 @@ form .star-rating .customFormReset:checked + label {
 .news-post h3,
 .news-post .h3 {
   margin: 0 0 13px;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.22222;
   text-transform: none;
 }
 .news-post .time {
-  font-weight: 600;
+  font-weight: 500;
   font-size: 12px;
   line-height: 1.33333;
 }
@@ -8309,7 +8316,7 @@ form .star-rating .customFormReset:checked + label {
 
 /* newsletter sub form styles */
 .newsletter-sub-form {
-  font-weight: 600;
+  font-weight: 500;
 }
 .newsletter-sub-form .text-wrap {
   display: -webkit-box;
@@ -8363,7 +8370,7 @@ form .star-rating .customFormReset:checked + label {
   color: inherit;
   border-color: currentColor;
   background-color: transparent;
-  font-weight: 600;
+  font-weight: 500;
   border-radius: 1px;
 }
 .footer-area .btn-default:hover {
@@ -8421,7 +8428,7 @@ form .star-rating .customFormReset:checked + label {
 .widget-cources-list h4,
 .widget-cources-list .h4 {
   margin: 0;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 14px;
   line-height: 1.28571;
   color: inherit;
@@ -8738,7 +8745,7 @@ form .star-rating .customFormReset:checked + label {
   margin-right: 8px;
 }
 .pagination > li > a {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 14px;
   line-height: 1.28571;
 }
@@ -8773,7 +8780,7 @@ form .star-rating .customFormReset:checked + label {
   text-transform: uppercase;
   position: relative;
   border-bottom: 1px solid #e8e8e8;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 15px;
   margin: 0 0 30px;
   padding-bottom: 14px;
@@ -9089,7 +9096,7 @@ form .star-rating .customFormReset:checked + label {
   text-align: left;
 }
 .bookmarkFoot .title {
-  font-weight: 500;
+  font-weight: 400;
   color: #222222;
 }
 .bookmarkFoot p {
@@ -9167,7 +9174,7 @@ form .star-rating .customFormReset:checked + label {
 .reviewsList h3,
 .reviewsList .h3 {
   margin: 0;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 14px;
   line-height: 1.28571;
 }
@@ -9458,7 +9465,7 @@ form .star-rating .customFormReset:checked + label {
   align-items: center;
 }
 .shareWrap .title {
-  font-weight: 500;
+  font-weight: 400;
   margin-right: 18px;
   color: #222222;
 }
@@ -9757,7 +9764,7 @@ form .star-rating .customFormReset:checked + label {
 }
 .say-quote q {
   font:
-    300 16px/1.75 "Roboto Slab",
+    200 16px/1.75 "Roboto Slab",
     Georgia,
     "Times New Roman",
     Times,
@@ -10071,7 +10078,7 @@ form .star-rating .customFormReset:checked + label {
   padding-left: 20px;
   padding-right: 20px;
   font:
-    600 11px/1 "Lato",
+    500 11px/1 "Outfit",
     "Helvetica Neue",
     Helvetica,
     Arial,
@@ -10366,7 +10373,7 @@ form .star-rating .customFormReset:checked + label {
 .forum-data-table th,
 .topics-data-table.table th,
 .table.forum-data-table th {
-  font-weight: 400;
+  font-weight: 300;
   font-size: 13px;
   line-height: 1.23077;
   padding: 12px 15px;
@@ -10582,7 +10589,7 @@ form .star-rating .customFormReset:checked + label {
 }
 .cart-data-table th,
 .cart-data-table.table th {
-  font-weight: 400;
+  font-weight: 300;
   padding: 18px 10px;
   border: 0;
 }
@@ -10883,7 +10890,7 @@ input:checked + .custom-radio-wrap:after {
 }
 .order-data-table th,
 .order-data-table.table th {
-  font-weight: 400;
+  font-weight: 300;
   border: 0;
   color: #222222;
 }

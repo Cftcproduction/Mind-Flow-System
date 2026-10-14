@@ -372,7 +372,7 @@ button.ui-button::-moz-focus-inner {
 .ui-datepicker th {
 	padding: .7em .3em;
 	text-align: center;
-	font-weight: bold;
+	font-weight: 600;
 	border: 0;
 }
 .ui-datepicker td {
@@ -621,7 +621,7 @@ button.ui-button::-moz-focus-inner {
 }
 .ui-selectmenu-menu .ui-menu .ui-selectmenu-optgroup {
 	font-size: 1em;
-	font-weight: bold;
+	font-weight: 600;
 	line-height: 1.5;
 	padding: 2px 0.4em;
 	margin: 0.5em 0 0 0;
@@ -855,7 +855,7 @@ body .ui-tooltip {
 	border: 1px solid #e78f08;
 	background: #f6a828 url("images/ui-bg_gloss-wave_35_f6a828_500x100.png") 50% 50% repeat-x;
 	color: #ffffff;
-	font-weight: bold;
+	font-weight: 600;
 }
 .ui-widget-header a {
 	color: #ffffff;
@@ -868,7 +868,7 @@ body .ui-tooltip {
 .ui-widget-header .ui-state-default {
 	border: 1px solid #cccccc;
 	background: #f6f6f6 url("images/ui-bg_glass_100_f6f6f6_1x400.png") 50% 50% repeat-x;
-	font-weight: bold;
+	font-weight: 600;
 	color: #1c94c4;
 }
 .ui-state-default a,
@@ -885,7 +885,7 @@ body .ui-tooltip {
 .ui-widget-header .ui-state-focus {
 	border: 1px solid #fbcb09;
 	background: #fdf5ce url("images/ui-bg_glass_100_fdf5ce_1x400.png") 50% 50% repeat-x;
-	font-weight: bold;
+	font-weight: 600;
 	color: #c77405;
 }
 .ui-state-hover a,
@@ -904,7 +904,7 @@ body .ui-tooltip {
 .ui-widget-header .ui-state-active {
 	border: 1px solid #fbd850;
 	background: #ffffff url("images/ui-bg_glass_65_ffffff_1x400.png") 50% 50% repeat-x;
-	font-weight: bold;
+	font-weight: 600;
 	color: #eb8f00;
 }
 .ui-state-active a,
@@ -948,14 +948,14 @@ body .ui-tooltip {
 .ui-priority-primary,
 .ui-widget-content .ui-priority-primary,
 .ui-widget-header .ui-priority-primary {
-	font-weight: bold;
+	font-weight: 600;
 }
 .ui-priority-secondary,
 .ui-widget-content .ui-priority-secondary,
 .ui-widget-header .ui-priority-secondary {
 	opacity: .7;
 	filter:Alpha(Opacity=70); /* support: IE8 */
-	font-weight: normal;
+	font-weight: 300;
 }
 .ui-state-disabled,
 .ui-widget-content .ui-state-disabled,

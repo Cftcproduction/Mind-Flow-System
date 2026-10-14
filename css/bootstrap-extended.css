@@ -55,7 +55,7 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: bold; }
+  font-weight: 600; }
 
 dfn {
   font-style: italic; }
@@ -175,7 +175,7 @@ textarea {
   overflow: auto; }
 
 optgroup {
-  font-weight: bold; }
+  font-weight: 600; }
 
 table {
   border-collapse: collapse;
@@ -1142,8 +1142,8 @@ hr {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 700;
+  font-family: "Outfit", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 600;
   line-height: 1.1;
   color: #222222; }
   h1 small,
@@ -1160,7 +1160,7 @@ h1, h2, h3, h4, h5, h6,
   .h4 .small, .h5 small,
   .h5 .small, .h6 small,
   .h6 .small {
-    font-weight: normal;
+    font-weight: 300;
     line-height: 1;
     color: #777777; }
 
@@ -1220,7 +1220,7 @@ p {
 .lead {
   margin-bottom: 26px;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 200;
   line-height: 1.4; }
   @media (min-width: 768px) {
     .lead {
@@ -1372,7 +1372,7 @@ dd {
   line-height: 1.85714; }
 
 dt {
-  font-weight: bold; }
+  font-weight: 600; }
 
 dd {
   margin-left: 0; }
@@ -1477,7 +1477,7 @@ kbd {
   kbd kbd {
     padding: 0;
     font-size: 100%;
-    font-weight: bold;
+    font-weight: 600;
     -webkit-box-shadow: none;
     box-shadow: none; }
 
@@ -2271,7 +2271,7 @@ label {
   display: inline-block;
   max-width: 100%;
   margin-bottom: 5px;
-  font-weight: bold; }
+  font-weight: 600; }
 
 input[type="search"] {
   -webkit-box-sizing: border-box;
@@ -2424,7 +2424,7 @@ input[type="search"] {
     min-height: 26px;
     padding-left: 20px;
     margin-bottom: 0;
-    font-weight: normal;
+    font-weight: 300;
     cursor: pointer; }
 
 .radio input[type="radio"],
@@ -2446,7 +2446,7 @@ input[type="search"] {
   padding-left: 20px;
   margin-bottom: 0;
   vertical-align: middle;
-  font-weight: normal;
+  font-weight: 300;
   cursor: pointer; }
 
 .radio-inline + .radio-inline,
@@ -2793,7 +2793,7 @@ select[multiple].input-lg,
 .btn {
   display: inline-block;
   margin-bottom: 0;
-  font-weight: normal;
+  font-weight: 300;
   text-align: center;
   vertical-align: middle;
   -ms-touch-action: manipulation;
@@ -3057,7 +3057,7 @@ fieldset[disabled] a.btn {
 
 .btn-link {
   color: #34c7dc;
-  font-weight: normal;
+  font-weight: 300;
   border-radius: 0; }
   .btn-link, .btn-link:active, .btn-link.active, .btn-link[disabled],
   fieldset[disabled] .btn-link {
@@ -3189,7 +3189,7 @@ tbody.collapse.in {
     display: block;
     padding: 3px 20px;
     clear: both;
-    font-weight: normal;
+    font-weight: 300;
     line-height: 1.85714;
     color: #777777;
     white-space: nowrap; }
@@ -3476,7 +3476,7 @@ tbody.collapse.in {
 .input-group-addon {
   padding: 7px 12px;
   font-size: 14px;
-  font-weight: normal;
+  font-weight: 300;
   line-height: 1;
   color: #222222;
   text-align: center;
@@ -4211,7 +4211,7 @@ tbody.collapse.in {
   display: inline;
   padding: .2em .6em .3em;
   font-size: 75%;
-  font-weight: bold;
+  font-weight: 600;
   line-height: 1;
   color: #fff;
   text-align: center;
@@ -4264,7 +4264,7 @@ a.label:hover, a.label:focus {
   min-width: 10px;
   padding: 3px 7px;
   font-size: 12px;
-  font-weight: bold;
+  font-weight: 600;
   color: #fff;
   line-height: 1;
   vertical-align: middle;
@@ -4309,7 +4309,7 @@ a.badge:hover, a.badge:focus {
   .jumbotron p {
     margin-bottom: 15px;
     font-size: 21px;
-    font-weight: 200; }
+    font-weight: 100; }
   .jumbotron > hr {
     border-top-color: #cfcfcf; }
   .container .jumbotron,
@@ -4367,7 +4367,7 @@ a.thumbnail.active {
     margin-top: 0;
     color: inherit; }
   .alert .alert-link {
-    font-weight: bold; }
+    font-weight: 600; }
   .alert > p,
   .alert > ul {
     margin-bottom: 0; }
@@ -5055,7 +5055,7 @@ button.list-group-item-danger {
 .close {
   float: right;
   font-size: 21px;
-  font-weight: bold;
+  font-weight: 600;
   line-height: 1;
   color: #000;
   text-shadow: 0 1px 0 #fff;
@@ -5206,7 +5206,7 @@ button.close {
   display: block;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   letter-spacing: normal;
   line-break: auto;
   line-height: 1.85714;
@@ -5319,7 +5319,7 @@ button.close {
   padding: 1px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 300;
   letter-spacing: normal;
   line-break: auto;
   line-height: 1.85714;

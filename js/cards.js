@@ -25,7 +25,7 @@ fetch("data/courses.json")
                       <img src="${coursesObj.heroImage}" alt="${coursesObj.title}">
                     </div>
                     <div>
-                      <strong class="bg-success text-white font-lato text-uppercase price-tag">${coursesObj.price}</strong>
+                      <strong class="bg-success text-white font-outfit text-uppercase price-tag">${coursesObj.price}</strong>
                     </div>
                     <h3 class="post-heading"><a href="course-single-temp.html?slug=egiticinin-egitimi" tabindex="-1">${coursesObj.title}</a></h3>
                     <div class="post-author">

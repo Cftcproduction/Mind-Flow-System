@@ -381,7 +381,7 @@ body.fancybox-iosfix {
   height: 30px;
   font: 22px/30px Arial,"Helvetica Neue",Helvetica,sans-serif;
   color: #888;
-  font-weight: 300;
+  font-weight: 200;
   text-align: center;
   border-radius: 50%;
   border-width: 0;
@@ -585,7 +585,7 @@ body.fancybox-iosfix {
   color: #222;
   margin: 0 0 20px 0;
   font-size: 35px;
-  font-weight: 700; }
+  font-weight: 600; }
 
 .fancybox-share p {
   margin: 0;
@@ -605,7 +605,7 @@ p.fancybox-share__links {
   background: #fff;
   white-space: nowrap;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 40px;
   -webkit-user-select: none;
   -moz-user-select: none;
