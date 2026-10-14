@@ -52,7 +52,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="mailto:info@minflowsystem.tr">
+                  <a href="mailto:info@mindflowsystem.tr">
                     <strong class="dt element-block text-capitalize hd-phone">E-posta :</strong>
                     <strong class="dd element-block hd-phone">info@minflowsystem.tr</strong>
                     <i class="fas fa-envelope-square hd-up-phone hidden-sm hidden-md hidden-lg"><span
@@ -850,18 +850,24 @@
           <h2>Sizi arayalım</h2>
           <p class="free-consultation-intro">Formu doldurun, uzman danışmanımız <strong>24 saat içinde</strong> sizi
             arayarak program detaylarını ve sizin için en uygun seviyeyi paylaşsın.</p>
-          <form class="free-consultation-form" action="contact.html" method="get">
+          <form class="free-consultation-form" action="https://formsubmit.co/selcanaslan@gmail.com" method="post">
+            <input type="hidden" name="_subject" value="Yeni ücretsiz görüşme talebi">
+            <input type="hidden" name="_template" value="table">
+            <input type="text" name="_honey" tabindex="-1" autocomplete="off" style="display: none" aria-hidden="true">
             <div class="free-consultation-field free-consultation-field-full">
               <label for="consultation-name">Ad Soyad <span>*</span></label>
-              <input id="consultation-name" name="name" type="text" placeholder="Adınız Soyadınız" required>
+              <input id="consultation-name" name="name" type="text" placeholder="Adınız Soyadınız" autocomplete="name"
+                required>
             </div>
             <div class="free-consultation-field">
               <label for="consultation-phone">Telefon <span>*</span></label>
-              <input id="consultation-phone" name="phone" type="tel" placeholder="05XX XXX XX XX" required>
+              <input id="consultation-phone" name="phone" type="tel" placeholder="05XX XXX XX XX" autocomplete="tel"
+                inputmode="tel" required>
             </div>
             <div class="free-consultation-field">
               <label for="consultation-email">E-Posta <span>*</span></label>
-              <input id="consultation-email" name="email" type="email" placeholder="ornek@mail.com" required>
+              <input id="consultation-email" name="email" type="email" placeholder="ornek@mail.com" autocomplete="email"
+                required>
             </div>
             <div class="free-consultation-field free-consultation-field-full">
               <label for="consultation-program">İlgilendiğiniz Program <span>*</span></label>
@@ -1116,7 +1122,7 @@
                 <dt>
                   <span class="fas fa-envelope-square"><span class="sr-only">email</span></span>
                 </dt>
-                <dd>E-posta: <a href="mailto:info@minflowsystem.tr">info@minflowsystem.tr</a></dd>
+                <dd>E-posta: <a href="mailto:info@mindflowsystem.tr">info@minflowsystem.tr</a></dd>
               </dl>
             </address>
           </div>
