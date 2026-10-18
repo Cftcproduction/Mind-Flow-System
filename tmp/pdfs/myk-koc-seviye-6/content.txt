@@ -1,0 +1,1020 @@
+
+
+===== PAGE 1 =====
+15UY0215-6 Koç                                      Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+KOÇ 
+SEVİYE 6 
+ 
+REVİZYON NO: 01 
+TADİL NO: 03 
+ 
+15UY0215-6 
+
+===== PAGE 2 =====
+15UY0215-6 Koç                                      Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           2 
+ 
+ 
+GİRİŞ 
+ 
+Koç (Seviye 6) Ulusal Yeterliliği 19/10/2015 tarihli ve 29507 sayılı Resmi Gazete’de 
+yayımlanan Ulusal Meslek Standartlarının ve Ulusal Yeterliliklerin Hazırlanması Hakkında 
+Yönetmelik ve 27/11/2007 tarihli ve 26713 sayılı Resmi Gazete’de yayımlanan Mesleki 
+Yeterlilik Kurumu Sektör Komitelerinin Kuruluş, Görev, Çalışma Usul ve Esasları Hakkında 
+Yönetmelik hükümlerine göre  MYK’nın görevlendirdiği  Koçluk Platformu Derneği, 
+Uluslararası Profesyonel Koçluk Derneği ve Yönderlik ve Koçluk Derneği tarafından  
+hazırlanmış, sektö rdeki ilgili kurum ve kuruluşların görüşleri alınarak değerlendirilmiş  ve 
+MYK İş ve Yönetim Sektör Komitesi Sektör Komitesi tarafından incelendikten sonra MYK 
+Yönetim Kurulunca onaylanmıştır.  
+ 
+Koç (Seviye 6) Ulusal Yeterliliği Başkanlık Makamının 10.06.2020 tarih ve 1570 sayılı kararı 
+ile 1. Kez, 14.02.2022 tarih ve 915 sayılı kararı ile 2. Kez, 24.05.2022 tarih ve 3065 sayılı kararı 
+ile 3. kez tadil edilmiştir. 
+ 
+Koç (Seviye 6) Ulusal Yeterliliği nin 01 nolu revizyonu  30/10/2019 tarih ve 2019/ 140 sayılı 
+MYK Yönetim Kurulu kararı ile yapılmıştır. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 3 =====
+15UY0215-6 Koç                                      Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           1 
+ 
+TERİMLER, SİMGELER VE KISALTMALAR 
+BEDEN DİLİ: Kişiler arası iletişimde yüz ifadeleri, mimikler, bakış, baş, el, kol, bacak, ayak, 
+duruş biçimi, ses tonu, konuşma tarzı gibi bedensel iletilerin bütününü, 
+CANLANDIRMA: Uygun koçluk teknikleriyle müşterinin ulaşmak iste diği hedef anını 
+yaşamasını sağlamayı, 
+ETİK KURALLAR: Koçların hizmet süreçlerinde uygulamaları gereken  profesyonel 
+davranış, kişisel ve mesleki bütünlük, tutarlılık ve sorumluluk , yetkinlik sınırları, sürekli 
+mesleki gelişim, gizlilik ve tarafsızlık başlıkları altında oluşturulmuş temel tutum ve davranış 
+kurallarını, 
+ETKİN DİNLEME: Müşterinin ifadelerinden sözlü ve sözsüz mesajlarını doğru biçimde alıp 
+kendisine geri bildirim ve yansıtma yaparak iletmeyi,  
+GEÇMİŞ BAŞARILARI HATIRLATMA TEKNİĞİ: Müşterinin motivasyonunu sağlamak 
+ve güçlü yönlerini kendisine fark ettirmek amacıyla geçmişte elde ettiği başarıları anlatmasına 
+dayalı koçluk tekniğini, 
+GİZLİLİK POLİTİKASI: Koçluk sürecinde müşteriyle ilgili elde ettiği kişisel veya kurumsal 
+özel bilgileri müşterinin izni olmadan üçüncü şahıslarla paylaşmama kuralını, 
+GÖRÜŞME: Koçluk hizmetinin verildiği oturumların her birini,  
+GÜÇLÜ SORULAR: Müşterinin gelişim ve çözüm arayışında keşfetmesini, harekete 
+geçmesini sağlayan ve düşünmeye sevk eden soruları,  
+HEDEFE ULAŞTIĞINDAKİ BAŞARIYI HAYAL ETME TEKNİĞİ: Müşterinin hedefine 
+ulaşmasındaki kararlığını ortaya çıkarmak ve motivasyonunu sağlamak amacıyla uygulanan 
+koçluk tekniğini, 
+ISCO: Uluslararası Standart Meslek Sınıflamasını, 
+KOÇLUK GÜNDEMİ: Müşterinin görüşmelerde konuşmak ve netleştirmek istediği 
+konuların her birini, 
+KOÇLUK HİZMETİ/SÜRECİ: İstenen performansa ve yaşam tatminine ulaşmak için koç ve 
+müşteri arasında kurulan planlı gelişim ilişkisini, 
+MÜŞTERİ: Koçluk hizmetinin verildiği kişiyi,  
+ÖDEV VERME TEKNİĞİ:  Müşterinin hedefe uygun eylem planları çerçevesinde 
+gerçekleştirmesi için Koç tarafından verilen görev ve sorumlulukları, 
+REFERANS BELGESİ: Koçun hizmet verdiği müşteri ve/veya sponsor ya da işveren taraftan 
+alınmış, verdiği hizmetin konusu ve toplam saatinin beyan edildiği ki mlik ve adres bilgileri 
+bulunan tarihli ve imzalı resmi kayıt/belgeyi, 
+RİSK: Tehlikeden kaynaklanacak kayıp, yaralanma ya da başka zararlı sonuç meydana gelme 
+ihtimalini, 
+
+===== PAGE 4 =====
+15UY0215-6 Koç                                      Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           2 
+ 
+SÖZ ALMA TEKNİĞİ:  Koç tarafından müşteriye verile n ödevlerin veya müşterinin eylem 
+planını gerçekleştireceğine dair söz vermesine dayalı koçluk tekniğini, 
+SPONSOR: Koçluk hizmetinin bedelini ödeyen tarafı, 
+TAKİP ETME TEKNİĞİ: Koçun verdiği görevlerle ilgili müşteriden geribildirim almasını,  
+TEHLİKE: İşyerinde var olan ya da dışarıdan gelebilecek, çalışanı veya işyerini 
+etkileyebilecek zarar veya hasar verme potansiyelini, 
+YAŞAM ÇEMBERİ: Müşterinin yaşam alanlarını birlikte tasvir etmek için kullanılan koçluk 
+aracını, 
+DAVRANIŞ BOZUKLUĞU: Bedensel bir neden söz konusu olmadan özellikle toplumsal 
+uyuma ilişkin davranışlarda baş gösteren düzensizlikleri 
+ifade eder. 
+
+===== PAGE 5 =====
+15UY0215-6 Koç                                      Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           1 
+ 
+15UY0215-6 KOÇ ULUSAL YETERLİLİĞİ 
+1 YETERLİLİĞİN ADI Koç 
+2 REFERANS KODU 15UY0215-6 
+3 SEVİYE 6 
+4 ULUSLARARASI SINIFLANDIRMADAKİ YERİ ISCO 08: 2635 (Sosyal hizmet ve danışmanlık ile ilgili profesyonel meslek mensupları) 
+5 TÜR - 
+6 KREDİ DEĞERİ - 
+7 
+A) YAYIN TARİHİ 22/07/2015 
+B) REVİZYON/TADİL NO 
+Rev. No: 01 
+Tadil No: 01 
+Tadil No: 02 
+C) REVİZYON/TADİL TARİHİ 
+01 No’lu Revizyon 30/10/2019-2019/140 
+01 No’lu Tadil 10/06/2020-1570  
+02 No’lu Tadil 14/02/2022-915 
+03 No’lu Tadil 24/05/2022-3065 
+8 AMAÇ 
+Bu ulusal yeterlilik bireylerin kişisel ve profesyonel 
+potansiyelini gerçekleştirmeye yönelik farkındalık, 
+gelişim ve çözüm seçeneklerini artırıcı ve bu yönde 
+destekleyici çalışmaları yürüten Koçların sahip olması 
+gereken bilgi, beceri ve yetkinlikleri tanımlamak, mesleki 
+yeterliliklerini geçerli ve güvenilir bir belge ile 
+kanıtlamalarına imkân sağ lamak, eğitim ile sınav ve 
+belgelendirme kuruluşlarına kaynak ve referans 
+oluşturmak, bireylere mesleğe ilişkin eğitim konusunda 
+rehberlik sağlamak amacıyla hazırlanmıştır. 
+9 YETERLİLİĞE KAYNAK TEŞKİL EDEN MESLEK STANDART(LAR)I  
+13UMS0318-6 Koç (Seviye 6) Rev. 01 Ulusal Meslek Standardı 
+10 YETERLİLİK SINAVINA GİRİŞ ŞART(LAR)I 
+Bu yeterliliğin A2 biriminin ek A2-1 bölümünde tanımlanan eğitim konularına uygun olarak temel 
+koçluk bilgi ve becerilerini, uygulamaları ile birlikte içeren asgari 60 saatlik eğitim alma 
+11 YETERLİLİĞİN YAPISI 
+ 11-a) Zorunlu Birimler  
+15UY0215-6/A1: İş Sağlığı ve Güvenliği, Çevre Koruma, İş Organizasyonu, Kalite ve Mesleki Gelişim 
+15UY0215-6/A2: Koçluk Sürecini Yapılandırma ve Yürütme 
+ 11-b) Seçmeli Birimler  
+- 
+ 11-c) Birimlerin Gruplandırılma Alternatifleri  
+
+===== PAGE 6 =====
+15UY0215-6 Koç                                      Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           2 
+ 
+- 
+12 ÖLÇME VE DEĞERLENDİRME 
+Koç (Seviye 6) Ulusal Yeterliliğinin sınavına girmek isteyen adaylar A2 yeterlilik birimin EK A2 -1 
+kapsamında tanımlanan konularda eğitim aldıklarını kanıtlayıcı nitelikteki resmi kayıtları sınav ve 
+belgelendirme kuruluşuna sunmak zorundadırlar. Adaylar tarafından sunulacak kayıtların; tanımlanan 
+eğitim konuları ile ilişkilendirilebilecek nitelikte açık ve anlaşılır, ilgili konuda alınan eğitimin amacı, 
+içeriği, süresi ile eği tmene ilişkin bilgileri içerecek şekilde ve eğitimi düzenleyen kuruluş tarafından 
+onaylanmış olması gerekmektedir. Aday tarafından sunulacak kayıtlar sınav ve belgelendirme kuruluşu 
+tarafından ve değerlendirici ölçütlerini karşılayan kişiler tarafından değerlendirilmelidir. 
+Koç (Seviye 6) Mesleki Yeterlilik Belgesini elde etmek isteyen adaylar birimlerde tanımlanan teorik ve 
+performansa dayalı sınavlara tabi tutulur. Adayların yeterlilik belgesini alabilmeleri için teorik ve 
+performansa dayalı sınavların ikisinden de başarılı olmaları şartı vardır.  
+Yeterlilik birimlerindeki teorik ve performansa dayalı sınavlar, her bir birim için ayrı ayrı yapılabileceği 
+gibi birlikte de yapılabilir. Ancak her birimin değerlendirmesi bağımsız yapılmalıdır. 
+Yeterlilik birimlerinin geçerlilik süresi, birimin başarıldığı tarihten itibaren 2 yıldır. Yeterlilik birimlerinin 
+birleştirilerek bir yeterliliğin elde edilebilmesi için tüm birimlerin geçerliliğini koruyor olması 
+gerekmektedir. 
+13 DEĞERLENDİRİCİ ÖLÇÜTLERİ 
+Koç (Seviye 6)  Ulusal Yeterliliğinin ölçme ve değerlendirme süreçlerinde görev alacak sınav 
+komisyonunda aşağıdaki koşullara göre asgari iki (2) değerlendirici görevlendirilir.  
+ 
+ Değerlendiricilerden biri psikoloji, sosyoloji, eğitim bilimleri, insan kaynakları, işletme veya iletişim 
+bölümlerinden birinde öğretim üyesi/görevlisi olmalı ve A2 biriminin ek A2-1 bölümünde tanımlanan 
+eğitim konularına uygun olarak asgari 60 saatlik Koçluk eğitimi almış olmalı, 
+ Diğer değerlendirici; asgari 500 saat fiili ko çluk deneyimine sahip olmalı ve asgari 500 saat koçluk 
+eğitimi vermiş olmalı veya Asgari 800 saat fiili koçluk deneyime sahip olmalıdır. Değerlendiriciler;  
+yararlanıcılar (eğitim verme için), müşteriler ve/veya işveren ya da sponsorlardan alınan fatura, 
+sözleşme ve referans belgesi gibi resmi kayıtlarla eğitim ve deneyim durumlarını 
+belgelendirmelidirler.  
+ 
+Yukarıdaki özelliklere sahip olan  ve ölçme ve değerlendirme sürecinde görev alacak değerlendiricilere; 
+ilgili alanda yetkilendirilmiş kuruluşlar tarafı ndan mesleki yeterlilik sistemi, kişinin görev alacağı ulusal 
+yeterlilik(ler), ilgili ulusal meslek standart(lar)ı, ölçme -değerlendirme ve ölçme -değerlendirmede kalite 
+güvencesi konularında eğitim sağlanmalıdır. 
+14 BELGE GEÇERLİLİK SÜRESİ Koç  (Seviye 6) Mesleki Yeterlilik Belgesinin geçerlilik süresi beş (5) yıldır. 
+15 GÖZETİM SIKLIĞI - 
+16 
+BELGE YENİLEMEDE 
+UYGULANACAK ÖLÇME- 
+DEĞERLENDİRME YÖNTEMİ 
+Beş (5) yıllık geçerlilik süresinin sonunda belge sahibinin 
+performansı aşağıda tanımlanan yöntemlerden en  az biri 
+kullanılarak değerlendirmeye tabi tutulur; 
+a)  5 yıl belge geçerlilik süresi içerisinde toplamda en az 
+iki yıl veya son altı ay boyunca ilgili alanda çalıştığını 
+gösteren kayıtları (hizmet dökümü, referans 
+
+===== PAGE 7 =====
+15UY0215-6 Koç                                      Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           3 
+ 
+yazısı/mektubu, sözleşme, fatura, portfol yo ve benzeri) 
+sunmak,  
+b) Yeterlilik kapsamında yer alan yeterlilik birimleri için 
+tanımlanan uygulama sınavlarına katılmak. 
+Değerlendirme sonucu olumlu olan adayların belge 
+geçerlilik süreleri 5 yıl daha uzatılır. 
+17 MESLEKTE YATAY ve DİKEY İLERLEME YOLLARI - 
+18 YETERLİLİĞİ GELİŞTİREN KURULUŞ(LAR) 
+Koçluk Platformu Derneği  
+Uluslararası Profesyonel Koçluk Derneği  
+Yönderlik ve Koçluk Derneği 
+19 YETERLİLİĞİ DOĞRULAYAN SEKTÖR KOMİTESİ MYK İş ve Yönetim Sektör Komitesi 
+ 
+
+===== PAGE 8 =====
+15UY0215-6/A1 İş Sağlığı ve Güvenliği, Çevre Koruma, İş 
+Organizasyonu, Kalite ve Mesleki Gelişim 
+Yayın Tarihi 30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           4 
+ 
+15UY0215-6/A1 İŞ SAĞLIĞI VE GÜVENLİĞİ, ÇEVRE KORUMA, İŞ ORGANİZASYONU, 
+KALİTE ve MESLEKİ GELİŞİM YETERLİLİK BİRİMİ 
+1 YETERLİLİK BİRİMİ ADI İş Sağlığı ve Güvenliği, Çevre Koruma, İş Organizasyonu, Kalite ve Mesleki Gelişim  
+2 REFERANS KODU 15UY0215-6/A1 
+3 SEVİYE 6 
+4 KREDİ DEĞERİ - 
+5 
+A) YAYIN TARİHİ 22/07/2015 
+B) REVİZYON/TADİL NO 
+Rev. No: 01 
+Tadil No: 01 
+Tadil No: 02 
+Tadil No: 03 
+C) REVİZYON/TADİL TARİHİ 
+01 No’lu Revizyon 30/10/2019-2019/140 
+01 No’lu Tadil 10/06/2020-1570  
+02 No’lu Tadil 14/02/2022-915 
+03 No’lu Tadil 24/05/2022-3065 
+6  YETERLİLİK BİRİMİNE KAYNAK TEŞKİL EDEN MESLEK STANDARDI 
+13UMS0318-6 Koç (Seviye 6) Rev. 01 Ulusal Meslek Standardı 
+7  ÖĞRENME KAZANIMLARI 
+Öğrenme Kazanımı 1: Çalışma ortamında uygulayacağı iş sağlığı ve güvenliği ile  çevre koruma 
+önlemlerini açıklar.  
+Alt Öğrenme Kazanımları:  
+1.1. Çalışma ortamında uygulayacağı güvenli ve sağlıklı çalışma yöntemlerini açıklar.  
+1.2. Çalışma ortamında oluşabilecek olası acil durumlar için belirlenen prosedürleri tanımlar. 
+1.3. Çalışma ortamında alınması gereken çevre koruma önlemlerini açıklar. 
+ 
+Öğrenme Kazanımı 2: Koçluk hizmetlerinin iş programlaması, kayıt ve mali prosedürlerine ilişkin 
+iş organizasyonlarını açıklar. 
+Alt Öğrenme Kazanımları: 
+2.1. Verdiği hizmetlerin tanıtımı ile ilgili stratejisini ve uygulamalarını açıklar.  
+2.2. Koçluk hizmetlerinin teklif, sözleşme ve mali prosedürlerini yasal hükümlere göre açıklar. 
+2.3. Müşteri(ler)e ve vereceği hizmete uygun bir iş programı oluşturmadaki kritik faktörleri açıklar. 
+2.4. Çalışma ortamının ve materyallerin,  yapılacak görüşmeye uygun olarak nasıl düzenleneceğini 
+açıklar.  
+2.5. Hizmet süreçleri ve müşterilerin kayıtlarını tutma ve güvenliği sağlama yöntemlerini açıklar. 
+ 
+Öğrenme Kazanımı 3: Koçluk hizmetlerinin kalitesini izleyerek gerekli iyileştirmeleri belirler. 
+Alt Öğrenme Kazanımları: 
+3.1. Koçluk hizmetlerinin kalitesinin izlenmesine ve hizmet geliştirmeye yönelik bilgiler ve 
+uygulamaları gerekçeli olarak açıklar. 
+3.2. Koçluk hizmetlerinde öz değerlendirme uygulamasını gerekçeleri ile açıklar.  
+ 
+ 
+
+===== PAGE 9 =====
+15UY0215-6/A1 İş Sağlığı ve Güvenliği, Çevre Koruma, İş 
+Organizasyonu, Kalite ve Mesleki Gelişim 
+Yayın Tarihi 30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           5 
+ 
+Öğrenme Kazanımı 4: Koçluk hizmetleri ile ilgili mesleki gelişim kaynakları ve uygulamalarını 
+açıklar. 
+Alt Öğrenme Kazanımları: 
+4.1. Mesleki eğitim alınabilecek resmi tanınırlığı olan programları açıklar.  
+4.2. Mesleki faaliyetleri ile ilgili güncel yasa ve normları açıklar. 
+4.3. Koçun kişisel gelişimi ile ilgili uygulamaları açıklar.  
+4.4. Koçluk uygulamalarında, koçun gelişimi için meslektaş desteğini içeren uygulamaları açıklar.  
+8  ÖLÇME VE DEĞERLENDİRME 
+ 8 a) Teorik Sınav 
+Çoktan Seçmeli Soru Sınav (T1): Teorik sınavda değerlendirme aracı T1 olan ölçütler için adaylara en 
+az 35 soruluk 5 seçenekli çoktan seçmeli ve her biri eşit puan değerinde olan sorular sorulur. Çoktan 
+seçmeli sorularla düzenlenmiş sınavda boş bırakılan veya yanlış cevaplandırılan sorulardan herhangi bir 
+puan indirimi yapılmaz. Sınavda adaylara her soru için ortalama bir dakika süre verilir. T1 sınavında 
+soruların en az % 80’ine doğru yanıt veren başarılı sayılır. Sınav soruları, bu birimde T1 sınavı ile 
+ölçülmesi öngörülen tüm bilgi ifadelerini (Ek A1-2) ölçmelidir. 
+ 8 b) Performansa Dayalı Sınav 
+A1 yeterlilik biriminde performansa dayalı sınav bulunmamaktadır. 
+ 8 c) Ölçme ve Değerlendirmeye İlişkin Diğer Koşullar 
+Yeterlilik biriminin geçerlilik süresi birimin başarıldığı tarihten itibaren 2 yıldır.    
+9 
+YETERLİLİK BİRİMİNİ 
+GELİŞTİREN 
+KURUM/KURULUŞ(LAR) 
+Koçluk Platformu Derneği  
+Uluslararası Profesyonel Koçluk Derneği  
+Yönderlik ve Koçluk Derneği 
+10 
+YETERLİLİK BİRİMİNİ 
+DOĞRULAYAN 
+SEKTÖR KOMİTESİ  
+MYK İş ve Yönetim Sektör Komitesi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 10 =====
+15UY0215-6/A1 İş Sağlığı ve Güvenliği, Çevre Koruma, İş 
+Organizasyonu, Kalite ve Mesleki Gelişim 
+Yayın Tarihi 30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           6 
+ 
+YETERLİLİK BİRİMİ EKLERİ 
+ 
+EK A1-1: Yeterlilik Biriminin Kazandırılması için Tavsiye Edilen Eğitime İlişkin Bilgiler 
+ 
+1. Koçluk çalışma ortamlarında iş sağlığı ve güvenliği ile çevre koruma  
+ İş sağlığı ve güvenliğinde işverenlerin ve çalışanların hukuki yükümlülükleri 
+ Araç, gereç ve ekipmanların güvenli kullanımı ile ilgili talimat ve prosedürler ve bunları iş 
+süreçlerine uygulama 
+ Risk ve tehlike kavramları, türleri ve özellikleri 
+ Çalışma ortamındaki riskleri değerlendirme yöntem/metotları 
+ Acil durum türleri ve acil durumlarda harekât tarzı 
+ Temel atık yönetimi 
+ Çalışma ortamında kaynak verimliliği uygulamaları 
+ 
+2. Koçluk hizmetinde iş organizasyonu 
+ Koçluk hizmetinde tanıtım faaliyetleri 
+ İş programı hazırlama ve çalışma ortamını düzenleme 
+ Koçluk hizmetinde teklif, sözleşme ve mali prosedürlerin yürütülmesi 
+ Koçluk hizmetinde kayıt tutma, arşivleme ve bilgi güvenliği 
+ 
+3. Koçluk hizmetinde kalite, izleme ve değerlendirme 
+ Hizmet kalitesini izleme ve değerlendirme yöntemleri 
+ Öz değerlendirme yapma 
+ 
+4. Koçluk mesleki gelişim uygulamaları 
+ Kariyer ve mesleki gelişimini planlama 
+ Koçluk hizmetleri ile ilgili temel mesleki kaynakları, mevzuat ve normlar  
+ Koçluk hizmetlerinde mentorluk uygulamaları 
+ 
+EK A1-2: Yeterlilik Biriminin Ölçme ve Değerlendirmesinde Kullanılacak Kontrol Listesi 
+a) BİLGİLER 
+ 
+ 
+No 
+ 
+Bilgi İfadesi 
+UMS İlgili 
+Bölüm 
+Yeterlilik 
+Birimi  
+Başarım 
+Ölçütü 
+Değerlendirme 
+ Aracı 
+BG.1 Tehlike ve risk kavramlarını ve birbiri ile ilişkisini tanımlar. A.1.1 1.1 T1 
+BG.2 Koçluk hizmetlerinin verildiği ortamlarla ilgili iş sağlığı ve güvenliği tehlike ve risklerini açıklar. A.1.1 1.1 T1 
+BG.3 Koçluk uygulamalarına bağlı olası riskleri ve risklere karşı alınması gereken uygun önlemleri tanımlar. A.1.1 1.1 T1 
+BG.4 
+Koçluk hizmetlerinin verildiği ortamlarla ilgili iş sağlığı 
+ve güvenliğine ilişkin mevzuata göre, çalışma ortamında 
+oluşturulması gereken kontrol önlemlerini açıklar. 
+A.1.3 1.1 T1 
+BG.5 İş ortamında kullandığı araç, gereç ve ekipmanların güvenli kullanılma yöntemlerini açıklar. A.1.2 1.1 T1 
+BG.6 Çalışma ortamında meydana gelebilecek iş kazası durumlarında neler yapılacağını açıklar. A.2.2 A.2.3 1.2 T1 
+
+===== PAGE 11 =====
+15UY0215-6/A1 İş Sağlığı ve Güvenliği, Çevre Koruma, İş 
+Organizasyonu, Kalite ve Mesleki Gelişim 
+Yayın Tarihi 30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           7 
+ 
+ 
+No 
+ 
+Bilgi İfadesi 
+UMS İlgili 
+Bölüm 
+Yeterlilik 
+Birimi  
+Başarım 
+Ölçütü 
+Değerlendirme 
+ Aracı 
+BG.7 Koçluk hizmetlerinin verildiği ortamlara ilişkin acil durum planını açıklar. A.2.1 1.2 T1 
+BG.8 Çevre koruma ve çevre güvenliği ile kaynak kullanım verimliliğine ilişkin kavramları tanımlar. A.3.1 A.3.2 1.3 T1 
+BG.9 
+Çalışma ortamında oluşan çevresel atıkların ve 
+dönüştürülebilir malzemelerin bertarafına yönelik 
+uygulamaları açıklar. 
+A.3.1 1.3 T1 
+BG.10 Mesleki olarak kendisi ve koçluk hizmetlerine uygun tanıtım strateji/stratejilerini açıklar. B.1.1-B.1.4 2.1 T1 
+BG.11 Mesleki olarak kendisi ve koçluk hizmetleri için uygun tanıtım araçları ve uygulamalarını açıklar. B.1.1-B.1.4 2.1 T1 
+BG.12 Yüz yüze tanıtım stratejisi açısından, farklı taraflara göre gerçekleştirilebilecek iletişim faaliyetlerini açıklar.  B.1.2, B.1.4 2.1 T1 
+BG.13 
+Koçluk hizmetleri ile ilgili bir teklif metninde yer alması 
+gereken mesleki, hukuki, mali olarak temel/ kritik içeriği 
+tanımlar. 
+B.2.1- B.2.6, 
+B.8.2 2.2 T1 
+BG.14 
+Koçluk hizmetleri ile ilgili bir sözleşme metninde yer 
+alması gereken mesleki, hukuki, mali olarak temel/ kritik 
+içeriği ve müeyyideleri açıklar. 
+B.2.5-B.2.6 
+B.6.2, B.7.2 2.2 T1 
+BG.15 Koçluk hizmetinin mali değerini ve bütçelendirmesini belirleyen faktörleri açıklar. B.7.1, B.7.2 2.2 T1 
+BG.16 
+Koçluk hizmeti ile ilgili faturalandırma ve vergilendirme 
+ile ilgili temel yasal hükümleri ve temel uygulamaları 
+açıklar. 
+B.7.3 2.2 T1 
+BG.17 
+Koçluk hizmet türlerinin içeriğine ve farklılıklarına göre, 
+bir iş programında zamanlama için dikkat edilmesi 
+gereken unsurları açıklar. 
+B.3.1, B.3.2 2.3 T1 
+BG.18 
+Verilen hizmetlerin içeriğine ve farklılıklarına göre, bir 
+iş programında, seans akışı ve müşteriler arası 
+düzenlemelerde dikkat edilmesi gereken unsurları 
+açıklar. 
+B.3.1, B.3.2 2.3 T1 
+BG.19 Görüşme veya seansa uygun olarak çalışma ortamını ve materyallerini nasıl düzenleneceğini açıklar. A.1.3, B.4.1 2.4 T1 
+BG.20 Koçluk hizmetleri için tutulması gereken mesleki kayıtları tanımlar. B.5.1, B.5.2 2.5 T1 
+BG.21 Koçluk hizmetlerindeki mesleki kayıtların doğru tutulma ve arşivlenme usullerini açıklar. B.5.1, B.5.2, B.5.3 2.5 T1 
+
+===== PAGE 12 =====
+15UY0215-6/A1 İş Sağlığı ve Güvenliği, Çevre Koruma, İş 
+Organizasyonu, Kalite ve Mesleki Gelişim 
+Yayın Tarihi 30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           8 
+ 
+ 
+No 
+ 
+Bilgi İfadesi 
+UMS İlgili 
+Bölüm 
+Yeterlilik 
+Birimi  
+Başarım 
+Ölçütü 
+Değerlendirme 
+ Aracı 
+BG.22 Koçluk hizmeti kayıtlarından güvenlik altına alınması gerekenleri neler olduğunu sıralar. B.6.1-B.6.4 2.5 T1 
+BG.23 Koçluk hizmetinde kayıtların güvenliğine yönelik önlemleri ve gerekçelerini açıklar. B.6.3, B.6.4 2.5 T1 
+BG.24 Koçluk hizmeti ile ilgili tutulması gereken mali kayıtları tanımlar. B.7.4 2.5 T1 
+BG.25 Koçluk hizmetlerinde kalite kavramını ve kapsamını açıklar. E.1.2, E.1.3, E.2.1, E.2.2 3.1 T1 
+BG.26 
+Koçluk hizmetlerinin niteliğinin izlenmesi için gerekli 
+temel veri ve bilgileri (hizmet türü, müşteri, süre vb.) 
+açıklar. 
+E.1.1 3.1 T1 
+BG.27 Verdiği koçluk hizmetlerini geliştirmeye yönelik uygulamaları gerekçeleri ile açıklar. E.1.2, E.1.3, E.2.1, E.2.2 3.1 T1 
+BG.28 Koçluk hizmetleri ile ilgili bir öz değerlendirme formunun temel içeriğini açıklar. E.2.1, E.2.2 3.2 T1 
+BG.29 Koçluk hizmetleri ile ilgili seans/faaliyet ve süreç temelli öz değerlendirme uygulamalarını açıklar. E.2.1, E.2.2 3.2 T1 
+BG.30 Mesleki eğitim alınabilecek resmi tanınırlığı olan programları açıklar.  F.1.1 4.1 T1 
+BG.31 Mesleki faaliyetleri ile ilgili güncel yasa ve normları açıklar.  F.1.3 4.2 T1 
+BG.32 Mesleki olarak kariyer gelişimi kavramını açıklar. F.1.1-F.1.4 4.3 T1 
+BG.33 
+Koçluk hizmetleri faaliyet alanlarına (yaşam, kariyer, 
+eğitim, yönetici koçluğu vb.) göre, gerekli bilgi ve beceri 
+türlerini ve uygulamalarla ilişkilerini açıklar. 
+F.1.1-F.1.4 4.3 T1 
+BG.34 Örnek senaryoya göre koçun süreçteki tutum ve davranış ve yaklaşımını açıklar. F.2.1, F.2.2 4.4 T1 
+BG.35 Koçluk uygulamaları ile ilgili örnek durumlarda, verilen senaryoya göre koçun bilgi beceri ihtiyaçlarını açıklar. F.2.1, F.2.2 4.4 T1 
+ 
+b) BECERİ VE YETKİNLİKLER 
+ 
+ 
+No 
+ 
+Beceri ve Yetkinlik İfadesi 
+UMS İlgili 
+Bölüm 
+Yeterlilik 
+Birimi 
+Başarım 
+Ölçütü 
+Değerlendirme 
+Aracı 
+BY.1 - - - - 
+
+===== PAGE 13 =====
+15UY0215-6/A2 Koçluk Sürecini Yapılandırma ve Yürütme                         Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           9 
+ 
+15UY0215-6/A2 KOÇLUK SÜRECİNİ YAPILANDIRMA VE YÜRÜTME 
+YETERLİLİK BİRİMİ 
+1 YETERLİLİK BİRİMİ ADI Koçluk Sürecini Yapılandırma ve Yürütme 
+2 REFERANS KODU 15UY0215-6/A2  
+3 SEVİYE 6 
+4 KREDİ DEĞERİ - 
+5 
+A) YAYIN TARİHİ 22/07/2015 
+B) REVİZYON/TADİL NO 
+Rev. No: 01 
+Tadil No: 01 
+Tadil No: 02 
+Tadil No: 03 
+C) REVİZYON/TADİL TARİHİ 
+01 No’lu Revizyon 30/10/2019-2019/140 
+01 No’lu Tadil 10/06/2020-1570  
+02 No’lu Tadil 14/02/2022-915 
+03 No’lu Tadil 24/05/2022-3065 
+6  YETERLİLİK BİRİMİNE KAYNAK TEŞKİL EDEN MESLEK STANDARDI 
+13UMS0318-6 Koç (Seviye 6) Rev. 01 Ulusal Meslek Standardı 
+7  ÖĞRENME KAZANIMLARI 
+Öğrenme Kazanımı 1: Koçluk hizmeti için müşterinin özellikleri ve ihtiyaçlarını belirler. 
+Alt Öğrenme Kazanımları:  
+1.1. Müşterinin özelliklerine ve hizmet ihtiyaçlarına yönelik bilgi toplar. 
+1.2. Müşteriyi tanımaya yönelik koçluk yöntem ve tekniklerini uygular. 
+1.3. Müşterinin profilini oluşturur. 
+ 
+Öğrenme Kazanımı 2: Müşteri ile koçluk ilişkisini etik kurallara, koçluk yöntemlerine, müşterinin 
+profiline ve hizmet ihtiyaçlarına uygun şekilde oluşturur. 
+Alt Öğrenme Kazanımları:  
+2.1. Müşteri ile etkili ve mesleki etik kurallara uygun koçluk ilişkisi ve iletişimi kurar.   
+2.2. Müşterinin koçluk gündemini netleştirir. 
+2.3. Müşteriyle görüşme süreçlerini amacına uygun olarak yapılandırır. 
+2.4. Koçluk anlaşması uygulamasının içeriği ve amaçlarını açıklar. 
+ 
+Öğrenme Kazanımı 3: Müşterinin eylem planı oluşturmasına destek verir.   
+Alt Öğrenme Kazanımları:  
+3.1. Müşterinin belirlediği hedeflerine ulaşması ile ilgili eylemlerin tanımlanmasına yönelik uygulamaları 
+gerçekleştirir.  
+3.2. Müşterinin; hedeflerine göre belirlediği eylemleri zamanlama ve aşamalandırma olarak 
+düzenlemesini ve kararlılığını değerlendirmesini sağlar.  
+ 
+Öğrenme Kazanımı 4: Müşterinin eylem planını uygulamasını sağlar.   
+Alt Öğrenme Kazanımları:   
+4.1. Müşterinin eyleme geçmesine yönelik teknikleri uygular.  
+4.2. Müşterinin özgüvenini desteklemeye yönelik teknikleri uygular.   
+ 
+
+===== PAGE 14 =====
+15UY0215-6/A2 Koçluk Sürecini Yapılandırma ve Yürütme                         Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           10 
+ 
+Öğrenme Kazanımı 5: Müşterinin eylem planına göre, gelişim sürecini izleme, değerlendirme ve 
+koçluk sürecini tamamlama uygulamalarını gerçekleştirir. 
+Alt Öğrenme Kazanımları:  
+5.1.  Kendisi ve müşterinin ilerleme sürecini izlemesine yönelik uygulamaları, müşterinin hedeflerine ve 
+eylem planına göre yapar.  
+5.2.  Koçluk sürecinde izleme ve sonlandırmaya yönelik değerlendirme uygulamalarını yapar.  
+8  ÖLÇME VE DEĞERLENDİRME 
+ 8 a) Teorik Sınav 
+A2 yeterlilik birimine yönelik teorik sınav Ek A2 -2’de yer alan “Bilgiler” kontrol listesine göre 
+gerçekleştirilir. Adayın teorik sınavdan başarılı olabilmesi için aşağıda tanımlanan T1 ve T2 sınavlarının 
+her ikisinden de başarılı olması gerekir. 
+ 
+Çoktan Seçmeli Sınav (T1): Teorik sınavda değerlendirme aracı T1 olan ölçütler için adaylara en az 2 4 
+soruluk 5 seçenekli çoktan seçmeli ve her biri eşit puan değerinde olan sorular sorulur. Çoktan seçmeli 
+sorularla düzenlenmiş sınavda boş bırakılan veya yanlış cevaplandırılan sorulardan herhangi bir puan 
+indirimi yapılmaz. Sınavda adaylara her soru için ortalama bir dakika süre verilir. T1 sınavında soruların 
+en az % 80’ine doğru yanıt veren başarılı sayılır. Sınav soruları, bu birimde T1 sınavı ile ölçülmesi 
+öngörülen tüm bilgi ifadelerini (Ek A2-2) ölçmelidir. 
+ 
+Açık Uçlu Sınav (T2) : Teorik sınavda değer lendirme aracı T2 olan ölçütler için de adaylara, ölçütlerin 
+tüm içeriğini kapsayacak şekilde hazırlanmış ve puan değerleri ölçüt içeriği ve seviyeye uygun belirlenmiş 
+açık uçlu en az 1 sorunun kullanıldığı yazılı sınav uygulanmalıdır. T2 sınavı için adayl ara ölçüt, soru 
+içeriği ve seviye dikkate alınarak belirlenmiş sürede zaman verilir. T2 sınavında 100 üzerinden en az 80 
+puan alan aday başarılı sayılır. Sınav soruları, bu birimde T2 sınavı ile ölçülmesi öngörülen tüm bilgi 
+ifadelerini (Ek A2-2) ölçmelidir. 
+ 8 b) Performansa Dayalı Sınav 
+Koçluk Süreci Müşteri Görüşmesi (P1) : Adayın uygulanan senaryo üzerinden koçluk sürecini 
+yapılandırma ve yürütme performansı değerlendirilir. Performansa dayalı sınavda adayın (gerçek/rol 
+yapan) bir müşteri ile en az 25 dakika sürecek görüşme gerçekleştirmesi beklenir. Performansa dayalı 
+sınav, gerçek veya gerçeğine uygun olarak düzenlenmiş çalışma ortamında, Ek A2 -2’deki “Beceriler ve 
+Yetkinlikler” kontrol listesine göre gerçekleştirilir. Adayın, performansa dayalı sınavdan başarı sağlaması 
+için kritik adımların tamamından başarılı olmak kaydıyla bütün adımlardan % 80 oranında başarılı olması 
+gerekmektedir. Beceri ve yetkinlik ifadelerinin (Ek A2 -2) tamamı performansa dayalı sınav ile 
+ölçülmelidir.   
+ 
+Koçluk Süreci Geri Bildirim Uygulaması (P2): Adayın P1 sınavında gerçekleştirdiği görüşme ile ilgili 
+geri bildirimlerini sınav komisyonuna sunma performansı değerlendirilir. Sunum esnasında değerlendirici 
+heyet, beceri ve yetkinlik kontrol listesindeki adımların gerçekleşme düzeyine göre, beceri ve yetkinlik 
+kontrol listesine dayalı sorular sorara k adayın açıklama yapmasını sağlar . Performansa  dayalı sınav, 
+gerçek veya gerçeğine uygun olarak düzenlenmiş çalışma ortamında, Ek A2 -2’deki “Beceriler ve 
+Yetkinlikler” kontrol listesine göre gerçekleştirilir. Adayın, performansa dayalı sınavdan başarı sağlaması 
+için kritik adımların tamamından başarılı olmak kaydıyla bütün adımlardan % 80 oranında başarılı olması 
+gerekmektedir. Beceri ve yetkinlik ifadelerinin (Ek A2 -2) tamamı performansa dayalı sınav ile 
+ölçülmelidir.   
+ 
+ 
+ 
+
+===== PAGE 15 =====
+15UY0215-6/A2 Koçluk Sürecini Yapılandırma ve Yürütme                         Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           11 
+ 
+ 8 c) Ölçme ve Değerlendirmeye İlişkin Diğer Koşullar 
+Birim için öngörülen sınavların (T1, T2, P1 , P2) geçerlilik süresi sınavın başarıldığı tarihten itibaren 1 
+yıldır. Birimin elde edilebilmesi için başarılan sınav tarihleri arasındaki süre farkı bir yılı geçemez. P1 ve 
+P2 sınavları art arda yapılmalı ancak her bir sınavın değerlendirmesi bağımsız yapılmalıdır. 
+Yeterlilik biriminin geçerlilik süresi birimin başarıldığı tarihten itibaren 2 yıldır. 
+9 
+YETERLİLİK BİRİMİNİ 
+GELİŞTİREN 
+KURUM/KURULUŞ(LAR) 
+Koçluk Platformu Derneği  
+Uluslararası Profesyonel Koçluk Derneği  
+Yönderlik ve Koçluk Derneği 
+10 
+YETERLİLİK BİRİMİNİ 
+DOĞRULAYAN 
+SEKTÖR KOMİTESİ  
+MYK İş ve Yönetim Sektör Komitesi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== PAGE 16 =====
+15UY0215-6/A2 Koçluk Sürecini Yapılandırma ve Yürütme                         Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           12 
+ 
+YETERLİLİK BİRİMİ EKLERİ 
+ 
+EK A2-1: Yeterlilik Biriminin Kazandırılması için Tavsiye Edilen Eğitime İlişkin Bilgiler 
+ 
+ 
+1. Koçluk Sistemi Temel Bilgileri 
+ Temel Koçluk Bilgileri 
+ Koçluk Etik Kuralları 
+ Koçluğun Kullanım Alanları 
+ Koçluk Sınırları  
+ Koçluk Yetkinlikleri 
+ Koçluk Sürecinde Görüşme İlke ve Teknikleri 
+ Koçluk Teknikleri 
+ 
+2. Koçluk Teknikleri ve Yöntemleri 
+ Ana Çalışma Teması Belirleme 
+ Müşteriyi Tanıma 
+ Koçlukta Etkili iletişim 
+ Yaratıcı Düşünme Teknikleri 
+ Hedef Belirleme 
+ Eylem Planlama ve Önceliklendirme 
+ 
+ 
+ 
+EK A2-2:Yeterlilik Biriminin Ölçme ve Değerlendirmesinde Kullanılacak Kontrol Listesi 
+ 
+a) BİLGİLER 
+ 
+ 
+No 
+ 
+Bilgi İfadesi 
+UMS İlgili 
+Bölüm 
+Yeterlilik 
+Birimi  
+Başarım 
+Ölçütü 
+Değerlendirme 
+ Aracı 
+BG.1 Görüşme ilke ve tekniklerini açıklar. C.2.1, C.2.2 1.1 T1 
+BG.2 Müşteriye dair doğrudan bilgi toplama uygulamalarını açıklar. C.2.1, C.2.2 1.1 T1 
+BG.3 Koçluk hizmetinin amacına göre, uygun bilgileri ve bilgi toplama tekniklerini açıklar. C.2.1- C.2.3 1.1 T1 
+BG.4 Müşteriyi tanımaya yönelik kullanılabilecek uygulama tekniklerini açıklar. C.2.3 1.2 T1 
+BG.5 Örnek durum/senaryoya göre müşterinin güçlü-zayıf yönleri, fırsatları, olanakları, riskli alanları, öğrenme 
+biçimi ve engelleri, değerleri gibi unsurlarını tanımlar. 
+C.2.4 1.3 T1 
+BG.6 
+Örnek durum/senaryoya göre müşterinin güçlü-zayıf 
+yönleri, fırsatları, olanakları, riskli alanları, öğrenme 
+biçimi ve engelleri, değerleri gibi unsurları, ilişkili 
+şekilde değerlendirerek profilini oluşturur.  
+C.2.4 1.3 T2 
+
+===== PAGE 17 =====
+15UY0215-6/A2 Koçluk Sürecini Yapılandırma ve Yürütme                         Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           13 
+ 
+BG.7 
+Müşterinin durumuna göre, hukuki, mali ve diğer ilgili 
+alanlardaki hizmet ihtiyaçlarını belirleterek uygun 
+hizmet kaynaklarına nasıl yönlendireceğini açıklar. 
+C.2.5 1.3 T1 
+BG.8 
+Müşteri ile etkili koçluk ilişkisi ve iletişiminin (etkin 
+dinleme, empati, beden dili ve benzeri) kavramlarını 
+tanımlar. 
+C.1.1- C.1.5 2.1 T1 
+BG.9 
+Koçluk hizmetlerindeki profesyonel davranış, yetkinlik 
+sınırları, sürekli mesleki gelişim, gizlilik, çıkar 
+çatışmaları ve tarafsızlık konuları ile ilgili etik kuralları 
+açıklar. 
+C.1.1- C.1.5 2.1 T1 
+BG.10 
+Örnek durum/senaryoya göre müşterinin amacına ve 
+ihtiyaçlarına uygun gelişim alanları ve ana çalışma 
+temasını belirler. 
+C.3.1, C.3.2 2.3 T1 
+BG.11 
+Müşterinin amacına göre gelişim alanları ve ana çalışma 
+temasını belirlemesine yönelik durum tespiti ve ihtiyaç 
+analizi tekniklerini açıklar. 
+C.3.1, C.3.2 2.3 T1 
+BG.12 Koçluk anlaşmasının içeriği ve uygulama koşullarını açıklar. C.3.1, C.3.2 2.4 T1 
+ 
+ 
+b) BECERİ VE YETKİNLİKLER 
+ 
+ 
+No 
+ 
+Beceri ve Yetkinlik İfadesi 
+UMS İlgili 
+Bölüm 
+Yeterlilik 
+Birimi 
+Başarım 
+Ölçütü 
+Değerlendirme 
+Aracı 
+BY.1 
+Müşteriyi tanımaya yönelik yaşam çemberi, 
+canlandırma, vizyon çalışması gibi temel koçluk 
+yöntem ve tekniklerini uygular. 
+C.2.3 1.2 P2 
+ 
+BY.2 
+Müşteri ile ilişkilerinde etkin dinleme yöntemini 
+kullanarak, müşterinin ifadelerindeki alt mesajları fark 
+eder ve görüşme tekniklerine uygun olarak yansıtır(*). 
+C.1.1-C.1.3 2.1 P1 
+BY.3 
+Müşterinin beden dili ile sözlü ifadesi arasındaki uyum 
+veya çelişkiyi belirleyerek bu duruma uygun geri 
+bildirim verir (*). 
+C.1.1-C.1.2 2.1. P2 
+BY.4 Görüşme sırasında beden dili ve sözlü ifadeleri tutarlı şekilde kullanır.  C.1.3 2.1 P1  
+BY.5 Beden dili ve sözlü ifadelerini müşterinin beden dili ve sözlü ifadelerini dikkate alarak kullanır. C.1.3 2.1 P1  
+BY.6 Müşterinin gündemine uygun ve açık uçlu sorular sorar(*). C.1.4 2.1 P1 
+ 
+BY.7 
+ 
+Müşteriyi düşünmeye teşvik edici, müşterinin 
+farkındalığını artırıcı ve yaratıcı sorular sorar(*). C.1.4 2.1 P1 
+
+===== PAGE 18 =====
+15UY0215-6/A2 Koçluk Sürecini Yapılandırma ve Yürütme                         Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           14 
+ 
+BY.8 Müşterinin gündemi ve ilerleyişi ile ilişkili sorular sorar(*). C.1.4 2.1 P1 
+ 
+BY.9 
+ 
+Müşterinin gündemine uygun, düşünmeye teşvik edici 
+ve farkındalığını artırıcı geribildirimde bulunur. (*). C.1.5 2.1 P1 
+BY.10 Müşteriyi düşünmeye teşvik edici ve eyleme geçirici geribildirimde bulunur(*). C.1.5 2.1 P1  
+BY.11 Müşteriye yaratıcı geribildirimde bulunur(*). C.1.5 2.1 P1  
+BY.12 Koçluk hizmetinin amacı, sınırları ve etik kurallar hakkında sözlü/yazılı olarak müşteriyi bilgilendirir(*).   B.6.1, B.6.2 2.1 P2 
+BY.13 
+Müşteri ile tavsiye ve karar verici veya yargılayıcı 
+konumda bulunmayacak şekilde iletişim kurar, mesleki 
+etik kurallarına uyar(*). 
+C.1.1-C.1.5 2.1 P1 
+BY.14 Müşteri tarafından mevcut görüşmenin hedefinin belirlenmesini sağlar(*).  C.2.1, D.1.1, D.1.2, D.3.3, D.4.1 2.2 P1  
+BY.15 Müşteri tarafından mevcut durumun tanımlanmasını sağlar(*).   C.2.1, D.1.1, D.1.2, D.3.3, D.4.1 2.2 P1  
+BY.16 
+Görüşme süreci dâhilinde uygun koçluk teknikleri ile 
+müşterinin seçeneklerini tanımlamasını ve 
+değerlendirmesini sağlar. 
+C.2.1, D.1.1, 
+D.1.2, D.2.1, 
+D.3.3, D.4.1 
+2.2 P1 
+BY.17 Müşteri tarafından görüşme hedefine uygun alternatif çözüm/lere karar verilmesini sağlar(*). C.2.1, D.1.1, D.1.2, D.3.3, D.4.1 2.2 P1  
+BY.18 
+Görüşme süreci dâhilinde uygun koçluk teknikleri ile 
+müşterinin seçenek/hedeflerle ilgili engeller, olanaklar 
+ve kaynakları değerlendirmesini sağlar(*).  
+D.2.1 3.1 P1  
+BY.19 
+Görüşme süreci dâhilinde uygun koçluk teknikleri ile 
+müşterinin engelleri aşma ve olanakları kullanmaya 
+dair eylemlerini tanımlamasını sağlar(*). 
+D.2.1 3.1 P1  
+BY.20 
+Uygun koçluk teknikleri ile müşterinin hedef(ler)ine 
+ulaşmak üzere belirlediği eylemleri öncelik ve 
+zamanlama sıralamasına koymasını sağlar(*). 
+D.2.2 3.2 P1  
+BY.21 
+Uygun koçluk teknikleri ile müşterinin belirlediği 
+önceliklendirme ve zamanlamaya göre, uygulama için 
+kararlılık düzeyinin belirlenmesini sağlar. 
+D.2.3 3.2 P1  
+BY.22 Söz alma tekniğini müşterinin eyleme geçmesini sağlayacak şekilde uygular(*).  D.3.1 4.1 P1  
+BY.23 Ödev verme tekniğini müşterinin eyleme geçmesini sağlayacak şekilde uygular. D.3.1 4.1 P1  
+
+===== PAGE 19 =====
+15UY0215-6/A2 Koçluk Sürecini Yapılandırma ve Yürütme                         Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           15 
+ 
+BY.24 Takip etme tekniğini müşterinin eyleme geçmesini sağlayacak şekilde uygular. D.3.1 4.1 P1  
+BY.25 İyi örnek inceleme tekniğini, müşterinin özgüvenini destekleyecek şekilde uygular. D.3.2 4.2 P1  
+BY.26 Geçmiş başarıları hatırlatma tekniğini, müşterinin özgüvenini destekleyecek şekilde uygular. D.3.2 4.2 P1  
+BY.27 Hedefe ulaştığındaki başarıyı hayal etme tekniğini, müşterinin özgüvenini destekleyecek şekilde uygular. D.3.2 4.2 P1  
+BY.28 
+Eylem planındaki adımlara göre her görüşme başında; 
+bir önceki seansta aldığı kararlar, gerçekleştirdiği 
+sonuçlar, varsa verilen ödevlerin sonuçları, hedefe 
+bağlılık ve motivasyon durumu gibi konularda müşteri 
+ile birlikte değerlendirme yapar(*).  
+D.4.1 5.1 P2 
+BY.29 
+Koçluk sürecindeki ara değerlendirmelerde müşterinin, 
+çalışma teması ve hedeflerinin geçerliliğini ve ilerleme 
+durumunu değerlendirerek belirlemesini sağlar(*). 
+D.4.2 5.1 P2  
+BY.30 
+Koçluk sürecindeki ara değerlendirmelerde müşterinin, 
+koçluk sürecinden yararlanma ve devam durumunu 
+değerlendirerek belirlemesini sağlar. 
+D.4.2 5.1 P2 
+BY.31 
+Koçluk sürecindeki ara değerlendirmelere göre, müşteri 
+devam edecek ise koçluk yöntemlerinde değişiklik 
+gerekip gerekmediğini değerlendirerek belirler. 
+D.4.2 5.1 P2 
+ 
+BY.32 
+ 
+Koçluk sürecinin sonlandırılması aşamasında, 
+müşterinin süreci gözden geçirmesini,  elde ettiği 
+ilerleme, gelişim, farkındalığa ilişkin geribildirim 
+alır(*)  
+D.5.1, D.5.2 5.2 P1  
+BY.33 
+Koçluk sürecinin sonlandırılması aşamasında, 
+müşterinin hedef(ler)e olan bağlılığını ve 
+motivasyonunu belirlemesini sağlar. 
+D.5.2 5.2 P2 
+BY.34 
+Koçluk sürecinin sonlandırılması aşamasında, 
+müşterinin geleceğe ilişkin saptamalarda bulunmasını 
+sağlar. 
+D.5.2 5.2 P1  
+BY.35 
+Sürecin sonlandırılması durumunda; müşteriye süreçte 
+elde edilen kazanımlar, farkındalıklar, yaşanılan 
+deneyimlere dair geribildirimlerde bulunur. 
+D.5.1, D.5.2 5.2 P1  
+(*) Başarılması zorunlu kritik adımlar. 
+ 
+YETERLİLİK EKLERİ 
+ 
+EK 1: Ulusal Yeterlilik Hazırlama Ekibi ve Teknik Çalışma Grubu Üyeleri 
+ 
+Ulusal Yeterliliği Geliştiren Kurum/Kuruluş 
+Koçluk Platformu Derneği,  
+Uluslararası Profesyonel Koçluk Derneği  
+Yönderlik ve Koçluk Derneği 
+ 
+Ulusal Yeterliliği Güncelleyen Kurum/Kuruluş 
+Mesleki Yeterlilik Kurumu 
+ 
+
+===== PAGE 20 =====
+15UY0215-6/A2 Koçluk Sürecini Yapılandırma ve Yürütme                         Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           16 
+ 
+EK2: Görüş İstenen Kişi, Kurum ve Kuruluşlar 
+1- Çalışma ve Sosyal Güvenlik Bakanlığı (İş Sağlığı ve Güvenliği Genel Müdürlüğü) (Mülga 
+Çalışma ve Sosyal Güvenlik Bakanlığı) 
+2- Milli Eğitim Bakanlığı (Mesleki ve Teknik Eğitim Genel Müdürlüğü) 
+3- Milli Eğitim Bakanlığı (Hayatboyu Öğrenme Genel Müdürlüğü) 
+4- Milli Eğitim Bakanlığı (Özel Öğretim Kurumları Genel Müdürlüğü) 
+5- Sanayi ve Teknoloji Bakanlığı (Sanayi Genel Müdürlüğü) (Mülga Bilim, Sanayi ve Teknoloji 
+Bakanlığı 
+6- Sanayi ve Teknoloji Bakanlığı (Personel Dairesi Başkanlığı) (Mülga Bilim, Sanayi ve Teknoloji 
+Bakanlığı  
+7- Yükseköğretim Kurulu Başkanlığı 
+8- Türkiye İstatistik Kurumu Başkanlığı 
+9- Türkiye İş Kurumu Genel Müdürlüğü 
+10- Küçük ve Orta Ölçekli İşletmeleri Geliştirme ve Destekleme İdaresi Başkanlığı 
+11- Anadolu Üniversitesi Personel Belgelendirme Birimi 
+12- Sakarya Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi 
+13- Süleyman Demirel Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi 
+14- Kocaeli Üniversitesi Sürekli Eğitim Araştırma ve Uygulama Merkezi 
+15- Türkiye İşveren Sendikaları Konfederasyonu 
+16- Türkiye İşçi Sendikaları Konfederasyonu 
+17- Hak İşçi Sendikaları Konfederasyonu 
+18- Devrimci İşçi Sendikaları Konfederasyonu 
+19- Türkiye Esnaf ve Sanatkârlar Konfederasyonu 
+20- Türkiye Odalar ve Borsalar Birliği 
+21- Türkiye Resmi Sektör İnşaat Müteahhitleri İşveren Sendikası 
+22- Mesleki Eğitim ve Küçük Sanayii Destekleme Vakfı 
+23- Türkiye İnsan Yönetimi Derneği 
+24- Çağrı Merkezleri Derneği 
+25- Norm Eğitim Danışmanlık Derneği 
+26- Koçluk Platformu Derneği 
+27- Uluslararası Profesyonel Koçluk Derneği 
+28- Yönderlik ve Koçluk Derneği 
+29- Yönetim Danışmanları Derneği 
+30- Avrupa Birliği Çalışmaları Merkezi Derneği 
+31- İstanbul Proje Yönetim Derneği 
+32- Proje Yönetimi Derneği 
+33- Türkiye Bilişim Derneği 
+34- Türkiye Prefabrik Birliği 
+35- Türk İstatistik Derneği 
+36- Türkiye Araştırmacılar Derneği 
+37- Nbc Belgelendirme Eğitim Ltd. Şti. 
+38- Alberk Qa Uluslararası Teknik Kontrol ve Belgelendirme A.Ş. 
+39- Sc Proje Yönetim Danışmanlık Turizm ve Tic. Ltd. Şti. 
+40- Arya Mesleki Belgelendirme Hizmetleri Ltd. Şti. 
+41- Çözüm Eğitim Öğretim Yayıncılık Danışmanlık Bilişim İletişim Sanayi ve Ticaret Ltd. Şti. 
+42- Anka Koçluk Eğitim Danışmanlık Belgelendirme A.Ş 
+
+===== PAGE 21 =====
+15UY0215-6/A2 Koçluk Sürecini Yapılandırma ve Yürütme                         Tarih:30/10/2019 Rev. No:01 
+ 
+©Mesleki Yeterlilik Kurumu           17 
+ 
+ 
+EK3: MYK Sektör Komitesi Üyeleri ve Uzmanlar 
+ 
+Ahmet Saygın BABAN,    Başkan (Türkiye Odalar Borsalar Birliği) 
+Gülnur İNAN,      Başkan V. (Milli Eğitim Bakanlığı) 
+Ayşe ERİM,      Üye (Çalışma ve Sosyal Güvenlik Bakanlığı) 
+Ferdi GÜREL,      Üye (Sanayi ve Teknoloji Bakanlığı) 
+Prof. Dr. Ali DANIŞMAN,                     Üye (Yükseköğretim Kurulu Başkanlığı 
+Atakan ÇELİK,     Üye (Türkiye Esnaf ve Sanatkârları Konfederasyonu) 
+Fadime CAN ,      Üye (Hak İşçi Sendikaları Konfederasyonu) 
+Aytuğ BALAMAN,     Üye (Türkiye İşçi Sendikaları Konfederasyonu) 
+Ozan MİMAROĞLU,     Üye (Türkiye İşveren Sendikaları Konfederasyonu) 
+Ekin SARI AKALIN,     Üye (Devrimci İşçi Sendikaları Konfederasyonu) 
+Süleyman ARIKBOĞA,    Üye (Mesleki Yeterlilik Kurumu)  
+ 
+EK 4: MYK Yönetim Kurulu Üyeleri 
+ 
+Adem CEYLAN Çalışma ve Sosyal Güvenlik Bakanlığı Temsilcisi, Başkan 
+Prof. Dr. Mehmet SARIBIYIK Yükseköğretim Kurulu Temsilcisi, Başkan Vekili  
+Dr. Recep ALTIN Milli Eğitim Bakanlığı Temsilcisi, Üye 
+Bendevi PALANDÖKEN Meslek Kuruluşları Temsilcisi, Üye 
+Dr. Osman YILDIZ İşçi Sendikaları Konfederasyonları Temsilcisi, Üye 
+Celal KOLOĞLU İşveren Sendikaları Konfederasyonu Temsilcisi,  
+ 

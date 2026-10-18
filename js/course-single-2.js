@@ -2,15 +2,28 @@
 // helpers
 // ==============================
 
+const legacyCourseSlugs = {
+  "kocluk-icf-seviye-1": "icf-level-1",
+  "kocluk-icf-seviye-2": "icf-level-2",
+  "kocluk-icf-seviye-3": "myk-koc-seviye-6",
+  "nlp-uygulama-egitimi": "nlp-kocluk-egitimi",
+  "beden-analiz-egitimi": "myk-egitim-uzmani-seviye-6",
+  "pcc-mcc-sinav-mentorlugu": "mind-flow-system-performans-koclugu-liderlik-egitimi",
+};
+
+function normalizeCourseSlug(slug) {
+  return legacyCourseSlugs[slug] || slug;
+}
+
 function getSlugFromUrl() {
   const url = new URL(window.location.href);
   const qp = url.searchParams.get("slug");
-  if (qp) return qp;
+  if (qp) return normalizeCourseSlug(qp);
 
   const parts = url.pathname.split("/").filter(Boolean);
   const last = parts[parts.length - 1] || "";
   if (last.endsWith(".html")) return null;
-  return last || null;
+  return last ? normalizeCourseSlug(last) : null;
 }
 
 /**
@@ -25,6 +38,67 @@ async function fetchCourseBySlug({ indexUrl, slug }) {
   if (!course) throw new Error(`Slug bulunamadı: ${slug}`);
   return course;
 }
+
+/**
+ * Accept regular YouTube, youtu.be, Shorts and embed links and return a
+ * privacy-enhanced embed URL. Invalid or unsupported links stay hidden.
+ */
+function getYouTubeEmbedUrl(value) {
+  const rawUrl = String(value || "").trim();
+  if (!rawUrl) return null;
+
+  try {
+    const url = new URL(rawUrl);
+    const host = url.hostname.toLowerCase().replace(/^www\./, "");
+    let videoId = "";
+
+    if (host === "youtu.be") {
+      videoId = url.pathname.split("/").filter(Boolean)[0] || "";
+    } else if (["youtube.com", "m.youtube.com", "music.youtube.com", "youtube-nocookie.com"].includes(host)) {
+      if (url.pathname === "/watch") {
+        videoId = url.searchParams.get("v") || "";
+      } else {
+        const parts = url.pathname.split("/").filter(Boolean);
+        if (["shorts", "embed", "live"].includes(parts[0])) videoId = parts[1] || "";
+      }
+    }
+
+    if (!/^[A-Za-z0-9_-]{6,}$/.test(videoId)) return null;
+    return `https://www.youtube-nocookie.com/embed/${videoId}`;
+  } catch (error) {
+    return null;
+  }
+}
+
+/**
+ * On desktop, start the sidebar at the actual top edge of the course image.
+ * The offset is measured instead of hard-coded so wrapped course titles and
+ * late-loading fonts do not break the alignment. Mobile/tablet keep the
+ * theme's original stacked layout.
+ */
+function alignCourseSidebarWithHero() {
+  const sidebar = document.getElementById("sidebar");
+  const hero = document.querySelector(".content-aligncenter");
+  if (!sidebar || !hero) return;
+
+  if (window.innerWidth < 992) {
+    sidebar.style.removeProperty("--course-sidebar-offset");
+    return;
+  }
+
+  sidebar.style.setProperty("--course-sidebar-offset", "0px");
+  const offset = Math.max(0, Math.round(hero.getBoundingClientRect().top - sidebar.getBoundingClientRect().top));
+  sidebar.style.setProperty("--course-sidebar-offset", `${offset}px`);
+}
+
+let courseSidebarResizeTimer;
+function scheduleCourseSidebarAlignment() {
+  window.clearTimeout(courseSidebarResizeTimer);
+  courseSidebarResizeTimer = window.setTimeout(alignCourseSidebarWithHero, 50);
+}
+
+window.addEventListener("resize", scheduleCourseSidebarAlignment);
+window.addEventListener("load", scheduleCourseSidebarAlignment);
 
 /**
  * all of the DOM‑manipulation code that used to run on "data"
@@ -155,6 +229,9 @@ async function renderCourse(data) {
           const collapseId = `collapse${index}`;
           const headingId = `heading${index}`;
           const isFirst = index === 0; // ister ilk açık olsun
+          const panelContent = Array.isArray(item.items)
+            ? `<ul class="listDefault list-unstyled">${item.items.map((entry) => `<li>${escapeHTML(entry)}</li>`).join("")}</ul>`
+            : `<p>${escapeHTML(item.content)}</p>`;
 
           return `
       <div class="panel panel-default">
@@ -179,7 +256,7 @@ async function renderCourse(data) {
              role="tabpanel"
              aria-labelledby="${headingId}">
           <div class="panel-body">
-            <p>${item.content}</p>
+            ${panelContent}
           </div>
         </div>
       </div>
@@ -456,19 +533,66 @@ async function renderCourse(data) {
       if (facts && sb.courseInfo) {
         const ci = sb.courseInfo;
 
-        facts.innerHTML = `
+        if (Array.isArray(ci.facts) && ci.facts.length) {
+          const factIcons = {
+            clock: "far fa-clock",
+            units: "fas fa-book-open",
+            exam: "far fa-edit",
+            success: "fas fa-check-circle",
+            certificate: "far fa-address-card",
+          };
+          facts.innerHTML = ci.facts
+            .map((fact) => {
+              const iconClass = factIcons[fact.icon] || "fas fa-info-circle";
+              return `<li><i class="${iconClass} icn no-shrink"></i> ${esc(fact.text)}</li>`;
+            })
+            .join("");
+        } else {
+          facts.innerHTML = `
       <li><i class="far fa-user icn no-shrink"></i> ${esc(ci.students)} Katılımcı</li>
       <li><i class="far fa-clock icn no-shrink"></i> Süre: ${esc(ci.duration)}</li>
       <li><i class="fas fa-bullhorn icn no-shrink"></i> Dersler: ${esc(ci.lectures)}</li>
       <li><i class="far fa-play-circle icn no-shrink"></i> Video: ${esc(ci.videoHours)} saat</li>
       <li><i class="far fa-address-card icn no-shrink"></i> ${ci.certificate ? "Sertifika" : "Sertifika Var"}</li>
     `;
+        }
       }
 
       // 4.3 Categories
       const catList = document.getElementById("sbCategoriesList");
       if (catList && Array.isArray(sb.categories)) {
         catList.innerHTML = sb.categories.map((c) => `<li class="cat-item"><a href="#">${esc(c)}</a></li>`).join("");
+      }
+
+      // Optional official qualification document for regulated programs.
+      const documentSection = document.getElementById("sbOfficialDocument");
+      const documentTitle = document.getElementById("sbOfficialDocumentTitle");
+      const documentText = document.getElementById("sbOfficialDocumentText");
+      const documentLink = document.getElementById("sbOfficialDocumentLink");
+      const documentData = sb.officialDocument;
+
+      if (documentSection && documentLink && documentData?.url) {
+        documentLink.href = documentData.url;
+        if (documentTitle) documentTitle.textContent = documentData.title || "Resmî Yeterlilik Dokümanı";
+        if (documentText) documentText.textContent = documentData.description || "";
+        documentSection.hidden = false;
+      }
+
+      // YouTube / Shorts video shown immediately after Education Categories.
+      const videoSection = document.getElementById("sbCourseVideo");
+      const videoFrame = document.getElementById("sbCourseVideoFrame");
+      const videoLink = document.getElementById("sbCourseVideoLink");
+      const videoTitle = document.getElementById("sbCourseVideoTitle");
+      const videoData = sb.youtubeReels;
+      const originalVideoUrl = String(videoData?.url || "").trim();
+      const embedVideoUrl = getYouTubeEmbedUrl(originalVideoUrl);
+
+      if (videoSection && videoFrame && videoLink && embedVideoUrl) {
+        videoFrame.src = embedVideoUrl;
+        videoFrame.title = videoData?.title || `${data?.content?.mainTitle || "Eğitim"} videosu`;
+        videoLink.href = originalVideoUrl;
+        if (videoTitle) videoTitle.textContent = videoData?.title || "Eğitim Videosu";
+        videoSection.hidden = false;
       }
 
       // 4.5 Tags
@@ -480,6 +604,7 @@ async function renderCourse(data) {
     renderAfterAccordion(data);
     if (typeof renderPage === "function") renderPage(data);
     if (typeof renderAfterAccordion === "function") renderAfterAccordion(data);
+    alignCourseSidebarWithHero();
   } catch (error) {
     console.error("Hata:", error);
   }
@@ -492,7 +617,7 @@ async function renderCourse(data) {
 // fetch appropriate course and render on page load
 document.addEventListener("DOMContentLoaded", async () => {
   try {
-    const slug = getSlugFromUrl() || "kocluk-icf-seviye-1";
+    const slug = getSlugFromUrl() || "icf-level-1";
     const course = await fetchCourseBySlug({
       indexUrl: "data/courses.json",
       slug,

@@ -1,0 +1,582 @@
+{
+  "a1Knowledge": [
+    {
+      "id": "BG.1",
+      "text": "Tehlike ve risk kavramlarını ve birbiri ile ilişkisini tanımlar.",
+      "ums": "A.1.1",
+      "criterion": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.2",
+      "text": "Koçluk hizmetlerinin verildiği ortamlarla ilgili iş sağlığı ve güvenliği tehlike ve risklerini açıklar.",
+      "ums": "A.1.1",
+      "criterion": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.3",
+      "text": "Koçluk uygulamalarına bağlı olası riskleri ve risklere karşı alınması gereken uygun önlemleri tanımlar.",
+      "ums": "A.1.1",
+      "criterion": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.4",
+      "text": "Koçluk hizmetlerinin verildiği ortamlarla ilgili iş sağlığı ve güvenliğine ilişkin mevzuata göre, çalışma ortamında oluşturulması gereken kontrol önlemlerini açıklar.",
+      "ums": "A.1.3",
+      "criterion": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.5",
+      "text": "İş ortamında kullandığı araç, gereç ve ekipmanların güvenli kullanılma yöntemlerini açıklar.",
+      "ums": "A.1.2",
+      "criterion": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.6",
+      "text": "Çalışma ortamında meydana gelebilecek iş kazası durumlarında neler yapılacağını açıklar.",
+      "ums": "A.2.2 A.2.3",
+      "criterion": "1.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.7",
+      "text": "Koçluk hizmetlerinin verildiği ortamlara ilişkin acil durum planını açıklar.",
+      "ums": "A.2.1",
+      "criterion": "1.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.8",
+      "text": "Çevre koruma ve çevre güvenliği ile kaynak kullanım verimliliğine ilişkin kavramları tanımlar.",
+      "ums": "A.3.1 A.3.2",
+      "criterion": "1.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.9",
+      "text": "Çalışma ortamında oluşan çevresel atıkların ve dönüştürülebilir malzemelerin bertarafına yönelik uygulamaları açıklar.",
+      "ums": "A.3.1",
+      "criterion": "1.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.10",
+      "text": "Mesleki olarak kendisi ve koçluk hizmetlerine uygun tanıtım strateji/stratejilerini açıklar.",
+      "ums": "B.1.1-B.1.4",
+      "criterion": "2.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.11",
+      "text": "Mesleki olarak kendisi ve koçluk hizmetleri için uygun tanıtım araçları ve uygulamalarını açıklar.",
+      "ums": "B.1.1-B.1.4",
+      "criterion": "2.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.12",
+      "text": "Yüz yüze tanıtım stratejisi açısından, farklı taraflara göre gerçekleştirilebilecek iletişim faaliyetlerini açıklar.",
+      "ums": "B.1.2, B.1.4",
+      "criterion": "2.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.13",
+      "text": "Koçluk hizmetleri ile ilgili bir teklif metninde yer alması gereken mesleki, hukuki, mali olarak temel/ kritik içeriği tanımlar.",
+      "ums": "B.2.1- B.2.6, B.8.2",
+      "criterion": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.14",
+      "text": "Koçluk hizmetleri ile ilgili bir sözleşme metninde yer alması gereken mesleki, hukuki, mali olarak temel/ kritik içeriği ve müeyyideleri açıklar.",
+      "ums": "B.2.5-B.2.6 B.6.2, B.7.2",
+      "criterion": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.15",
+      "text": "Koçluk hizmetinin mali değerini ve bütçelendirmesini belirleyen faktörleri açıklar.",
+      "ums": "B.7.1, B.7.2",
+      "criterion": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.16",
+      "text": "Koçluk hizmeti ile ilgili faturalandırma ve vergilendirme ile ilgili temel yasal hükümleri ve temel uygulamaları açıklar.",
+      "ums": "B.7.3",
+      "criterion": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.17",
+      "text": "Koçluk hizmet türlerinin içeriğine ve farklılıklarına göre, bir iş programında zamanlama için dikkat edilmesi gereken unsurları açıklar.",
+      "ums": "B.3.1, B.3.2",
+      "criterion": "2.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.18",
+      "text": "Verilen hizmetlerin içeriğine ve farklılıklarına göre, bir iş programında, seans akışı ve müşteriler arası düzenlemelerde dikkat edilmesi gereken unsurları açıklar.",
+      "ums": "B.3.1, B.3.2",
+      "criterion": "2.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.19",
+      "text": "Görüşme veya seansa uygun olarak çalışma ortamını ve materyallerini nasıl düzenleneceğini açıklar.",
+      "ums": "A.1.3, B.4.1",
+      "criterion": "2.4",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.20",
+      "text": "Koçluk hizmetleri için tutulması gereken mesleki kayıtları tanımlar.",
+      "ums": "B.5.1, B.5.2",
+      "criterion": "2.5",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.21",
+      "text": "Koçluk hizmetlerindeki mesleki kayıtların doğru tutulma ve arşivlenme usullerini açıklar.",
+      "ums": "B.5.1, B.5.2, B.5.3",
+      "criterion": "2.5",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.22",
+      "text": "Koçluk hizmeti kayıtlarından güvenlik altına alınması gerekenleri neler olduğunu sıralar.",
+      "ums": "B.6.1-B.6.4",
+      "criterion": "2.5",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.23",
+      "text": "Koçluk hizmetinde kayıtların güvenliğine yönelik önlemleri ve gerekçelerini açıklar.",
+      "ums": "B.6.3, B.6.4",
+      "criterion": "2.5",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.24",
+      "text": "Koçluk hizmeti ile ilgili tutulması gereken mali kayıtları tanımlar.",
+      "ums": "B.7.4",
+      "criterion": "2.5",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.25",
+      "text": "Koçluk hizmetlerinde kalite kavramını ve kapsamını açıklar.",
+      "ums": "E.1.2, E.1.3, E.2.1, E.2.2",
+      "criterion": "3.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.26",
+      "text": "Koçluk hizmetlerinin niteliğinin izlenmesi için gerekli temel veri ve bilgileri (hizmet türü, müşteri, süre vb.) açıklar.",
+      "ums": "E.1.1",
+      "criterion": "3.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.27",
+      "text": "Verdiği koçluk hizmetlerini geliştirmeye yönelik uygulamaları gerekçeleri ile açıklar.",
+      "ums": "E.1.2, E.1.3, E.2.1, E.2.2",
+      "criterion": "3.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.28",
+      "text": "Koçluk hizmetleri ile ilgili bir öz değerlendirme formunun temel içeriğini açıklar.",
+      "ums": "E.2.1, E.2.2",
+      "criterion": "3.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.29",
+      "text": "Koçluk hizmetleri ile ilgili seans/faaliyet ve süreç temelli öz değerlendirme uygulamalarını açıklar.",
+      "ums": "E.2.1, E.2.2",
+      "criterion": "3.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.30",
+      "text": "Mesleki eğitim alınabilecek resmi tanınırlığı olan programları açıklar.",
+      "ums": "F.1.1",
+      "criterion": "4.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.31",
+      "text": "Mesleki faaliyetleri ile ilgili güncel yasa ve normları açıklar.",
+      "ums": "F.1.3",
+      "criterion": "4.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.32",
+      "text": "Mesleki olarak kariyer gelişimi kavramını açıklar.",
+      "ums": "F.1.1-F.1.4",
+      "criterion": "4.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.33",
+      "text": "Koçluk hizmetleri faaliyet alanlarına (yaşam, kariyer, eğitim, yönetici koçluğu vb.) göre, gerekli bilgi ve beceri türlerini ve uygulamalarla ilişkilerini açıklar.",
+      "ums": "F.1.1-F.1.4",
+      "criterion": "4.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.34",
+      "text": "Örnek senaryoya göre koçun süreçteki tutum ve davranış ve yaklaşımını açıklar.",
+      "ums": "F.2.1, F.2.2",
+      "criterion": "4.4",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.35",
+      "text": "Koçluk uygulamaları ile ilgili örnek durumlarda, verilen senaryoya göre koçun bilgi beceri ihtiyaçlarını açıklar.",
+      "ums": "F.2.1, F.2.2",
+      "criterion": "4.4",
+      "tool": "T1"
+    }
+  ],
+  "a2Knowledge": [
+    {
+      "id": "BG.1",
+      "text": "Görüşme ilke ve tekniklerini açıklar.",
+      "ums": "C.2.1, C.2.2",
+      "criterion": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.2",
+      "text": "Müşteriye dair doğrudan bilgi toplama uygulamalarını açıklar.",
+      "ums": "C.2.1, C.2.2",
+      "criterion": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.3",
+      "text": "Koçluk hizmetinin amacına göre, uygun bilgileri ve bilgi toplama tekniklerini açıklar.",
+      "ums": "C.2.1- C.2.3",
+      "criterion": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.4",
+      "text": "Müşteriyi tanımaya yönelik kullanılabilecek uygulama tekniklerini açıklar.",
+      "ums": "C.2.3",
+      "criterion": "1.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.5",
+      "text": "Örnek durum/senaryoya göre müşterinin güçlü-zayıf yönleri, fırsatları, olanakları, riskli alanları, öğrenme biçimi ve engelleri, değerleri gibi unsurlarını tanımlar.",
+      "ums": "C.2.4",
+      "criterion": "1.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.6",
+      "text": "Örnek durum/senaryoya göre müşterinin güçlü-zayıf yönleri, fırsatları, olanakları, riskli alanları, öğrenme biçimi ve engelleri, değerleri gibi unsurları, ilişkili şekilde değerlendirerek profilini oluşturur.",
+      "ums": "C.2.4",
+      "criterion": "1.3",
+      "tool": "T2"
+    },
+    {
+      "id": "BG.7",
+      "text": "Müşterinin durumuna göre, hukuki, mali ve diğer ilgili alanlardaki hizmet ihtiyaçlarını belirleterek uygun hizmet kaynaklarına nasıl yönlendireceğini açıklar.",
+      "ums": "C.2.5",
+      "criterion": "1.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.8",
+      "text": "M??teri ile etkili ko?luk ili?kisi ve ileti?iminin (etkin dinleme, empati, beden dili ve benzeri) kavramlar?n? tan?mlar.",
+      "ums": "C.1.1- C.1.5",
+      "criterion": "2.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.9",
+      "text": "Koçluk hizmetlerindeki profesyonel davranış, yetkinlik sınırları, sürekli mesleki gelişim, gizlilik, çıkar çatışmaları ve tarafsızlık konuları ile ilgili etik kuralları açıklar.",
+      "ums": "C.1.1- C.1.5",
+      "criterion": "2.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.10",
+      "text": "?rnek durum/senaryoya g?re m??terinin amac?na ve ihtiya?lar?na uygun geli?im alanlar? ve ana ?al??ma temas?n? belirler.",
+      "ums": "C.3.1, C.3.2",
+      "criterion": "2.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.11",
+      "text": "Müşterinin amacına göre gelişim alanları ve ana çalışma emasını belirlemesine yönelik durum tespiti ve ihtiyaç analizi tekniklerini açıklar.",
+      "ums": "C.3.1, C.3.2",
+      "criterion": "2.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.12",
+      "text": "Koçluk anlaşmasının içeriği ve uygulama koşullarını açıklar.",
+      "ums": "C.3.1, C.3.2",
+      "criterion": "2.4",
+      "tool": "T1"
+    }
+  ],
+  "a2Skills": [
+    {
+      "id": "BY.1",
+      "text": "Müşteriyi tanımaya yönelik yaşam çemberi, canlandırma, vizyon çalışması gibi temel koçluk yöntem ve tekniklerini uygular.",
+      "ums": "C.2.3",
+      "criterion": "1.2",
+      "tool": "P2"
+    },
+    {
+      "id": "BY.2",
+      "text": "Müşteri ile ilişkilerinde etkin dinleme yöntemini kullanarak, müşterinin ifadelerindeki alt mesajları fark eder ve görüşme tekniklerine uygun olarak yansıtır(*).",
+      "ums": "C.1.1-C.1.3",
+      "criterion": "2.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.3",
+      "text": "Müşterinin beden dili ile sözlü ifadesi arasındaki uyum veya çelişkiyi belirleyerek bu duruma uygun geri bildirim verir (*).",
+      "ums": "C.1.1-C.1.2",
+      "criterion": "2.1.",
+      "tool": "P2"
+    },
+    {
+      "id": "BY.4",
+      "text": "Görüşme sırasında beden dili ve sözlü ifadeleri tutarlı şekilde kullanır.",
+      "ums": "C.1.3",
+      "criterion": "2.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.5",
+      "text": "Beden dili ve sözlü ifadelerini müşterinin beden dili ve sözlü ifadelerini dikkate alarak kullanır.",
+      "ums": "C.1.3",
+      "criterion": "2.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.6",
+      "text": "Müşterinin gündemine uygun ve açık uçlu sorular sorar(*).",
+      "ums": "C.1.4",
+      "criterion": "2.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.7",
+      "text": "Müşteriyi düşünmeye teşvik edici, müşterinin farkındalığını artırıcı ve yaratıcı sorular sorar(*).",
+      "ums": "C.1.4",
+      "criterion": "2.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.8",
+      "text": "Müşterinin gündemi ve ilerleyişi ile ilişkili sorular sorar(*).",
+      "ums": "C.1.4",
+      "criterion": "2.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.9",
+      "text": "Müşterinin gündemine uygun, düşünmeye teşvik edici ve farkındalığını artırıcı geribildirimde bulunur. (*).",
+      "ums": "C.1.5",
+      "criterion": "2.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.10",
+      "text": "Müşteriyi düşünmeye teşvik edici ve eyleme geçirici geribildirimde bulunur(*).",
+      "ums": "C.1.5",
+      "criterion": "2.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.11",
+      "text": "Müşteriye yaratıcı geribildirimde bulunur(*).",
+      "ums": "C.1.5",
+      "criterion": "2.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.12",
+      "text": "Koçluk hizmetinin amacı, sınırları ve etik kurallar hakkında sözlü/yazılı olarak müşteriyi bilgilendirir(*).",
+      "ums": "B.6.1, B.6.2",
+      "criterion": "2.1",
+      "tool": "P2"
+    },
+    {
+      "id": "BY.13",
+      "text": "Müşteri ile tavsiye ve karar verici veya yargılayıcı konumda bulunmayacak şekilde iletişim kurar, mesleki etik kurallarına uyar(*).",
+      "ums": "C.1.1-C.1.5",
+      "criterion": "2.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.14",
+      "text": "Müşteri tarafından mevcut görüşmenin hedefinin belirlenmesini sağlar(*).",
+      "ums": "C.2.1, D.1.1, D.1.2, D.3.3, D.4.1",
+      "criterion": "2.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.15",
+      "text": "Müşteri tarafından mevcut durumun tanımlanmasını sağlar(*).",
+      "ums": "C.2.1, D.1.1, D.1.2, D.3.3, D.4.1",
+      "criterion": "2.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.16",
+      "text": "Görüşme süreci dâhilinde uygun koçluk teknikleri ile müşterinin seçeneklerini tanımlamasını ve değerlendirmesini sağlar.",
+      "ums": "C.2.1, D.1.1, D.1.2, D.2.1, D.3.3, D.4.1",
+      "criterion": "2.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.17",
+      "text": "Müşteri tarafından görüşme hedefine uygun alternatif çözüm/lere karar verilmesini sağlar(*).",
+      "ums": "C.2.1, D.1.1, D.1.2, D.3.3, D.4.1",
+      "criterion": "2.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.18",
+      "text": "Görüşme süreci dâhilinde uygun koçluk teknikleri ile müşterinin seçenek/hedeflerle ilgili engeller, olanaklar ve kaynakları değerlendirmesini sağlar(*).",
+      "ums": "D.2.1",
+      "criterion": "3.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.19",
+      "text": "Görüşme süreci dâhilinde uygun koçluk teknikleri ile müşterinin engelleri aşma ve olanakları kullanmaya dair eylemlerini tanımlamasını sağlar(*).",
+      "ums": "D.2.1",
+      "criterion": "3.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.20",
+      "text": "Uygun koçluk teknikleri ile müşterinin hedef(ler)ine ulaşmak üzere belirlediği eylemleri öncelik ve zamanlama sıralamasına koymasını sağlar(*).",
+      "ums": "D.2.2",
+      "criterion": "3.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.21",
+      "text": "Uygun koçluk teknikleri ile müşterinin belirlediği önceliklendirme ve zamanlamaya göre, uygulama için kararlılık düzeyinin belirlenmesini sağlar.",
+      "ums": "D.2.3",
+      "criterion": "3.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.22",
+      "text": "Söz alma tekniğini müşterinin eyleme geçmesini sağlayacak şekilde uygular(*).",
+      "ums": "D.3.1",
+      "criterion": "4.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.23",
+      "text": "Ödev verme tekniğini müşterinin eyleme geçmesini sağlayacak şekilde uygular.",
+      "ums": "D.3.1",
+      "criterion": "4.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.24",
+      "text": "Takip etme tekniğini müşterinin eyleme geçmesini sağlayacak şekilde uygular.",
+      "ums": "D.3.1",
+      "criterion": "4.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.25",
+      "text": "İyi örnek inceleme tekniğini, müşterinin özgüvenini destekleyecek şekilde uygular.",
+      "ums": "D.3.2",
+      "criterion": "4.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.26",
+      "text": "Geçmiş başarıları hatırlatma tekniğini, müşterinin özgüvenini destekleyecek şekilde uygular.",
+      "ums": "D.3.2",
+      "criterion": "4.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.27",
+      "text": "Hedefe ulaştığındaki başarıyı hayal etme tekniğini, müşterinin özgüvenini destekleyecek şekilde uygular.",
+      "ums": "D.3.2",
+      "criterion": "4.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.28",
+      "text": "Eylem planındaki adımlara göre her görüşme başında; bir önceki seansta aldığı kararlar, gerçekleştirdiği sonuçlar, varsa verilen ödevlerin sonuçları, hedefe bağlılık ve motivasyon durumu gibi konularda müşteri ile birlikte değerlendirme yapar(*).",
+      "ums": "D.4.1",
+      "criterion": "5.1",
+      "tool": "P2"
+    },
+    {
+      "id": "BY.29",
+      "text": "Koçluk sürecindeki ara değerlendirmelerde müşterinin, çalışma teması ve hedeflerinin geçerliliğini ve ilerleme durumunu değerlendirerek belirlemesini sağlar(*).",
+      "ums": "D.4.2",
+      "criterion": "5.1",
+      "tool": "P2"
+    },
+    {
+      "id": "BY.30",
+      "text": "Koçluk sürecindeki ara değerlendirmelerde müşterinin, koçluk sürecinden yararlanma ve devam durumunu değerlendirerek belirlemesini sağlar.",
+      "ums": "D.4.2",
+      "criterion": "5.1",
+      "tool": "P2"
+    },
+    {
+      "id": "BY.31",
+      "text": "Koçluk sürecindeki ara değerlendirmelere göre, müşteri devam edecek ise koçluk yöntemlerinde değişiklik gerekip gerekmediğini değerlendirerek belirler.",
+      "ums": "D.4.2",
+      "criterion": "5.1",
+      "tool": "P2"
+    },
+    {
+      "id": "BY.32",
+      "text": "Koçluk sürecinin sonlandırılması aşamasında, müşterinin süreci gözden geçirmesini, elde ettiği ilerleme, gelişim, farkındalığa ilişkin geribildirim alır(*)",
+      "ums": "D.5.1, D.5.2",
+      "criterion": "5.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.33",
+      "text": "Koçluk sürecinin sonlandırılması aşamasında, müşterinin hedef(ler)e olan bağlılığını ve motivasyonunu belirlemesini sağlar.",
+      "ums": "D.5.2",
+      "criterion": "5.2",
+      "tool": "P2"
+    },
+    {
+      "id": "BY.34",
+      "text": "Koçluk sürecinin sonlandırılması aşamasında, müşterinin geleceğe ilişkin saptamalarda bulunmasını sağlar.",
+      "ums": "D.5.2",
+      "criterion": "5.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.35",
+      "text": "Sürecin sonlandırılması durumunda; müşteriye süreçte elde edilen kazanımlar, farkındalıklar, yaşanılan deneyimlere dair geribildirimlerde bulunur.",
+      "ums": "D.5.1, D.5.2",
+      "criterion": "5.2",
+      "tool": "P1"
+    }
+  ]
+}

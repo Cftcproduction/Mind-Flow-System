@@ -37,7 +37,7 @@ $(document).ready(function () {
       infinite: true,
       autoplay: true,
       autoplaySpeed: 5000,
-      pauseOnHover: false,
+      pauseOnHover: true,
     });
 
     jQuery(".popular-posts-slider").slick({
