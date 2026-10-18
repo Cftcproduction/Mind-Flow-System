@@ -179,6 +179,23 @@ Theme URI: http://www.htmlbeans.com/html/studylms/
   clear: both;
 }
 
+/* Kurs adlarinda kaynak metindeki buyuk/kucuk harfleri koru.
+   Boylece Turkce "ile" baglaci basliklarda "Ile" olarak donusmez. */
+#headingTitle,
+#courseTitle,
+#courseBlocksMount h1,
+#courseBlocksMount h2,
+#courseBlocksMount h3,
+.intro-block-heading,
+.features-aside-heading,
+.post-heading,
+.post-heading a,
+.list-heading,
+.list-heading a,
+.widget-cources-list h4 {
+  text-transform: none;
+}
+
 a,
 button,
 .form-control,

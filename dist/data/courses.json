@@ -2,11 +2,11 @@
   "courses": [
     {
       "heading": {
-        "title": "Mind Flow System ile Performans Koçluğu ve Liderlik",
+        "title": "Mind Flow System ile Performans Koçluk ve Liderlik Eğitimi",
         "backgroundImage": "url('images/banner/banner-1.jpg')"
       },
       "breadcrumb": {
-        "listItems": ["Anasayfa", "Kurslar", "Mind Flow System ile Performans Koçluğu ve Liderlik"]
+        "listItems": ["Anasayfa", "Kurslar", "Mind Flow System ile Performans Koçluk ve Liderlik Eğitimi"]
       },
       "page": {
         "id": "mind-flow-system-performans-koclugu-liderlik-egitimi",
@@ -14,11 +14,11 @@
         "template": "course-single"
       },
       "seo": {
-        "title": "Mind Flow System ile Performans Koçluğu ve Liderlik",
-        "description": "Mind Flow System ile Performans Koçluğu ve Liderlik Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+        "title": "Mind Flow System ile Performans Koçluk ve Liderlik Eğitimi",
+        "description": "Mind Flow System ile Performans Koçluk ve Liderlik Eğitimi Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
       },
       "content": {
-        "mainTitle": "Mind Flow System ile Performans Koçluğu ve Liderlik",
+        "mainTitle": "Mind Flow System ile Performans Koçluk ve Liderlik Eğitimi",
         "viewHeader": {
           "author": {
             "label": "Eğitmen",
@@ -40,13 +40,13 @@
         },
         "heroImage": {
           "src": "images/sinav-metorlugu.jpg",
-          "alt": "Mind Flow System ile Performans Koçluğu ve Liderlik"
+          "alt": "Mind Flow System ile Performans Koçluk ve Liderlik Eğitimi"
         },
         "blocks": [
           {
             "type": "heading",
             "level": 3,
-            "text": "Mind Flow System ile Performans Koçluğu ve Liderlik"
+            "text": "Mind Flow System ile Performans Koçluk ve Liderlik Eğitimi"
           },
           {
             "type": "paragraph",
@@ -125,33 +125,7 @@
               }
             ]
           }
-        ],
-        "instructor": {
-          "name": "Selcan Arslan",
-          "title": "Sosyolog - Eğitim Uzmanı",
-          "image": {
-            "src": "images/Selcan-Arslan.jpg",
-            "alt": "Selcan Arslan"
-          },
-          "bio": "Uzmanlık alanı koçluk eğitimi ve sosyal bilimler."
-        },
-        "reviews": {
-          "total": 2,
-          "items": [
-            {
-              "author": "Sevim Akyüz",
-              "date": "2025-03-07",
-              "rating": 5,
-              "text": "Eğitim oldukça tatmin ediciydi."
-            },
-            {
-              "author": "Saim Demir",
-              "date": "2025-03-05",
-              "rating": 5,
-              "text": "İçerik çok açıklayıcıydı."
-            }
-          ]
-        }
+        ]
       },
       "sidebar": {
         "courseInfo": {

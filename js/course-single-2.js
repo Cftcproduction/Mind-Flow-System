@@ -464,6 +464,10 @@ async function renderCourse(data) {
 
     // 1) Bookmark footer CTA (opsiyonel)
     function fillBookmarkCTA(data) {
+      const bookmarkFooter = document.getElementById("courseBookmarkFooter");
+      const hasCourseExtras = Boolean(data?.content?.instructor || data?.content?.reviews);
+      if (bookmarkFooter) bookmarkFooter.hidden = !hasCourseExtras;
+
       const cta = document.getElementById("courseCTA");
       if (!cta) return;
 

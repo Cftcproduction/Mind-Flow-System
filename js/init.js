@@ -15,7 +15,7 @@ for (var selector in config) {
 const courseCatalog = [
   {
     slug: "mind-flow-system-performans-koclugu-liderlik-egitimi",
-    title: "Mind Flow System ile Performans Koçluğu ve Liderlik",
+    title: "Mind Flow System ile Performans Koçluk ve Liderlik Eğitimi",
   },
   {
     slug: "myk-koc-seviye-6",
