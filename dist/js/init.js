@@ -89,7 +89,7 @@ function normalizeCourseLinksAndNames() {
       if (titleNode.hasAttribute("data-course-name")) {
         titleNode.setAttribute("data-course-name", course.title);
       }
-    } else if (!link.children.length) {
+    } else if (!link.children.length && !link.classList.contains("btn")) {
       link.textContent = course.title;
     }
   });
