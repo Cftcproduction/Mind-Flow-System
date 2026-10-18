@@ -6,7 +6,11 @@
         "backgroundImage": "url('images/banner/courses-banner.jpg')"
       },
       "breadcrumb": {
-        "listItems": ["Anasayfa", "Kurslar", "ICF Level 1"]
+        "listItems": [
+          "Anasayfa",
+          "Kurslar",
+          "ICF Level 1"
+        ]
       },
       "page": {
         "id": "icf-level-1",
@@ -163,7 +167,13 @@
           "videoHours": 12,
           "certificate": true
         },
-        "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+        "categories": [
+          "Eğitim",
+          "Koçluk",
+          "Nefes Koçluğu",
+          "Liderlik",
+          "Kurumsal Yöneticilik"
+        ],
         "youtubeReels": {
           "title": "Eğitim Videosu",
           "url": ""
@@ -178,7 +188,13 @@
             "price": "Free"
           }
         ],
-        "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+        "tags": [
+          "Kurumsal",
+          "Koçluk",
+          "Eğitim",
+          "Nefes",
+          "Danışmanlık"
+        ]
       }
     },
     {
@@ -187,7 +203,11 @@
         "backgroundImage": "url('images/banner/banner-1.jpg')"
       },
       "breadcrumb": {
-        "listItems": ["Anasayfa", "Kurs", "ICF Level 2"]
+        "listItems": [
+          "Anasayfa",
+          "Kurs",
+          "ICF Level 2"
+        ]
       },
       "page": {
         "id": "icf-level-2",
@@ -236,7 +256,10 @@
           {
             "type": "list",
             "intro": "Seviye 2 akreditasyonuna sahip bir programdan mezun olanlar yalnızca temel becerileri kazanmakla kalmaz, aynı zamanda doğrudan:",
-            "items": ["Associate Certified Coach (ACC)", "Professional Certified Coach (PCC),"]
+            "items": [
+              "Associate Certified Coach (ACC)",
+              "Professional Certified Coach (PCC),"
+            ]
           },
           {
             "type": "paragraph",
@@ -248,7 +271,12 @@
           },
           {
             "type": "list",
-            "items": ["125–175 saat koçluk odaklı eğitim", "6 koçluk oturumundan gözlem ve yazılı geri bildirim", "En az 3 ay süren 10 saat mentorluk koçluğu", "PCC minimum seviye kriterlerinde final performans değerlendirmesi"]
+            "items": [
+              "125–175 saat koçluk odaklı eğitim",
+              "6 koçluk oturumundan gözlem ve yazılı geri bildirim",
+              "En az 3 ay süren 10 saat mentorluk koçluğu",
+              "PCC minimum seviye kriterlerinde final performans değerlendirmesi"
+            ]
           },
           {
             "type": "heading",
@@ -261,7 +289,15 @@
           },
           {
             "type": "list",
-            "items": ["Eğitim Programının Misyon ve Vizyonu", "Yönetim, Organizasyon ve İşletme Operasyonları", "Etik, Dürüstlük ve Şeffaflık", "Eğitim ve Öğretim", "Öğrenme ve Uygulama", "Öğrenme Deneyimi ve Destek", "Değerlendirme ve Etkililik"]
+            "items": [
+              "Eğitim Programının Misyon ve Vizyonu",
+              "Yönetim, Organizasyon ve İşletme Operasyonları",
+              "Etik, Dürüstlük ve Şeffaflık",
+              "Eğitim ve Öğretim",
+              "Öğrenme ve Uygulama",
+              "Öğrenme Deneyimi ve Destek",
+              "Değerlendirme ve Etkililik"
+            ]
           },
           {
             "type": "heading",
@@ -278,7 +314,10 @@
           },
           {
             "type": "list",
-            "items": ["Başvurunun Sunulması", "Başvurunun İncelenmesi"]
+            "items": [
+              "Başvurunun Sunulması",
+              "Başvurunun İncelenmesi"
+            ]
           },
           {
             "type": "heading",
@@ -348,7 +387,13 @@
           "videoHours": 12,
           "certificate": true
         },
-        "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+        "categories": [
+          "Eğitim",
+          "Koçluk",
+          "Nefes Koçluğu",
+          "Liderlik",
+          "Kurumsal Yöneticilik"
+        ],
         "youtubeReels": {
           "title": "Eğitim Videosu",
           "url": ""
@@ -363,7 +408,13 @@
             "price": "Free"
           }
         ],
-        "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+        "tags": [
+          "Kurumsal",
+          "Koçluk",
+          "Eğitim",
+          "Nefes",
+          "Danışmanlık"
+        ]
       }
     },
     {
@@ -372,7 +423,11 @@
         "backgroundImage": "url('images/banner/banner-1.jpg')"
       },
       "breadcrumb": {
-        "listItems": ["Anasayfa", "Kurslar", "MYK Koç Seviye 6"]
+        "listItems": [
+          "Anasayfa",
+          "Kurslar",
+          "MYK Koç Seviye 6"
+        ]
       },
       "page": {
         "id": "myk-koc-seviye-6",
@@ -438,7 +493,10 @@
           },
           {
             "type": "list",
-            "items": ["A1 - İş Sağlığı ve Güvenliği, Çevre Koruma, İş Organizasyonu, Kalite ve Mesleki Gelişim", "A2 - Koçluk Sürecini Yapılandırma ve Yürütme"]
+            "items": [
+              "A1 - İş Sağlığı ve Güvenliği, Çevre Koruma, İş Organizasyonu, Kalite ve Mesleki Gelişim",
+              "A2 - Koçluk Sürecini Yapılandırma ve Yürütme"
+            ]
           },
           {
             "type": "heading",
@@ -684,7 +742,11 @@
               },
               {
                 "title": "Geliştiren ve Doğrulayan Kuruluşlar",
-                "items": ["Yeterliliği geliştiren kuruluşlar: Koçluk Platformu Derneği, Uluslararası Profesyonel Koçluk Derneği ve Yönderlik ve Koçluk Derneği.", "Yeterliliği güncelleyen kurum: Mesleki Yeterlilik Kurumu.", "Yeterliliği doğrulayan komite: MYK İş ve Yönetim Sektör Komitesi."]
+                "items": [
+                  "Yeterliliği geliştiren kuruluşlar: Koçluk Platformu Derneği, Uluslararası Profesyonel Koçluk Derneği ve Yönderlik ve Koçluk Derneği.",
+                  "Yeterliliği güncelleyen kurum: Mesleki Yeterlilik Kurumu.",
+                  "Yeterliliği doğrulayan komite: MYK İş ve Yönetim Sektör Komitesi."
+                ]
               }
             ]
           }
@@ -742,7 +804,13 @@
             }
           ]
         },
-        "categories": ["MYK", "Koçluk", "Seviye 6", "Sınav Hazırlık", "Mesleki Yeterlilik"],
+        "categories": [
+          "MYK",
+          "Koçluk",
+          "Seviye 6",
+          "Sınav Hazırlık",
+          "Mesleki Yeterlilik"
+        ],
         "youtubeReels": {
           "title": "Eğitim Videosu",
           "url": "https://www.youtube.com/shorts/f_LslkenguI"
@@ -757,7 +825,14 @@
             "price": "Free"
           }
         ],
-        "tags": ["MYK", "Koç Seviye 6", "15UY0215-6", "A1", "A2", "Sınav Hazırlık"],
+        "tags": [
+          "MYK",
+          "Koç Seviye 6",
+          "15UY0215-6",
+          "A1",
+          "A2",
+          "Sınav Hazırlık"
+        ],
         "officialDocument": {
           "title": "Resmî Yeterlilik Dokümanı",
           "description": "15UY0215-6 Koç (Seviye 6) Rev. 01 - Tadil No: 03 belgesinin tam metni.",
@@ -771,7 +846,11 @@
         "backgroundImage": "url('images/banner/banner-1.jpg')"
       },
       "breadcrumb": {
-        "listItems": ["Anasayfa", "Kurs", "NLP Koçluk Eğitimi"]
+        "listItems": [
+          "Anasayfa",
+          "Kurs",
+          "NLP Koçluk Eğitimi"
+        ]
       },
       "page": {
         "id": "nlp-kocluk-egitimi",
@@ -871,7 +950,13 @@
           },
           {
             "type": "list",
-            "items": ["Koçlar için özel kurgulanmış içerik", "Teknik değil, uygulama odaklı öğrenme", "Gerçek vaka ve senaryo uygulamaları", "Etik ve profesyonel NLP anlayışı", "Eğitim sonrası destek grubu ve kaynak paylaşımı"]
+            "items": [
+              "Koçlar için özel kurgulanmış içerik",
+              "Teknik değil, uygulama odaklı öğrenme",
+              "Gerçek vaka ve senaryo uygulamaları",
+              "Etik ve profesyonel NLP anlayışı",
+              "Eğitim sonrası destek grubu ve kaynak paylaşımı"
+            ]
           },
           {
             "type": "heading",
@@ -941,7 +1026,13 @@
           "videoHours": 12,
           "certificate": true
         },
-        "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+        "categories": [
+          "Eğitim",
+          "Koçluk",
+          "Nefes Koçluğu",
+          "Liderlik",
+          "Kurumsal Yöneticilik"
+        ],
         "youtubeReels": {
           "title": "Eğitim Videosu",
           "url": ""
@@ -956,7 +1047,13 @@
             "price": "Free"
           }
         ],
-        "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+        "tags": [
+          "Kurumsal",
+          "Koçluk",
+          "Eğitim",
+          "Nefes",
+          "Danışmanlık"
+        ]
       }
     },
     {
@@ -965,7 +1062,11 @@
         "backgroundImage": "url('images/banner/banner-1.jpg')"
       },
       "breadcrumb": {
-        "listItems": ["Anasayfa", "Kurs", "MYK Eğitim Uzmanı Seviye 6"]
+        "listItems": [
+          "Anasayfa",
+          "Kurs",
+          "MYK Eğitim Uzmanı Seviye 6"
+        ]
       },
       "page": {
         "id": "myk-egitim-uzmani-seviye-6",
@@ -973,8 +1074,8 @@
         "template": "course-single"
       },
       "seo": {
-        "title": "MYK Eğitim Uzmanı Seviye 6",
-        "description": "MYK Eğitim Uzmanı Seviye 6 Giriş ve başvuru şartları, faydaları ve süreç bilgileri."
+        "title": "MYK Eğitim Uzmanı Seviye 6 Sınav Hazırlık Eğitimi",
+        "description": "21UY0465-6 Eğitim Uzmanı (Seviye 6) yeterliliğine yönelik A1-A2 birimleri, T1 ve P1 sınavları ile belgelendirme süreci."
       },
       "content": {
         "mainTitle": "MYK Eğitim Uzmanı Seviye 6",
@@ -990,7 +1091,7 @@
           },
           "category": {
             "label": "Kategori",
-            "value": "Programın Dili"
+            "value": "MYK Sınav Hazırlık"
           },
           "rating": {
             "value": 5,
@@ -1005,95 +1106,276 @@
           {
             "type": "heading",
             "level": 3,
-            "text": "MYK Eğitim Uzmanı Seviye 6"
+            "text": "MYK Eğitim Uzmanı (Seviye 6) Sınav Hazırlık Eğitimi"
           },
           {
             "type": "paragraph",
-            "text": "MYK Eğitim Uzmanı Seviye 6 , koçluk görüşmelerinde sözcüklerin ötesine geçmek ve danışanın bilinçdışı sinyallerini okumayı öğrenmek isteyen koçlar için hazırlanmış özel bir programdır. Bu eğitimle, bedenin anlattığı hikâyeyi doğru analiz etmeyi, karşı tarafla daha derin ve etkili bağ kurmayı öğrenirsiniz. "
+            "text": "Bu program, Mesleki Yeterlilik Kurumunun 21UY0465-6 Eğitim Uzmanı (Seviye 6) Ulusal Yeterliliği esas alınarak hazırlanmıştır. Amaç; eğitim ihtiyacını analiz eden, eğitimleri planlayan, program geliştirme ve organizasyon süreçlerini yöneten nitelikli eğitim uzmanları için gereken bilgi, beceri ve yetkinlikleri kazandırmak ve adayları MYK sınav sürecine hazırlamaktır."
+          },
+          {
+            "type": "paragraph",
+            "text": "Yeterliliğin seviyesi 6, uluslararası sınıflandırması ISCO 08: 2424 ve kaynak meslek standardı 13UMS0337-6 Eğitim Uzmanı (Seviye 6)'dır. A1 ve A2 birimleri zorunludur; seçmeli birim ve sınava giriş ön koşulu bulunmaz."
           },
           {
             "type": "heading",
             "level": 3,
-            "text": "Bu Eğitimle Neyi Hedefliyoruz?"
+            "text": "Zorunlu Yeterlilik Birimleri"
           },
           {
             "type": "list",
-            "intro": "Eğitim, koçlara şu becerileri kazandırmayı amaçlar:",
             "items": [
-              "Danışanın jest, mimik, duruş ve mikro ifadelerini okuyabilme",
-              "Söylenen ile hissedilen arasındaki farkı anlayabilme",
-              "Koçlukta sezgisel derinliği geliştirme",
-              "Empati, güven ve duygusal zeka gibi iletişim öğelerini güçlendirme",
-              "Sessiz mesajları fark ederek doğru soru sorma zamanını belirleme"
+              "A1 - İSG, Çevre Koruma, İş Süreçlerinin Uygunluğunu Sağlama ve Mesleki Gelişim",
+              "A2 - Eğitim Planlama, Eğitim Programı Hazırlanmasını Sağlama ve Süreç Yönetimi"
             ]
           },
           {
             "type": "heading",
             "level": 3,
-            "text": "Eğitim İçeriği"
+            "text": "A1 Birimi Eğitim İçeriği"
           },
           {
             "type": "list",
             "items": [
-              "Beden dili teorisi: Evrensel jestler ve kültürel farklar",
-              "Mikro ifadeler ve duygusal sinyallerin çözümlemesi",
-              "Duruş, göz teması, ses tonu analizi",
-              "Beden dili ile koçlukta içgörü üretme teknikleri",
-              "Sessiz direnç ve kabul göstergelerinin ayırt edilmesi",
-              "Canlı vaka analizi ve pratik gözlem çalışmaları"
+              "İş sağlığı ve güvenliğinde işveren ve çalışan yükümlülükleri; araç, gereç ve ekipmanların güvenli kullanımı; risk ve tehlikeleri belirleme",
+              "Acil durum türleri, acil durumlarda hareket tarzı ve talimatlara uygun davranma",
+              "Temel atık yönetimi, enerji verimliliği ve tasarruf uygulamaları",
+              "Süreçlerle ilgili mevzuat, temel kalite yönetimi, kişisel ve kurumsal bilgilerin gizliliği ve güvenliği",
+              "Kişisel gelişim, stres ve motivasyon yönetimi, meslek etiği, bilgi paylaşımı ve temel araştırma yöntemleri"
             ]
           },
           {
             "type": "heading",
             "level": 3,
-            "text": "Kimler Katılmalı?"
+            "text": "A2 Birimi Eğitim İçeriği"
           },
           {
             "type": "list",
             "items": [
-              "Profesyonel koçlar ve koçluk eğitimi almış bireyler",
-              "Danışan-danışman ilişkisinde güveni ve içgörüyü derinleştirmek isteyenler",
-              "Beden dili okuma becerilerini seanslara uygulamak isteyen NLP uzmanları, eğitmenler",
-              "Duygusal zeka ve sezgisel iletişim becerilerini geliştirmek isteyen koçlar"
+              "Bütçe mevzuatı, bütçe hazırlama ve bütçe takibi",
+              "Teknik şartname hazırlama, satın alma mevzuatı ve yöntemleri ile hizmet kalitesinin takibi",
+              "Eğitim işleri yaklaşımları ve dokümanları ile İK bilgi sistemi",
+              "Eğitim ihtiyaç analizi yöntemleri ve eğitim planlaması",
+              "Eğitim programı ilkeleri, içerik geliştirme, uygulama planlama, eğitmen organizasyonu ve ölçme-değerlendirme araçları",
+              "Çalışanların bilgilendirilmesi, eğitim organizasyonu, eğitim etkinliği ölçümü, kayıt ve raporlama"
             ]
           },
           {
             "type": "heading",
             "level": 3,
-            "text": "Neden Bu Eğitim?"
+            "text": "A1 Birimi Öğrenme Kazanımları"
           },
           {
             "type": "list",
-            "items": ["Koçlara özel olarak tasarlanmıştır", "Teori değil, uygulama ve gözlem odaklıdır", "Etik sınırlar dahilinde sezgisel yetkinlik geliştirilir", "Koçlukta kalitenizi ve etkileyiciliğinizi artırır"]
+            "items": [
+              "Güvenli ve sağlıklı çalışma yöntemlerini açıklar.",
+              "Acil durumlara karşı alınması gereken önlemleri açıklar.",
+              "Çalışma ortamında uygulanacak çevre önlemlerini açıklar.",
+              "Mevzuat, kalite gereklilikleri, kuruluş prosedürleri ve bilgi güvenliği çerçevesinde iş süreçlerini açıklar.",
+              "Bireysel ve ekip mesleki gelişimine yönelik faaliyetleri açıklar."
+            ]
+          },
+          {
+            "type": "heading",
+            "level": 3,
+            "text": "A2 Birimi Öğrenme Kazanımları"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Bütçe ve satın alma süreçlerini tanımlar; dokümantasyon ve bilgi sistemi çalışmalarına destek verir.",
+              "Eğitim işleri yaklaşımı ve dokümanlarının hazırlanmasına destek verir.",
+              "Eğitim ihtiyaç analizi yapar ve eğitimleri planlar.",
+              "Eğitim programının ilkelerini, içeriğini, uygulama sürecini, eğitmen organizasyonunu ve ölçme araçlarını geliştirir.",
+              "Eğitim hakkında bilgilendirme, organizasyon, etkinlik ölçümü, kayıt ve raporlama faaliyetlerini yürütür."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Önemli: Bu eğitim sınava hazırlık sağlar. MYK Eğitim Uzmanı (Seviye 6) Mesleki Yeterlilik Belgesi yalnızca yetkilendirilmiş belgelendirme kuruluşunun uyguladığı teorik ve performansa dayalı sınavlarda başarılı olunması halinde düzenlenir."
           },
           {
             "type": "heading",
             "level": 2,
-            "text": "Önemli Bilgiler"
+            "text": "Ölçme, Değerlendirme ve Belgelendirme"
           },
           {
             "type": "accordion",
-            "title": "Eğitim Sonunda Kazanımlarınız",
+            "title": "MYK Eğitim Uzmanı Seviye 6 Sınav ve Belgelendirme Bilgileri",
             "items": [
               {
-                "title": "Sessiz mesajları çözümleyebilme becerisi",
-                "content": "Danışanın tonlama, duraksama, beden dili ve mikro ifadeleri gibi sözel olmayan ipuçlarını fark edebilir hale gelirsiniz. Böylece yalnızca anlatılan hikâyeyi değil, arka plandaki gerçek duygusal akışı da analiz edebilirsiniz."
+                "title": "Genel Başarı Koşulu",
+                "content": "MYK Eğitim Uzmanı (Seviye 6) belgesini almak isteyen adayların A1 ve A2 zorunlu birimlerinde tanımlanan sınavlardan başarılı olması gerekir. Teorik sınavlar birlikte yapılabilse de her birim bağımsız değerlendirilir. Sınava giriş için ön koşul bulunmamaktadır."
               },
               {
-                "title": "Duygusal farkındalığı yüksek, sezgisel güçlü koçluk",
-                "content": "Kendi duygusal durumunuzu regüle etmeyi öğrenerek danışanın duygusal alanına daha net ve dengeli şekilde eşlik edebilirsiniz. Sezgiyi kör inanç gibi değil, gözlem ve deneyimle beslenen bilinçli bir farkındalık aracı olarak kullanırsınız."
+                "title": "A1 Teorik Sınavı",
+                "content": "A1 biriminde en az 20 soruluk, 5 seçenekli çoktan seçmeli T1 sınavı uygulanır. Her soru için ortalama 1,5 dakika verilir; yanlış cevaplar puan götürmez. Başarı için soruların en az yüzde 70'inin doğru yanıtlanması gerekir. A1 biriminde performans sınavı yoktur."
               },
               {
-                "title": "İletişimin görünmeyen kısmını okuma yetkinliği",
-                "content": "Kelime seçimleri, metaforlar ve tekrar eden kalıplar üzerinden danışanın içsel haritasını çıkarabilirsiniz. Böylece yüzeydeki problem yerine, davranışı besleyen inanç ve anlam sistemine odaklanma becerisi kazanırsınız."
+                "title": "A2 Teorik Sınavı",
+                "content": "A2 biriminde en az 30 soruluk, 5 seçenekli çoktan seçmeli T1 sınavı uygulanır. Her soru için ortalama 1,5 dakika verilir; yanlış cevaplar puan götürmez. Başarı için soruların en az yüzde 70'inin doğru yanıtlanması gerekir."
               },
               {
-                "title": "Koçluk seanslarında daha derin anlayış ve uyum",
-                "content": "Danışanla daha hızlı güven ve uyum (rapport) oluşturabilir, iletişim frekansınızı onunla bilinçli şekilde senkronize edebilirsiniz. Bu da seanslarda yüzeysel çözümler yerine kalıcı içgörülere ulaşmayı kolaylaştırır."
+                "title": "A2 Performans Sınavı - P1",
+                "content": "P1, eğitim planlama, süreç yönetme ve program geliştirme senaryosuna dayalı örnek olay çözümlemesidir. Adaya hazırlık için en az 60 dakika verilir ve sunum en az 30 dakika sürer. Kritik adımların tamamından başarılı olmak ve sınav genelinde en az yüzde 80 başarı göstermek gerekir."
               },
               {
-                "title": "Katılım sertifikası ve pratik analiz rehberi",
-                "content": "Eğitim sonunda katılımınızı belgeleyen sertifika sunulur. Ayrıca, öğrendiklerinizi gerçek seanslarda sistemli şekilde uygulayabilmeniz için örnek analiz şablonları ve adım adım kullanım rehberi sağlanır."
+                "title": "Sınav ve Birim Geçerlilik Süreleri",
+                "content": "A2 birimindeki sınav sonuçları başarı tarihinden itibaren bir yıl geçerlidir; başarılı sınav tarihleri arasındaki fark bir yılı aşamaz. A1 ve A2 yeterlilik birimlerinin geçerliliği, birimin başarıldığı tarihten itibaren iki yıldır."
+              },
+              {
+                "title": "Belge Geçerliliği ve Yenileme",
+                "content": "Mesleki Yeterlilik Belgesi beş yıl geçerlidir ve gözetim şartı bulunmaz. Yenilemede aday, beş yıllık sürede toplam en az iki yıl veya son altı ay ilgili alanda çalıştığını kayıtlarla kanıtlar ya da yeterlilik birimlerinin uygulama sınavlarına katılır. Olumlu değerlendirmede belge beş yıl uzatılır."
+              },
+              {
+                "title": "Terimler, Simgeler ve Kısaltmalar",
+                "items": [
+                  "Acil durum planı: Kuruluşlarda meydana gelebilecek acil durumlarda yapılacak iş ve işlemler ile uygulamaya yönelik eylemleri içeren plan.",
+                  "Davranış: Kişinin mesleğini başarıyla icra etmesi için sergilemesi gereken gözlenebilir ve ölçülebilir hal ve hareketler.",
+                  "Değerlendirme: Ölçme sonuçlarını belirli bir ölçütle kıyaslayarak ölçülen nitelik hakkında karara varma süreci.",
+                  "Eğitim: Öğretim programlarını, örgün, yaygın ve serbest öğrenme etkinliklerini ve bireyin yaşantısı yoluyla davranış değişikliği deneyimlerini içeren süreç.",
+                  "Eğitim ihtiyaç analizi: Kurumsal hedefler için beklenen bilgi, beceri ve tutumlar ile çalışanda bulunanlar arasındaki farkı ortaya çıkaran çalışma.",
+                  "Eğitim materyali: Öğrenme ve öğretmeyi desteklemek için geliştirilmiş görsel, işitsel araçlar ile yardımcı bilgi, gereç ve kaynaklar.",
+                  "Eğitim planlama: Eğitim faaliyetlerinin amacı, yeri, yöntemi, zamanı, sorumluları, hedef kitlesi ve kaynaklarının belirlenmesi süreci.",
+                  "ISCO: Uluslararası Standart Meslek Sınıflaması.",
+                  "İK: İnsan kaynakları.",
+                  "Kazanım: Öğretim sonunda katılımcının göstereceği davranış, bilgi, beceri, tutum ve değerin ölçülebilir öğrenme çıktısı.",
+                  "Kurumsal eğitmen: Eğitim programının uygulanmasından ve öğrenme sürecinin yönetiminden sorumlu nitelikli kişi.",
+                  "Öğrenme: Bireyin kendisi ve çevresiyle etkileşimi sonucunda davranışlarında meydana gelen kalıcı etki.",
+                  "Öğretim: Bilgi, beceri, tutum ve davranış değişikliğinin planlı ve programlı biçimde eğitim ortamında gerçekleştirilmesi.",
+                  "Öğretim tekniği: Öğretim yöntemini uygulamaya aktarma biçimi; soru-cevap, beyin fırtınası, gösterim, oyunlaştırma ve benzeşim gibi teknikler.",
+                  "Öğretim yöntemi: Öğretim hedefleri için seçilen teknik, içerik, araç-gereç ve kaynakları ilişkili biçimde sunan öğretme yolu.",
+                  "Öğretme: Bir konunun öğretim programına uygun hazırlanması, uygulanması ve beklenen davranışlar oluşuncaya kadar sürdürülmesi.",
+                  "Ölçme: Bireylerin belirli özelliklere sahip olma durum ve derecelerini belirleyip sonuçları sayı veya sembollerle ifade etme işlemi.",
+                  "Program: Bir amaca ulaşmak için gereken faaliyetleri, aşamaları, süreleri, yöntemleri ve uygunluk ölçütlerini belirleyen tasarı.",
+                  "Risk: Tehlikeden kaynaklanabilecek kayıp, yaralanma veya başka zararlı sonuçların meydana gelme ihtimali.",
+                  "Risk değerlendirmesi: Tehlikeleri belirleme, riskleri analiz edip derecelendirme ve kontrol tedbirlerini kararlaştırma çalışması.",
+                  "Tehlike: Çalışanı veya işyerini etkileyebilecek zarar ya da hasar verme potansiyeli."
+                ]
+              },
+              {
+                "title": "A1 Bilgi Kontrol Listesi (BG.1-BG.20)",
+                "items": [
+                  "BG.1: İş süreçlerinin özelliğinden ve/veya kuruluştan kaynaklanabilecek risk ve tehlikelere karşı yapılması gerekenleri açıklar. (UMS: A.1.1; Alt öğrenme kazanımı: 1.1; Değerlendirme aracı: T1)",
+                  "BG.2: Çalışma ortamında kullanılan araç, gereç ve ekipmanların uygun kullanımını açıklar. (UMS: A.1.2; Alt öğrenme kazanımı: 1.1; Değerlendirme aracı: T1)",
+                  "BG.3: İşverenlerin uyması gereken iş sağlığı ve güvenliği ile ilgili yasal ve çalışma alanına ait kuralları açıklar. (UMS: A.1.3; Alt öğrenme kazanımı: 1.1; Değerlendirme aracı: T1)",
+                  "BG.4: Çalışanların uyması gereken iş sağlığı ve güvenliği ile ilgili yasal ve çalışma alanına ait kuralları açıklar. (UMS: A.1.3; Alt öğrenme kazanımı: 1.1; Değerlendirme aracı: T1)",
+                  "BG.5: Acil durumlarda yapılması gerekenleri açıklar. (UMS: A.2.1; Alt öğrenme kazanımı: 1.2; Değerlendirme aracı: T1)",
+                  "BG.6: Çalışma ortamında oluşan kaza durumunda izlenmesi gereken prosedürleri açıklar. (UMS: A.2.2 A.2.3; Alt öğrenme kazanımı: 1.2; Değerlendirme aracı: T1)",
+                  "BG.7: Çalışma ortamında ortaya çıkan çevresel atıkları ve dönüştürülebilir malzemeleri açıklar. (UMS: A.3.1; Alt öğrenme kazanımı: 1.3; Değerlendirme aracı: T1)",
+                  "BG.8: Kaynakların tasarruflu ve verimli kullanımını açıklar. (UMS: A.3.2; Alt öğrenme kazanımı: 1.3; Değerlendirme aracı: T1)",
+                  "BG.9: İnsan kaynakları yönetiminin dayandığı mevzuatı açıklar. (UMS: B.1.1; Alt öğrenme kazanımı: 2.1; Değerlendirme aracı: T1)",
+                  "BG.10: İnsan kaynakları yönetimi sorumluluğundaki süreçle ilgili mevzuat\\prosedür değişimlerinde ne yapması gerektiğini açıklar. (UMS: B.1.2; Alt öğrenme kazanımı: 2.1; Değerlendirme aracı: T1)",
+                  "BG.11: Kuruluşun hizmet kalite standartlarına uygun prosedürleri oluşturulma konusunda ne yapması gerektiğini açıklar. (UMS: B.2.1 B.2.2; Alt öğrenme kazanımı: 2.2; Değerlendirme aracı: T1)",
+                  "BG.12: Sorumluluk alanındaki hizmetlere ilişkin şikayetlerin yönetim sürecini açıklar. (UMS: B.2.6; Alt öğrenme kazanımı: 2.2; Değerlendirme aracı: T1)",
+                  "BG.13: Süreç iyileştirme ve geliştirme çalışmalarını açıklar. (UMS: B.2.1 B.2.4 B.2.5; Alt öğrenme kazanımı: 2.2; Değerlendirme aracı: T1)",
+                  "BG.14: İş süreçlerinde bilgi gizliliği ve güvenliğini sağlamaya yönelik tedbirleri açıklar. (UMS: B.3.1 B.3.2; Alt öğrenme kazanımı: 2.3; Değerlendirme aracı: T1)",
+                  "BG.15: Dosya ve kayıtların (dijital veya basılı belge) gizliliğini koruyarak güvenli bir şekilde muhafaza ve imhasını açıklar. (UMS: B.3.3 B.3.4 F.4.1 F.4.2; Alt öğrenme kazanımı: 2.3; Değerlendirme aracı: T1)",
+                  "BG.16: Bireysel mesleki gelişiminde izleyeceği yöntemleri açıklar. (UMS: I.1.1 I.1.2; Alt öğrenme kazanımı: 3.1; Değerlendirme aracı: T1)",
+                  "BG.17: Bireysel gelişim ihtiyaçlarına uygun faaliyet ve kaynakların planlama sürecini açıklar. (UMS: I.1.1 I.1.2; Alt öğrenme kazanımı: 3.1; Değerlendirme aracı: T1)",
+                  "BG.18: Mesleği ile ilgili temel araştırma yöntemlerini açıklar. (UMS: I.1.3; Alt öğrenme kazanımı: 3.1; Değerlendirme aracı: T1)",
+                  "BG.19: Bilgi paylaşım süreçlerini açıklar. (UMS: I.2.1 I.2.2; Alt öğrenme kazanımı: 3.2; Değerlendirme aracı: T1)",
+                  "BG.20: Delegasyon süreçlerini açıklar. (UMS: I.2.1 I.2.2; Alt öğrenme kazanımı: 3.2; Değerlendirme aracı: T1)"
+                ]
+              },
+              {
+                "title": "A2 Bilgi Kontrol Listesi (BG.1-BG.30)",
+                "items": [
+                  "BG.1: Sorumluluğundaki süreçlere ilişkin bütçe hazırlamada kullanılan veri ve kaynakları açıklar. (UMS: C.1.1; Alt öğrenme kazanımı: 1.1; Değerlendirme aracı: T1)",
+                  "BG.2: Sorumluluğundaki süreçlere ilişkin bütçe planlama aşamalarını açıklar. (UMS: C.1.2; Alt öğrenme kazanımı: 1.1; Değerlendirme aracı: T1)",
+                  "BG.3: Bütçe uygulama aşamalarını açıklar. (UMS: C.1.1- C.1.2; Alt öğrenme kazanımı: 1.2; Değerlendirme aracı: T1)",
+                  "BG.4: Bütçe revizyon sürecini açıklar. (UMS: C.1.2; Alt öğrenme kazanımı: 1.2; Değerlendirme aracı: T1)",
+                  "BG.5: Sorumluluğundaki süreçler için dış kaynaklardan alınacak hizmetin teknik şartnamesinin hazırlanma sürecini açıklar. (UMS: C.2.1; Alt öğrenme kazanımı: 1.3; Değerlendirme aracı: T1)",
+                  "BG.6: Sorumluluğundaki süreçler için dış kaynaklardan alınacak hizmet için istekliler tarafından verilen tekliflerin değerlendirilmesi sürecini açıklar. (UMS: C.2.1; Alt öğrenme kazanımı: 1.3; Değerlendirme aracı: T1)",
+                  "BG.7: Sorumluluğundaki süreçler için dış kaynaklardan alınan hizmetlerin sözleşme hükümlerine uygunluğunun takibi sürecini açıklar. (UMS: C.2.2; Alt öğrenme kazanımı: 1.4; Değerlendirme aracı: T1)",
+                  "BG.8: Sorumluluğundaki süreçler için dış kaynaklardan alınan hizmetlerin performansının değerlendirilmesinde kullanılacak yöntemleri açıklar. (UMS: C.2.2; Alt öğrenme kazanımı: 1.4; Değerlendirme aracı: T1)",
+                  "BG.9: Endüstriyel ilişkiler yönetimine ilişkin tanımların ve süreç adımlarının bilgi sistemindeki tanımlanma, yetkinlendirme ve güncelleme sürecini açıklar. (UMS: C.3.1 C.3.2; Alt öğrenme kazanımı: 1.5; Değerlendirme aracı: T1)",
+                  "BG.10: İK bilgi sistemindeki bir alt değişikliğin süreç adımlarına etkilerini açıklar. (UMS: C.3.1 C.3.2; Alt öğrenme kazanımı: 1.5; Değerlendirme aracı: T1)",
+                  "BG.11: Eğitim işleri yaklaşımının hazırlanma, onaylanma ve güncelleme sürecini açıklar. (UMS: C.3.1 C.3.2; Alt öğrenme kazanımı: 2.1; Değerlendirme aracı: T1)",
+                  "BG.12: Verilen bir genel yönetim politikası değişikliğinin Eğitim işleri yaklaşımına etkisini analiz eder. (UMS: C.3.1 C.3.2; Alt öğrenme kazanımı: 2.1; Değerlendirme aracı: T1)",
+                  "BG.13: Eğitim işleri süreç prosedürlerinin hazırlanma, onaylanma ve güncelleme aşamalarını değerlendirir. (UMS: C.3.1 C.3.2; Alt öğrenme kazanımı: 2.2; Değerlendirme aracı: T1)",
+                  "BG.14: Eğitim işleri süreç prosedürlerinin hazırlanmasında kullanılan veri ve kaynakları açıklar. (UMS: C.3.1 C.3.2; Alt öğrenme kazanımı: 2.2; Değerlendirme aracı: T1)",
+                  "BG.15: Eğitim işleri süreç prosedürleri ile ilgili yöntem ve araçları değerlendirir. (UMS: C.3.1 C.3.2; Alt öğrenme kazanımı: 2.2; Değerlendirme aracı: T1)",
+                  "BG.16: Eğitim işleri süreç prosedürlerinde kullanılan dokümanlar ve özelliklerini değerlendirir. (UMS: C.3.1 C.3.2; Alt öğrenme kazanımı: 2.2; Değerlendirme aracı: T1)",
+                  "BG.17: Eğitim ihtiyaç analizinde kullanılan veri ve kaynakları değerlendirir. (UMS: D.1.1- D.1.4; Alt öğrenme kazanımı: 3.1; Değerlendirme aracı: T1)",
+                  "BG.18: Eğitim ihtiyaç analiz yöntemlerinin karşılaştırmalı analizini yapar. (UMS: D.1.1- D.1.4; Alt öğrenme kazanımı: 3.1; Değerlendirme aracı: T1)",
+                  "BG.19: Eğitim ihtiyaç analiz sürecini değerlendirir. (UMS: D.1.1- D.1.6; Alt öğrenme kazanımı: 3.1; Değerlendirme aracı: T1)",
+                  "BG.20: Eğitim planlama çalışmasında kullanılan veri ve kaynakları açıklar. (UMS: D.2.1; Alt öğrenme kazanımı: 3.2; Değerlendirme aracı: T1)",
+                  "BG.21: Eğitim uygulama takvimini süreç, içerik ve uygulanabilirlik yönünden analiz eder. (UMS: D.2.2 D.2.3; Alt öğrenme kazanımı: 3.2; Değerlendirme aracı: T1)",
+                  "BG.22: Eğitimlerin amaç ve kazanımlarının eğitim ihtiyaçlarına ve kurumsal hedeflere uygunluğunu değerlendirir. (UMS: E.1.1- E.1.4; Alt öğrenme kazanımı: 4.1; Değerlendirme aracı: T1)",
+                  "BG.23: Bir eğitim programı içeriğini tasarım yönünden değerlendirir. (UMS: E.2.1- E.2.4; Alt öğrenme kazanımı: 4.2; Değerlendirme aracı: T1)",
+                  "BG.24: Eğitim planlama ve tasarım sürecinde alan uzmanlığı gerektiren durumları tanımlar. (UMS: E.1.1- E.3.4; Alt öğrenme kazanımı: 4.3; Değerlendirme aracı: T1)",
+                  "BG.25: Eğitim organizasyon sürecini kapsam yönünden değerlendirir. (UMS: E.4.1- E.4.6; Alt öğrenme kazanımı: 4.3; Değerlendirme aracı: T1)",
+                  "BG.26: Eğitim uygulama sürecinde kullanılan araç, gereç ve ekipmanları tanımlar. (UMS: E.3.2 E.3.3; Alt öğrenme kazanımı: 4.3; Değerlendirme aracı: T1)",
+                  "BG.27: Eğitim hedeflerine uygun öğretim yöntemi ve tekniklerini açıklar. (UMS: E.3.1; Alt öğrenme kazanımı: 4.3; Değerlendirme aracı: T1)",
+                  "BG.28: Eğitmenlerin seçim kriterlerini açıklar. (UMS: E.4.1- E.4.4; Alt öğrenme kazanımı: 4.4; Değerlendirme aracı: T1)",
+                  "BG.29: Ölçme ve değerlendirme araçlarının geliştirilmesinde kullanılacak veri ve kaynakları değerlendirir. (UMS: E.5.1- E.5.3; Alt öğrenme kazanımı: 4.5; Değerlendirme aracı: T1)",
+                  "BG.30: Ölçme ve değerlendirme araçlarını mukayese eder. (UMS: E.5.1- E.5.3; Alt öğrenme kazanımı: 4.5; Değerlendirme aracı: T1)"
+                ]
+              },
+              {
+                "title": "A2 Beceri ve Yetkinlik Kontrol Listesi (BY.1-BY.27)",
+                "items": [
+                  "BY.1: Eğitim ihtiyaç durumunun tespit edilmesi için verilen girdileri (kuruluşun misyonu, vizyonu, stratejik plan ve hedefleri, operasyonel hedefleri, kuruluş içi süreçler, görevler ve yetkinlikler, performans değerlendirme sonuçları, kariyer planları, yetenek havuzu, önceki dönem eğitim etkinliğine ilişkin ölçüm sonuçları ve benzeri girdileri) inceler. (UMS: D.1.1; Alt öğrenme kazanımı: 3.1; Değerlendirme aracı: P1)",
+                  "BY.2 - Kritik adım: İK yönetim yapısını ve kurum kültürünü göz önünde bulundurarak eğitim ihtiyaç analizi çalışmasında kullanılacak analiz yöntemini (anket, mülakat, odak grup çalışması, beyin fırtınası, değerlendirme merkezi ve benzeri) belirler. (UMS: D.1.2; Alt öğrenme kazanımı: 3.1; Değerlendirme aracı: P1)",
+                  "BY.3: Sunulan verileri birleştirerek eğitim ihtiyaçları analiz raporu hazırlar. (UMS: D.1.3- D.1.6; Alt öğrenme kazanımı: 3.1; Değerlendirme aracı: P1)",
+                  "BY.4 - Kritik adım: Eğitmenin çalışma programı, eğitim yapılacak mekânın dolu-boş olma durumu, katılımcı personelin iş programlarının uygunluğu gibi veriler doğrultusunda eğitim takviminin taslağını hazırlar. (UMS: D.2.1- D.2.2; Alt öğrenme kazanımı: 3.2; Değerlendirme aracı: P1)",
+                  "BY.5: Eğitim takviminde yönetimin belirlediği hususlarda revize takvim çalışması yapar. (UMS: D.2.3; Alt öğrenme kazanımı: 3.2; Değerlendirme aracı: P1)",
+                  "BY.6 - Kritik adım: Tespit edilen eğitim ihtiyaçları doğrultusunda eğitim programı önerileri geliştirir. (UMS: E.1.1; Alt öğrenme kazanımı: 4.1; Değerlendirme aracı: P1)",
+                  "BY.7: Verilen bir eğitim programının hazırlanma gerekçesini ve amacını kapsam yönünden değerlendirir. (UMS: E.1.2; Alt öğrenme kazanımı: 4.1; Değerlendirme aracı: P1)",
+                  "BY.8 - Kritik adım: Bir eğitim programı ile ilgili belirlenen hedef ve kazanımların kapsam yönünden uygunluğunu değerlendirir. (UMS: E.1.3- E.1.4; Alt öğrenme kazanımı: 4.1; Değerlendirme aracı: P1)",
+                  "BY.9 - Kritik adım: Eğitimin amaç ve hedefleri doğrultusunda içeriğinde yer alacak konu başlıklarının belirlenmesi için ihtiyaç duyulan veri ve kaynaklarla uzmanlık ihtiyacını belirler. (UMS: E.2.1 E.2.2; Alt öğrenme kazanımı: 4.2; Değerlendirme aracı: P1)",
+                  "BY.10 - Kritik adım: Eğitimde yer alacak konu başlıklarına göre, sunumu yapacak olan ilgili iç ya da dış eğitmenin özelliklerini belirler. (UMS: E.2.3; Alt öğrenme kazanımı: 4.2; Değerlendirme aracı: P1)",
+                  "BY.11: Eğitimin içeriği ve kullanılacak yönteme uygun olarak eğitimcinin ve katılımcıların kullanacakları (sunum, eğitim notu, kitapçık, yönergeler ve benzeri) eğitim materyallerinin uygunluğunu kontrol eder. (UMS: E.2.4; Alt öğrenme kazanımı: 4.2 4.3; Değerlendirme aracı: P1)",
+                  "BY.12 - Kritik adım: Eğitim hedeflerine uygun öğretim yöntemi ve tekniğini seçer. (UMS: E.3.1; Alt öğrenme kazanımı: 4.3; Değerlendirme aracı: P1)",
+                  "BY.13: Eğitimde kullanılacak araç ve gereçleri tespit eder. (UMS: E.3.2; Alt öğrenme kazanımı: 4.3; Değerlendirme aracı: P1)",
+                  "BY.14: Eğitimin uygulama sürecinde kullanılacak zaman planını hazırlar. (UMS: E.3.4; Alt öğrenme kazanımı: 4.3; Değerlendirme aracı: P1)",
+                  "BY.15 - Kritik adım: Eğitim prosedürlerine göre, eğitmen olarak görevlendirilecek çalışanların niteliklerini belirler. (UMS: E.4.1- E.4.2; Alt öğrenme kazanımı: 4.4; Değerlendirme aracı: P1)",
+                  "BY.16: Eğitmenlerin performanslarının takibine yönelik sistemler geliştirir. (UMS: E.4.3 E.4.4 E.4.6; Alt öğrenme kazanımı: 4.4; Değerlendirme aracı: P1)",
+                  "BY.17: Eğitmenlere eğitimin organizasyonu ile ilgili sunulacak bilgileri tanımlar. (UMS: E.4.5; Alt öğrenme kazanımı: 4.4; Değerlendirme aracı: P1)",
+                  "BY.18 - Kritik adım: Eğitimin hedefleri ve içeriğine göre kullanılacak ölçme aracını seçer. (UMS: E.5.1; Alt öğrenme kazanımı: 4.5; Değerlendirme aracı: P1)",
+                  "BY.19: Eğitim öncesinde katılımcıların seviyelerini belirlemek için hazırlanan ölçüm araçlarını kontrol eder. (UMS: E.5.2; Alt öğrenme kazanımı: 4.5; Değerlendirme aracı: P1)",
+                  "BY.20: Eğitim sonrasında eğitimin etkinliğini, eğitimin amaç ve kazanımlarına uygun olarak, öğrenme ve uygulayabilme düzeyini, katılımcı tepkilerini, öğrenilenlerin performansa etkilerini ölmek için geliştirilen araçları (test, anket, tutum ölçeği, gözlem formu, eğitmen değerlendirme formu ve benzeri) kontrol eder. (UMS: E.5.3; Alt öğrenme kazanımı: 4.5; Değerlendirme aracı: P1)",
+                  "BY.21: Eğitimin özelliklerini, içeriklerini tanımlayan eğitim kataloğunu hazırlar. (UMS: F.1.1; Alt öğrenme kazanımı: 5.1; Değerlendirme aracı: P1)",
+                  "BY.22: Kuruluşun iç iletişim prosedürlerine göre, eğitimlerin kuruluş içinde tanıtılmasında gerçekleştirilecek faaliyeti yürütür. (UMS: F.1.2 F.2.1; Alt öğrenme kazanımı: 5.1 5.2; Değerlendirme aracı: P1)",
+                  "BY.23: Eğitim katılımcıları belirlenmesinde izlenecek prosedürleri açıklar. (UMS: F.2.2; Alt öğrenme kazanımı: 5.2; Değerlendirme aracı: P1)",
+                  "BY.24: Eğitim için gerçekleştirilmesi gereken sınıf düzeni, ikram, konaklama, ulaşım, araç-gereç temini ve benzeri organizasyonu belirler. (UMS: F.2.3; Alt öğrenme kazanımı: 5.2; Değerlendirme aracı: P1)",
+                  "BY.25: Eğitim sunumlarını ve eğitmen performansını izleme yöntemlerini tanımlar. (UMS: F.2.4- F.2.5; Alt öğrenme kazanımı: 5.2; Değerlendirme aracı: P1)",
+                  "BY.26: Ölçüm sonuçlarını analiz ederek değerlendirme çalışmalarını raporlar. (UMS: F.3.1- F.3.2; Alt öğrenme kazanımı: 5.3; Değerlendirme aracı: P1)",
+                  "BY.27: Eğitim programlarının verimliliğini takip ederek, varsa gerekli güncellemeleri (yeni ihtiyaçlar, talepler ve gündem) yapıp eğitim programlarını günceller. (UMS: F.3.3; Alt öğrenme kazanımı: 5.3; Değerlendirme aracı: P1)"
+                ]
+              },
+              {
+                "title": "Değerlendirici Ölçütleri",
+                "items": [
+                  "Sınav komisyonunda lisans mezunu ve koşulları karşılayan en az iki değerlendirici görevlendirilir.",
+                  "Değerlendiricilerden biri, insan kaynaklarının eğitim planlama ve organizasyon alanında en az beş yıl danışman, uzman veya yönetici olarak çalışmış olmalıdır.",
+                  "Diğer değerlendirici veya değerlendiriciler, üniversitelerde eğitim ve teknoloji fakültelerinde ya da kalite yönetim sistemleri, yönetim ve organizasyon, yönetim sistemleri veya insan kaynakları alanlarından birinde en az beş yıl öğretim görevlisi/üyesi olarak çalışmış olmalıdır.",
+                  "Değerlendiricilere mesleki yeterlilik sistemi, ilgili standart ve yeterlilikler, ölçme-değerlendirme ve kalite güvencesi konularında eğitim sağlanmalıdır."
+                ]
+              },
+              {
+                "title": "Yeterliliğin İdari Bilgileri",
+                "items": [
+                  "Yeterliliğin adı: Eğitim Uzmanı",
+                  "Referans kodu: 21UY0465-6",
+                  "Seviye: 6",
+                  "Uluslararası sınıflandırma: ISCO 08 - 2424, personel eğitimi ve eleman yetiştirme ile ilgili profesyonel meslek mensupları",
+                  "Yayın tarihi: 8 Aralık 2021",
+                  "Revizyon numarası: 00",
+                  "Kaynak meslek standardı: 13UMS0337-6 Eğitim Uzmanı (Seviye 6)",
+                  "A1 ve A2 birimleri zorunludur; seçmeli birim bulunmamaktadır.",
+                  "Sınava giriş şartı bulunmamaktadır.",
+                  "Yeterlilik birimlerinin geçerliliği başarı tarihinden itibaren iki yıldır.",
+                  "Belge geçerlilik süresi beş yıldır; gözetim şartı bulunmamaktadır.",
+                  "Meslekte yatay veya dikey ilerleme yolu tanımlanmamıştır."
+                ]
+              },
+              {
+                "title": "Geliştiren ve Doğrulayan Kuruluşlar",
+                "items": [
+                  "Yeterliliği geliştiren kuruluş: Yönetim Danışmanları Derneği.",
+                  "Yeterliliği doğrulayan komite: MYK İş ve Yönetim Sektör Komitesi."
+                ]
               }
             ]
           }
@@ -1127,14 +1409,33 @@
       },
       "sidebar": {
         "courseInfo": {
-          "price": "$570.00",
-          "students": 50,
-          "duration": "30 gün",
-          "lectures": 10,
-          "videoHours": 12,
-          "certificate": true
+          "price": "Bilgi Alın",
+          "facts": [
+            {
+              "icon": "units",
+              "text": "Zorunlu Birimler: A1 ve A2"
+            },
+            {
+              "icon": "exam",
+              "text": "Sınavlar: A1-T1, A2-T1 ve P1"
+            },
+            {
+              "icon": "success",
+              "text": "Başarı: T1 %70, P1 %80"
+            },
+            {
+              "icon": "certificate",
+              "text": "Belge Geçerliliği: 5 yıl"
+            }
+          ]
         },
-        "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+        "categories": [
+          "MYK",
+          "Eğitim Uzmanlığı",
+          "Seviye 6",
+          "Sınav Hazırlık",
+          "Mesleki Yeterlilik"
+        ],
         "youtubeReels": {
           "title": "Eğitim Videosu",
           "url": ""
@@ -1149,7 +1450,19 @@
             "price": "Free"
           }
         ],
-        "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+        "tags": [
+          "MYK",
+          "Eğitim Uzmanı Seviye 6",
+          "21UY0465-6",
+          "A1",
+          "A2",
+          "Sınav Hazırlık"
+        ],
+        "officialDocument": {
+          "title": "Resmî Yeterlilik Dokümanı",
+          "description": "21UY0465-6 Eğitim Uzmanı (Seviye 6) Rev. 00 belgesinin tam metni.",
+          "url": "documents/21UY0465-6_Rev_00_Egitim_Uzmani.pdf"
+        }
       }
     },
     {
@@ -1158,7 +1471,11 @@
         "backgroundImage": "url('images/banner/banner-1.jpg')"
       },
       "breadcrumb": {
-        "listItems": ["Anasayfa", "Kurs", "Mind Flow System ile Performans Koçluğu ve Liderlik Eğitimi"]
+        "listItems": [
+          "Anasayfa",
+          "Kurs",
+          "Mind Flow System ile Performans Koçluğu ve Liderlik Eğitimi"
+        ]
       },
       "page": {
         "id": "mind-flow-system-performans-koclugu-liderlik-egitimi",
@@ -1244,7 +1561,12 @@
           },
           {
             "type": "list",
-            "items": ["ICF PCC ya da MCC unvanına başvurmak isteyen koçlar", "Başvurusunu yapmış fakat destek almak isteyen adaylar", "ICF Seviye 2 veya Seviye 3 eğitimini tamamlamış koçlar", "Ses kayıtları ve yazılı sınav için kendini geliştirmek isteyen koçlar"]
+            "items": [
+              "ICF PCC ya da MCC unvanına başvurmak isteyen koçlar",
+              "Başvurusunu yapmış fakat destek almak isteyen adaylar",
+              "ICF Seviye 2 veya Seviye 3 eğitimini tamamlamış koçlar",
+              "Ses kayıtları ve yazılı sınav için kendini geliştirmek isteyen koçlar"
+            ]
           },
           {
             "type": "heading",
@@ -1314,7 +1636,13 @@
           "videoHours": 12,
           "certificate": true
         },
-        "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+        "categories": [
+          "Eğitim",
+          "Koçluk",
+          "Nefes Koçluğu",
+          "Liderlik",
+          "Kurumsal Yöneticilik"
+        ],
         "youtubeReels": {
           "title": "Eğitim Videosu",
           "url": ""
@@ -1329,7 +1657,13 @@
             "price": "Free"
           }
         ],
-        "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+        "tags": [
+          "Kurumsal",
+          "Koçluk",
+          "Eğitim",
+          "Nefes",
+          "Danışmanlık"
+        ]
       }
     },
     {
@@ -1338,7 +1672,11 @@
         "backgroundImage": "url('images/banner/banner-1.jpg')"
       },
       "breadcrumb": {
-        "listItems": ["Anasayfa", "Kurs", "Eğiticinin Eğitimi"]
+        "listItems": [
+          "Anasayfa",
+          "Kurs",
+          "Eğiticinin Eğitimi"
+        ]
       },
       "page": {
         "id": "egiticinin-egitimi",
@@ -1423,7 +1761,12 @@
           },
           {
             "type": "list",
-            "items": ["Kurumsal ya da bireysel eğitim vermek isteyen koçlar", "Online veya yüz yüze eğitim planlayan uzmanlar", "Etkili sunum, iletişim ve grup yönetimi becerilerini geliştirmek isteyenler", "Eğitim içeriği oluşturma ve sunma konusunda profesyonelleşmek isteyen herkes"]
+            "items": [
+              "Kurumsal ya da bireysel eğitim vermek isteyen koçlar",
+              "Online veya yüz yüze eğitim planlayan uzmanlar",
+              "Etkili sunum, iletişim ve grup yönetimi becerilerini geliştirmek isteyenler",
+              "Eğitim içeriği oluşturma ve sunma konusunda profesyonelleşmek isteyen herkes"
+            ]
           },
           {
             "type": "heading",
@@ -1493,7 +1836,13 @@
           "videoHours": 12,
           "certificate": true
         },
-        "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+        "categories": [
+          "Eğitim",
+          "Koçluk",
+          "Nefes Koçluğu",
+          "Liderlik",
+          "Kurumsal Yöneticilik"
+        ],
         "youtubeReels": {
           "title": "Eğitim Videosu",
           "url": ""
@@ -1508,7 +1857,13 @@
             "price": "Free"
           }
         ],
-        "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+        "tags": [
+          "Kurumsal",
+          "Koçluk",
+          "Eğitim",
+          "Nefes",
+          "Danışmanlık"
+        ]
       }
     },
     {
@@ -1517,7 +1872,11 @@
         "backgroundImage": "url('images/banner/banner-1.jpg')"
       },
       "breadcrumb": {
-        "listItems": ["Anasayfa", "Kurs", "Kendini Tanıma Eğitimi"]
+        "listItems": [
+          "Anasayfa",
+          "Kurs",
+          "Kendini Tanıma Eğitimi"
+        ]
       },
       "page": {
         "id": "kendini-tanima-egitimi",
@@ -1603,7 +1962,12 @@
           },
           {
             "type": "list",
-            "items": ["Kendi içsel dünyasını derinlemesine anlamak isteyen bireyler", "Koçlar, danışmanlar ve psikolojiyle ilgilenen profesyoneller", "Astrolojiyi sadece öngörü değil, iç görü aracı olarak kullanmak isteyenler", "İlişkilerde, kariyerde veya yaşam yönünde netleşmek isteyen herkes"]
+            "items": [
+              "Kendi içsel dünyasını derinlemesine anlamak isteyen bireyler",
+              "Koçlar, danışmanlar ve psikolojiyle ilgilenen profesyoneller",
+              "Astrolojiyi sadece öngörü değil, iç görü aracı olarak kullanmak isteyenler",
+              "İlişkilerde, kariyerde veya yaşam yönünde netleşmek isteyen herkes"
+            ]
           },
           {
             "type": "heading",
@@ -1673,7 +2037,13 @@
           "videoHours": 12,
           "certificate": true
         },
-        "categories": ["Eğitim", "Koçluk", "Nefes Koçluğu", "Liderlik", "Kurumsal Yöneticilik"],
+        "categories": [
+          "Eğitim",
+          "Koçluk",
+          "Nefes Koçluğu",
+          "Liderlik",
+          "Kurumsal Yöneticilik"
+        ],
         "youtubeReels": {
           "title": "Eğitim Videosu",
           "url": ""
@@ -1688,7 +2058,13 @@
             "price": "Free"
           }
         ],
-        "tags": ["Kurumsal", "Koçluk", "Eğitim", "Nefes", "Danışmanlık"]
+        "tags": [
+          "Kurumsal",
+          "Koçluk",
+          "Eğitim",
+          "Nefes",
+          "Danışmanlık"
+        ]
       }
     }
   ]

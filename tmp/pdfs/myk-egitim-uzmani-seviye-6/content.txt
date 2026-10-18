@@ -1,0 +1,1373 @@
+
+===== PAGE 1 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+1.1
+EĞİTİM UZMANI
+SEVİYE 6
+REVİZYON NO: 00
+21UY0465-6
+©Mesleki Yeterlilik Kurumu 0
+
+===== PAGE 2 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+GİRİŞ
+Eğitim Uzmanı (Seviye 6) Ulusal Yeterliliği 19/10/2015 tarihli ve 29507 sayılı Resmi
+Gazete’de yayımlanan Ulusal Meslek Standartlarının ve Ulusal Yeterliliklerin Hazırlanması
+Hakkında Yönetmelik ve 27/11/2007 tarihli ve 26713 sayılı Resmi Gazete’de yayımlanan
+Mesleki Yeterlilik Kurumu Sektör Komitelerinin Kuruluş, Görev, Çalışma Usul ve Esasları
+Hakkında Yönetmelik hükümlerine göre MYK’nın görevlendirdiği Yönetim Danışmanları
+Derneği tarafından hazırlanmış, sektördeki ilgili kurum ve kuruluşların görüşleri alınarak
+değerlendirilmiş ve MYK İş ve Yönetim Sektör Komitesi tarafından incelendikten sonra
+MYK Yönetim Kurulunca onaylanmıştır.
+©Mesleki Yeterlilik Kurumu 1
+
+===== PAGE 3 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+TERİMLER, SİMGELER VE KISALTMALAR
+ACİL DURUM PLANI: Kuruluşlarda meydana gelebilecek acil durumlarda yapılacak iş ve
+işlemler dâhil bilgiler ve uygulamaya yönelik eylemlerin yer aldığı planı,
+DAVRANIŞ: Kişinin mesleğini başarı ile icra etmesi için sergilemesi gereken gözlenebilir ve
+ölçülebilir nitelikteki hal ve hareketlerini,
+DEĞERLENDİRME: Ölçme sonuçlarını belirli bir ölçütle kıyaslayarak ölçülen nitelik
+hakkında bir karara varma sürecini,
+EĞİTİM: İçinde birçok öğretim programını, çeşitli örgün, yaygın ve serbest öğrenme
+etkinliklerini ve bireyin kendi yaşantısı yoluyla davranışlarında değişiklik oluşturma
+deneyimlerini içeren bir değişim sürecini,
+EĞİTİM İHTİYAÇ ANALİZİ: Eğitim ve gelişim alanlarını tespit etmek amacıyla,
+kurumun hedeflerini gerçekleştirebilmesi için çalışandan beklediği bilgi, beceri, tutumlar ile
+çalışanda var olan bilgi, beceri ve tutum arasındaki farkı ortaya çıkaran çözümleme
+çalışmasını,
+EĞİTİM MATERYALİ: Eğitim sürecinde öğrenme ve öğretmeyi destekleyici, kolaylaştırıcı
+olarak geliştirilmiş olan görsel ve işitsel araçlar ile yardımcı tüm bilgi, gereç ve kaynağı,
+EĞİTİM PLANLAMA: Eğitim faaliyetlerinin, geleceğe yönelik olarak, var olan durumdan
+saptanmış hedeflere ulaşmak üzere, niçin, nerede, nasıl, ne zaman ve kimler tarafından,
+kimlere yönelik yapılacağı konularının tespit edilmesi; izlenecek yolların, uygulanacak
+yöntemlerin, kullanılacak kaynakların belirlenmesi sürecini,
+ISCO: Uluslararası Standart Meslek Sınıflamasını,
+İK: İnsan Kaynaklarını,
+KAZANIM: Eğitimin amacını gerçekleştirmeye yönelik olarak, öğretim etkinliği sonunda
+katılımcının göstereceği davranış, sahip olacağı bilgi, beceri, tutum ve değerin ölçülebilir ve
+gözlenebilir bir eylem olarak ifadesini, öğrenme çıktısını,
+KURUMSAL EĞİTMEN: Eğitim programının uygulanmasından sorumlu olan, öğrenme
+sürecini yöneten, öğrenene eşlik eden nitelikli kişiyi,
+ÖĞRENME: Bireyin kendisi ve çevresiyle etkileşimi sonucu davranışlarında meydana gelen
+kalıcı etkiyi,
+ÖĞRETİM: Bireyin bilgi ve beceri ile tutum ve davranış değişikliğinin planlı ve programlı
+bir biçimde eğitim ortamında yapılması sürecini,
+ÖĞRETİM TEKNİĞİ: Öğretim yöntemini uygulamaya aktarma biçimini (soru-cevap, beyin
+fırtınası, gösterim, oyunlaştırma, benzeşim ve benzeri),
+ÖĞRETİM YÖNTEMİ: Öğretim hedeflerini gerçekleştirmek amacıyla bilinçli olarak
+seçilen teknikleri, içeriği, araç-gereç ve kaynakları ilişkili bir biçimde hizmete sunan bir
+öğretme yolunu (düz anlatım, tartışma, örnek olay, gösterip yaptırtma, problem çözme,
+yaratıcı drama ve benzeri)
+ÖĞRETME: Bir konunun öğretim programında belirtilen esaslara uygun biçimde, gerekli
+hazırlıkların yapılması, sürecin gerçekleştirilmesi ve bu sürecin, ürün olarak ortaya çıkması
+©Mesleki Yeterlilik Kurumu 2
+
+===== PAGE 4 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+beklenen davranışların tümü görülünceye kadar olabildiğince etkili ve verimli bir biçimde
+sürdürülmesi etkinliğini,
+ÖLÇME: Öğrenme sürecindeki bireylerin belirli özelliklere sahip olup olmadığının; sahipse
+sahip oluş derecesinin belirlenerek sonuçlarının sayı/sembollerle ifade edilmesini işlemini,
+PROGRAM: Belli bir amaca ulaşmak için yapılması gereken faaliyetlerin nelerden
+oluştuğunun belirlenmesi, aşamalı olarak planlanması, her bir aktivitenin alacağı zamanı,
+nasıl yapılacağını ve uygunluğunun nasıl belirleneceğinin tasarısını,
+RİSK: Tehlikeden kaynaklanacak kayıp, yaralanma ya da başka zararlı sonuç meydana gelme
+ihtimalini,
+RİSK DEĞERLENDİRMESİ: İşyerinde var olan ya da dışarıdan gelebilecek tehlikelerin
+belirlenmesi, bu tehlikelerin riske dönüşmesine yol açan faktörler ile tehlikelerden
+kaynaklanan risklerin analiz edilerek derecelendirilmesi ve kontrol tedbirlerinin
+kararlaştırılması amacıyla yapılması gerekli çalışmaları,
+TEHLİKE: İşyerinde var olan ya da dışarıdan gelebilecek, çalışanı veya işyerini
+etkileyebilecek zarar veya hasar verme potansiyelini,
+ifade eder.
+©Mesleki Yeterlilik Kurumu 3
+
+===== PAGE 5 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+21UY0465-6 EĞİTİM UZMANI ULUSAL YETERLİLİĞİ
+1 YETERLİLİĞİN ADI Eğitim Uzmanı
+2 REFERANS KODU 21UY0465-6
+3 SEVİYE 6
+ULUSLARARASI ISCO 08: 2424 (Personel eğitimi ve eleman yetiştirme
+4
+SINIFLANDIRMADAKİ YERİ ile ilgili profesyonel meslek mensupları)
+5 TÜR -
+6 KREDİ DEĞERİ -
+A) YAYIN TARİHİ 08.12.2021
+7 B) REVİZYON NO 00
+C) REVİZYON TARİHİ -
+Eğitim Uzmanı (Seviye 6) mesleğinin nitelikli kişiler
+tarafından yürütülmesi ve çalışmalarda kalitenin
+artırılması için;
+ Adayların sahip olması gereken nitelikleri, bilgi,
+beceri ve yetkinlikleri tanımlamak,
+8 AMAÇ
+ Adayların, geçerli ve güvenilir bir belge ile
+mesleki yeterliliğini kanıtlamasına olanak
+vermek,
+ Eğitim sistemine, sınav ve belgelendirme
+kuruluşlarına referans ve kaynak oluşturmaktır.
+9 YETERLİLİĞE KAYNAK TEŞKİL EDEN MESLEK STANDART(LAR)I
+13UMS0337-6 Eğitim Uzmanı (Seviye 6) Ulusal Meslek Standardı
+10 YETERLİLİK SINAVINA GİRİŞ ŞART(LAR)I
+-
+11 YETERLİLİĞİN YAPISI
+11-a) Zorunlu Birimler
+21UY0465-6/A1: İSG, Çevre Koruma, İş Süreçlerinin Uygunluğunu Sağlama ve Mesleki Gelişim
+21UY0465-6/A2: Eğitim Planlama, Eğitim Programı Hazırlanmasını Sağlama ve Süreç Yönetimi
+11-b) Seçmeli Birimler
+-
+11-c) Birimlerin Gruplandırılma Alternatifleri
+-
+12 ÖLÇME VE DEĞERLENDİRME
+Eğitim Uzmanı (Seviye 6) Mesleki Yeterlilik Belgesini elde etmek isteyen adaylar yeterlilik birimlerinde
+tanımlanan teorik ve performansa dayalı sınavlara tabi tutulur. Adayların yeterlilik belgesini alabilmeleri
+için, yeterlilik birimlerinde tanımlanan sınavlardan başarılı olmaları gerekir.
+Yeterlilik birimlerindeki teorik sınavlar, her bir birim için ayrı ayrı yapılabileceği gibi birlikte de
+yapılabilir. Ancak her birimin değerlendirmesi bağımsız yapılmalıdır.
+©Mesleki Yeterlilik Kurumu 3
+
+===== PAGE 6 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+13 DEĞERLENDİRİCİ ÖLÇÜTLERİ
+Eğitim Uzmanı (Seviye 6) Ulusal Yeterliliğinin ölçme ve değerlendirme süreçlerinde görev alacak sınav
+komisyonunda en az lisans düzeyinde eğitimlerini tamamlamış ve aşağıdaki koşulları sağlayan en az iki
+(2) değerlendirici görevlendirilir;
+a) Değerlendiricilerden birinin insan kaynaklarının eğitim planlama ve organizasyon alanında en az
+5 yıl danışman/uzman/yönetici olarak çalışmış olmak,
+b) Diğer değerlendirici/değerlendiricilerin üniversitelerde eğitim ve teknoloji fakültelerinde veya
+kalite yönetim sistemleri, yönetim ve organizasyon, yönetim sistemleri ve insan kaynakları
+alanlarından birinde eğitim veren en az 5 yıl öğretim görevlisi/öğretim üyesi olarak görev yapmış
+olması
+Ölçme ve değerlendirme sürecinde görev alacak değerlendiricilere; ilgili alanda yetkilendirilmiş
+kuruluşlar tarafından mesleki yeterlilik sistemi, kişinin görev alacağı ulusal yeterlilik(ler), ilgili ulusal
+meslek standart(lar)ı, ölçme-değerlendirme ve ölçme-değerlendirmede kalite güvencesi konularında
+eğitim sağlanmalıdır.
+Yeterlilik belgesinin geçerlilik süresi belgenin
+14 BELGE GEÇERLİLİK SÜRESİ
+düzenlendiği tarihten itibaren 5 (beş) yıldır.
+15 GÖZETİM SIKLIĞI -
+Beş (5) yıllık geçerlilik süresinin sonunda belge
+sahibinin performansı aşağıda tanımlanan
+yöntemlerden en az biri kullanılarak değerlendirmeye
+tabi tutulur;
+a) 5 yıl belge geçerlilik süresi içerisinde toplamda en az
+iki yıl veya son altı ay boyunca ilgili alanda çalıştığını
+BELGE YENİLEMEDE
+gösteren kayıtları (hizmet dökümü, referans
+16 UYGULANACAK ÖLÇME-
+yazısı/mektubu, sözleşme, fatura, portfolyo ve benzeri)
+DEĞERLENDİRME YÖNTEMİ
+sunmak,
+b) Yeterlilik kapsamında yer alan yeterlilik birimleri
+için tanımlanan uygulama sınavlarına katılmak.
+Değerlendirme sonucu olumlu olan adayların Belge
+geçerlilik süreleri 5 yıl daha uzatılır.
+MESLEKTE YATAY ve DİKEY
+17 -
+İLERLEME YOLLARI
+YETERLİLİĞİ GELİŞTİREN
+18 Yönetim Danışmanları Derneği
+KURULUŞ(LAR)
+YETERLİLİĞİ DOĞRULAYAN
+19 İş ve Yönetim Sektör Komitesi
+SEKTÖR KOMİTESİ
+©Mesleki Yeterlilik Kurumu 4
+
+===== PAGE 7 =====
+21UY0465-6/A1 İSG, Çevre Koruma, İş Süreçlerinin Tarih:08/12/2021 Rev. No:00
+Uygunluğunu Sağlama ve Mesleki Gelişim
+21UY0465-6/A1 İSG, ÇEVRE KORUMA, İŞ SÜREÇLERİNİN UYGUNLUĞUNU SAĞLAMA
+VE MESLEKİ GELİŞİM YETERLİLİK BİRİMİ
+İSG, Çevre Koruma, İş Süreçlerinin Uygunluğunu
+1 YETERLİLİK BİRİMİ ADI
+Sağlama ve Mesleki Gelişim
+2 REFERANS KODU 21UY0465-6/A1
+3 SEVİYE 6
+4 KREDİ DEĞERİ -
+A) YAYIN TARİHİ 08.12.2021
+5 B) REVİZYON NO 00
+C) REVİZYON TARİHİ -
+6 YETERLİLİK BİRİMİNE KAYNAK TEŞKİL EDEN MESLEK STANDARDI
+13UMS0337-6 Eğitim Uzmanı (Seviye 6) Ulusal Meslek Standardı
+7
+ÖĞRENME KAZANIMLARI
+Öğrenme Kazanımı 1: Çalışma ortamında uygulayacağı iş sağlığı ve güvenliği ile çevre koruma
+önlemlerini açıklar.
+Alt Öğrenme Kazanımları:
+1.1: Güvenli ve sağlıklı çalışma yöntemlerini açıklar.
+1.2: Çalışma ortamında acil durumlara karşı alınması gereken önlemleri açıklar.
+1.3: Çalışma ortamında uygulayacağı çevre önlemlerini açıklar.
+Öğrenme Kazanımı 2: İş süreçlerini yürütme yöntemlerini açıklar.
+Alt Öğrenme Kazanımları:
+2.1: Süreçlerle ilgili takip etmesi gereken mevzuatı temel düzeyde tanımlar.
+2.2: Kalite gerekliliklerine ve kuruluş prosedürlerine uygun çalışma yöntemlerini açıklar.
+2.3: Kişisel ve kurumsal bilgilerin gizliliği ve güvenliği mevzuatını temel düzeyde tanımlar.
+Öğrenme Kazanımı 3: Mesleki gelişime yönelik faaliyetleri açıklar.
+Alt Öğrenme Kazanımları:
+3.1: Bireysel mesleki gelişime yönelik faaliyetleri açıklar.
+3.2: Birlikte çalıştığı kişilerin mesleki gelişimine yönelik faaliyetleri açıklar.
+8 ÖLÇME VE DEĞERLENDİRME
+8 a) Teorik Sınav
+Çoktan Seçmeli Sorularla Sınav (T1): A1 yeterlilik birimine yönelik olarak teorik sınav, Ek A1-2’de yer
+alan Bilgiler Kontrol Listesine göre gerçekleştirilir. Teorik değerlendirme için adaylara en az yirmi (20)
+soruluk, beş (5) seçenekli, çoktan seçmeli ve her biri eşit puan değerinde olan sorularla düzenlenmiş
+yazılı sınav uygulanmalıdır. Bu sınavda boş bırakılan veya yanlış cevaplandırılmış sorulardan herhangi
+bir puan indirimi yapılmaz. Sınavda adaylara her soru için ortalama bir buçuk (1,5) dakika zaman verilir.
+©Mesleki Yeterlilik Kurumu 5
+
+===== PAGE 8 =====
+21UY0465-6/A1 İSG, Çevre Koruma, İş Süreçlerinin Tarih:08/12/2021 Rev. No:00
+Uygunluğunu Sağlama ve Mesleki Gelişim
+T1 sınavında soruların en az %70’ine doğru yanıt veren aday başarılı sayılır. Sınav soruları, bu birimde
+T1 sınavı ile ölçülmesi öngörülen tüm bilgi ifadelerini (Ek A1-2) ölçmelidir.
+8 b) Performansa Dayalı Sınav
+Performansa dayalı sınav bulunmamaktadır.
+8 c) Ölçme ve Değerlendirmeye İlişkin Diğer Koşullar
+Yeterlilik biriminin geçerlilik süresi sınavın başarıldığı tarihten itibaren iki (2) yıldır.
+YETERLİLİK BİRİMİNİ
+9 GELİŞTİREN Yönetim Danışmanları Derneği
+KURUM/KURULUŞ(LAR)
+YETERLİLİK BİRİMİNİ
+10 DOĞRULAYAN İş ve Yönetim Sektör Komitesi
+SEKTÖR KOMİTESİ
+YETERLİLİK BİRİMİ EKLERİ
+EK A1-1: Yeterlilik Biriminin Kazandırılması için Tavsiye Edilen Eğitime İlişkin Bilgiler
+Bu birimin kazandırılması için aşağıda tanımlanan içeriğe sahip bir eğitim programının tamamlanması
+tavsiye edilir.
+1. İş sağlığı ve güvenliğine yönelik temel düzenlemeler
+1.1. İş sağlığı ve güvenliğinde işverenlerin ve çalışanların hukuki yükümlülükleri
+1.2. Araç, gereç ve ekipmanların güvenli kullanımı ile ilgili talimat ve prosedürler ve bunları iş
+süreçlerine uygulama
+1.3. Çalışma ortamındaki risk ve tehlikeler
+1.4. Risk ve tehlike kavramları, türleri ve özellikleri
+1.5. Çalışma ortamındaki risk ve tehlikeleri belirleme yöntem ve teknikleri
+2. Acil durumlar
+2.1. Acil durum türleri ve acil durumlarda harekât tarzı
+2.2. Acil durum talimatlarına uygun davranma
+3. Çevre koruma uygulamaları
+3.1. Temel atık yönetimi
+3.2. Enerji verimliliği ve temel tasarruf uygulamaları
+4. İş süreçlerinin yürütümü
+4.1. Süreçlerle ilgili takip etmesi gereken mevzuat
+4.2. Temel kalite yönetim süreçleri
+4.3. Kişisel ve kurumsal bilgilerin gizliliği ve güvenliği mevzuatı
+5. Mesleki gelişim
+5.1. Kişisel gelişim
+5.2. Stres yönetimi ve motivasyon
+5.3. Meslek etiği
+5.4. Bilgi paylaşımı
+5.5. Temel araştırma yöntemleri
+©Mesleki Yeterlilik Kurumu 6
+
+===== PAGE 9 =====
+21UY0465-6/A1 İSG, Çevre Koruma, İş Süreçlerinin Tarih:08/12/2021 Rev. No:00
+Uygunluğunu Sağlama ve Mesleki Gelişim
+EK A1-2: Yeterlilik Biriminin Ölçme ve Değerlendirmesinde Kullanılacak Kontrol Listesi
+a) BİLGİLER
+Yeterlilik
+UMS
+Birimi Değerlendirme
+No Bilgi İfadesi İlgili
+Alt Öğrenme Aracı
+Bölüm
+Kazanımı
+İş süreçlerinin özelliğinden ve/veya kuruluştan
+BG.1 kaynaklanabilecek risk ve tehlikelere karşı yapılması A.1.1 1.1 T1
+gerekenleri açıklar.
+Çalışma ortamında kullanılan araç, gereç ve
+BG.2 A.1.2 1.1 T1
+ekipmanların uygun kullanımını açıklar.
+İşverenlerin uyması gereken iş sağlığı ve güvenliği ile
+BG.3 A.1.3 1.1 T1
+ilgili yasal ve çalışma alanına ait kuralları açıklar.
+Çalışanların uyması gereken iş sağlığı ve güvenliği
+BG.4 A.1.3 1.1 T1
+ile ilgili yasal ve çalışma alanına ait kuralları açıklar.
+BG.5 Acil durumlarda yapılması gerekenleri açıklar. A.2.1 1.2 T1
+Çalışma ortamında oluşan kaza durumunda izlenmesi A.2.2
+BG.6 1.2 T1
+gereken prosedürleri açıklar. A.2.3
+Çalışma ortamında ortaya çıkan çevresel atıkları ve
+BG.7 A.3.1 1.3 T1
+dönüştürülebilir malzemeleri açıklar.
+BG.8 Kaynakların tasarruflu ve verimli kullanımını açıklar. A.3.2 1.3 T1
+İnsan kaynakları yönetiminin dayandığı mevzuatı
+BG.9 B.1.1 2.1 T1
+açıklar.
+İnsan kaynakları yönetimi sorumluluğundaki süreçle
+BG.10 ilgili mevzuat\prosedür değişimlerinde ne yapması B.1.2 2.1 T1
+gerektiğini açıklar.
+Kuruluşun hizmet kalite standartlarına uygun
+B.2.1
+BG.11 prosedürleri oluşturulma konusunda ne yapması 2.2 T1
+B.2.2
+gerektiğini açıklar.
+Sorumluluk alanındaki hizmetlere ilişkin şikayetlerin
+BG.12 B.2.6 2.2 T1
+yönetim sürecini açıklar.
+B.2.1
+BG.13 Süreç iyileştirme ve geliştirme çalışmalarını açıklar. B.2.4 2.2 T1
+B.2.5
+İş süreçlerinde bilgi gizliliği ve güvenliğini B.3.1
+BG.14 2.3 T1
+sağlamaya yönelik tedbirleri açıklar. B.3.2
+B.3.3
+Dosya ve kayıtların (dijital veya basılı belge)
+B.3.4
+BG.15 gizliliğini koruyarak güvenli bir şekilde muhafaza ve 2.3 T1
+F.4.1
+imhasını açıklar.
+F.4.2
+Bireysel mesleki gelişiminde izleyeceği yöntemleri I.1.1
+BG.16 3.1 T1
+açıklar. I.1.2
+Bireysel gelişim ihtiyaçlarına uygun faaliyet ve I.1.1
+BG.17 3.1 T1
+kaynakların planlama sürecini açıklar. I.1.2
+©Mesleki Yeterlilik Kurumu 7
+
+===== PAGE 10 =====
+21UY0465-6/A1 İSG, Çevre Koruma, İş Süreçlerinin Tarih:08/12/2021 Rev. No:00
+Uygunluğunu Sağlama ve Mesleki Gelişim
+Yeterlilik
+UMS
+Birimi Değerlendirme
+No Bilgi İfadesi İlgili
+Alt Öğrenme Aracı
+Bölüm
+Kazanımı
+BG.18 Mesleği ile ilgili temel araştırma yöntemlerini açıklar. I.1.3 3.1 T1
+I.2.1
+BG.19 Bilgi paylaşım süreçlerini açıklar. 3.2 T1
+I.2.2
+I.2.1
+BG.20 Delegasyon süreçlerini açıklar. 3.2 T1
+I.2.2
+b) BECERİ VE YETKİNLİKLER
+Yeterlilik
+UMS
+Birimi Değerlendirme
+No Beceri ve Yetkinlik İfadesi İlgili
+Alt Öğrenme Aracı
+Bölüm
+Kazanımı
+- - - - -
+©Mesleki Yeterlilik Kurumu 8
+
+===== PAGE 11 =====
+21UY0465-6/A2 Eğitim Planlama, Eğitim Programı Tarih:08/12/2021 Rev. No:00
+Hazırlanmasını Sağlama ve Süreç Yönetimi
+21UY0465-6/A2 EĞİTİM PLANLAMA, EĞİTİM PROGRAMI HAZIRLANMASINI SAĞLAMA
+VE SÜREÇ YÖNETİMİ YETERLİLİK BİRİMİ
+Eğitim Planlama, Eğitim Programı Hazırlanmasını
+1 YETERLİLİK BİRİMİ ADI
+Sağlama ve Süreç Yönetimi
+2 REFERANS KODU 21UY0465-6/A2
+3 SEVİYE 6
+4 KREDİ DEĞERİ -
+A) YAYIN TARİHİ 08.12.2021
+5 B) REVİZYON NO 00
+C) REVİZYON TARİHİ -
+6 YETERLİLİK BİRİMİNE KAYNAK TEŞKİL EDEN MESLEK STANDARDI
+13UMS0337-6 Eğitim Uzmanı (Seviye 6) Ulusal Meslek Standardı
+7
+ÖĞRENME KAZANIMLARI
+Öğrenme Kazanımı 1: Bütçe ve satın alma süreçlerini tanımlar.
+Alt Öğrenme Kazanımları:
+1.1: Taslak bütçe çalışması sürecini tanımlar.
+1.2: Bütçe gerçekleşmeleri takip sürecini tanımlar.
+1.3: Dış kaynaktan alınacak hizmetlerin satın alma süreçlerinin takibini tanımlar.
+1.4: Dış kaynaktan alınan hizmetlerin yürütümünü tanımlar.
+1.5: Dokümantasyon ve bilgi sistemi çalışmalarına destek verir.
+Öğrenme Kazanımı 2: Eğitim işleri yaklaşımının oluşturulmasına destek verir.
+Alt Öğrenme Kazanımları:
+2.1: Eğitim işleri yaklaşımlarının hazırlanmasına destek verir.
+2.2: Eğitim işleri dokümanlarının hazırlanmasına destek verir.
+Öğrenme Kazanımı 3: Eğitim planlama çalışmalarını yürütür.
+Alt Öğrenme Kazanımları:
+3.1: Eğitim ihtiyaç analizi yapar.
+3.2: Eğitimleri planlar.
+Öğrenme Kazanımı 4: Eğitim programının geliştirilmesini sağlar.
+Alt Öğrenme Kazanımları:
+4.1: Eğitim programının genel ilkelerini belirler.
+4.2: Eğitim programının içeriğini geliştirir.
+4.3: Eğitim programının uygulama sürecini planlar.
+4.4: Eğitmenlerin çalışmalarını organize eder.
+4.5: Ölçme-değerlendirme araçlarının hazırlanmasına destek verir.
+Öğrenme Kazanımı 5: Eğitim sürecini yönetir.
+Alt Öğrenme Kazanımları:
+5.1: Eğitim hakkında çalışanları bilgilendirir.
+5.2: Eğitim organizasyonunu gerçekleştirir.
+©Mesleki Yeterlilik Kurumu 9
+
+===== PAGE 12 =====
+21UY0465-6/A2 Eğitim Planlama, Eğitim Programı Tarih:08/12/2021 Rev. No:00
+Hazırlanmasını Sağlama ve Süreç Yönetimi
+5.3: Eğitim etkinliğinin ölçümünü yapar.
+5.4: Kayıt ve raporlama faaliyetlerini yürütür.
+8 ÖLÇME VE DEĞERLENDİRME
+8 a) Teorik Sınav
+Çoktan Seçmeli Sorularla Sınav (T1): A2 yeterlilik birimine yönelik olarak teorik sınav, Ek A2-2’de
+yer alan Bilgiler Kontrol Listesine göre gerçekleştirilir. Teorik değerlendirme için adaylara en az otuz
+(30) soruluk, beş (5) seçenekli, çoktan seçmeli ve her biri eşit puan değerinde olan sorularla düzenlenmiş
+yazılı sınav uygulanmalıdır. Bu sınavda boş bırakılan veya yanlış cevaplandırılmış sorulardan herhangi
+bir puan indirimi yapılmaz. Sınavda adaylara her soru için ortalama bir buçuk (1,5) dakika zaman verilir.
+T1 sınavında soruların en az %70’ine doğru yanıt veren aday başarılı sayılır. Sınav soruları, bu birimde
+T1 sınavı ile ölçülmesi öngörülen tüm bilgi ifadelerini (Ek A2-2) ölçmelidir.
+8 b) Performansa Dayalı Sınav
+Eğitim Planlama, Eğitim Programı Hazırlanmasını Sağlama ve Süreç Yönetimi Örnek Olay
+Çözümlemesi (P1)
+P1 performans sınavı eğitim planlama, süreç yönetme ve program geliştirme senaryosuna göre
+gerçekleştirilir. Sınav senaryosu yazılı ve görsel materyaller (slayt, video, fotoğraf, yazılı tasvir gibi)
+kullanılarak oluşturulur ve dosya halinde adaya sunulur. Aday dosya üzerinden inceleme ve
+değerlendirmeler yaparak örnek olay çözümlemesine göre hazırladığı cevapları bilgisayar, sunuş tahtası
+ve benzeri kullanarak veya araç kullanmadan değerlendirici heyete sunar. Sunum esnasında
+değerlendirici heyet, beceri ve yetkinlik kontrol listesindeki adımların gerçekleşme düzeyine göre, beceri
+ve yetkinlik kontrol listesine dayalı sorular sorarak adayın açıklama yapmasını isteyebilir.
+Aday, ilgili hazırlık çalışmalarını sınav ve belgelendirme kuruluşunun belirleyeceği gerekli altyapıya
+sahip bir mekânda yapar. Sınav ve belgelendirme kuruluşu hazırlık çalışmalarının bizzat aday tarafından
+yapılmasını sağlayacak tedbirler alır.
+Adaya, örnek olay çözümlemelerinin içeriğine göre, hazırlık için 60 dakikadan az olmamak üzere gerçek
+uygulama şartları dikkate alınarak belirli bir süre verilir. Performans sınavının sunum süresi en az 30
+dakikadır.
+Adayın performans sınavından başarılı olabilmesi için Beceri ve Yetkinlikler Kontrol Listesinde ilgili
+sınav için tanımlanan kritik adımların (aday tarafından başarılması zorunlu adımların) tamamından
+başarılı olması koşuluyla, sınavın genelinden asgari %80 başarı göstermesi gerekir.
+8 c) Ölçme ve Değerlendirmeye İlişkin Diğer Koşullar
+Birim için öngörülen sınavların geçerlilik süresi sınavın başarıldığı tarihten itibaren (1) yıldır. Birimin
+elde edilebilmesi için başarılan sınav tarihleri arasındaki süre farkı 1 yılı geçemez. Birimin elde
+edilebilmesi için adayların birimde tanımlanan tüm sınavlardan başarılı olması gerekir.
+Yeterlilik biriminin geçerlilik süresi birimin başarıldığı tarihten itibaren 2 yıldır.
+YETERLİLİK BİRİMİNİ
+9 GELİŞTİREN Yönetim Danışmanları Derneği
+KURUM/KURULUŞ(LAR)
+YETERLİLİK BİRİMİNİ
+10 DOĞRULAYAN İş ve Yönetim Sektör Komitesi
+SEKTÖR KOMİTESİ
+©Mesleki Yeterlilik Kurumu 10
+
+===== PAGE 13 =====
+21UY0465-6/A2 Eğitim Planlama, Eğitim Programı Tarih:08/12/2021 Rev. No:00
+Hazırlanmasını Sağlama ve Süreç Yönetimi
+YETERLİLİK BİRİMİ EKLERİ
+EK A2-1: Yeterlilik Biriminin Kazandırılması için Tavsiye Edilen Eğitime İlişkin Bilgiler
+Bu birimin kazandırılması için aşağıda tanımlanan içeriğe sahip bir eğitim programının tamamlanması
+tavsiye edilir.
+1. Bütçe süreçleri
+1.1. Bütçe mevzuatı
+1.2. Bütçe hazırlama
+1.3. Bütçe takibi
+2. Satın alma süreçleri
+2.1. Teknik şartname hazırlama
+2.2. Satın alma mevzuatı
+2.3. Satın alma yöntemleri
+2.4. Hizmet kalitesinin takibi
+3. Dokümantasyon ve bilgi sistemi
+3.1. Eğitim işleri yaklaşımları
+3.2. Eğitim işleri dokümanları
+3.3. İK bilgi sistemi
+4. Eğitim planlama çalışmaları
+4.1. Eğitim ihtiyaç analizi metotları ve uygulamaları
+4.2. Eğitim planlaması yapma
+5. Eğitim programı geliştirilmesini sağlama
+5.1. Eğitim programı ilkeleri ve ilke geliştirme
+5.2. Eğitim programı içeriği geliştirme
+5.3. Eğitim programının uygulama sürecini planlama
+5.4. Eğitim çalışmalarının organizasyonu
+5.5. Ölçme-değerlendirme araçları
+6. Eğitim sürecini yönetmek
+6.1. Eğitimler hakkında çalışanların bilgilendirilmesi
+6.2. Eğitimlerin organizasyonu
+6.3. Eğitim etkinliği ölçümü
+6.4. Kayıt ve raporlama
+EK A2-2: Yeterlilik Biriminin Ölçme ve Değerlendirmesinde Kullanılacak Kontrol Listesi
+a) BİLGİLER
+Yeterlilik
+UMS
+Birimi Değerlendirme
+No Bilgi İfadesi İlgili
+Alt Öğrenme Aracı
+Bölüm
+Kazanımı
+Sorumluluğundaki süreçlere ilişkin bütçe hazırlamada
+BG.1 C.1.1 1.1 T1
+kullanılan veri ve kaynakları açıklar.
+Sorumluluğundaki süreçlere ilişkin bütçe planlama
+BG.2 C.1.2 1.1 T1
+aşamalarını açıklar.
+C.1.1-
+BG.3 Bütçe uygulama aşamalarını açıklar. 1.2 T1
+C.1.2
+BG.4 Bütçe revizyon sürecini açıklar. C.1.2 1.2 T1
+©Mesleki Yeterlilik Kurumu 11
+
+===== PAGE 14 =====
+21UY0465-6/A2 Eğitim Planlama, Eğitim Programı Tarih:08/12/2021 Rev. No:00
+Hazırlanmasını Sağlama ve Süreç Yönetimi
+Yeterlilik
+UMS
+Birimi Değerlendirme
+No Bilgi İfadesi İlgili
+Alt Öğrenme Aracı
+Bölüm
+Kazanımı
+Sorumluluğundaki süreçler için dış kaynaklardan
+BG.5 alınacak hizmetin teknik şartnamesinin hazırlanma C.2.1 1.3 T1
+sürecini açıklar.
+Sorumluluğundaki süreçler için dış kaynaklardan
+BG.6 alınacak hizmet için istekliler tarafından verilen C.2.1 1.3 T1
+tekliflerin değerlendirilmesi sürecini açıklar.
+Sorumluluğundaki süreçler için dış kaynaklardan
+BG.7 alınan hizmetlerin sözleşme hükümlerine C.2.2 1.4 T1
+uygunluğunun takibi sürecini açıklar.
+Sorumluluğundaki süreçler için dış kaynaklardan
+BG.8 alınan hizmetlerin performansının C.2.2 1.4 T1
+değerlendirilmesinde kullanılacak yöntemleri açıklar.
+Endüstriyel ilişkiler yönetimine ilişkin tanımların ve
+C.3.1
+BG.9 süreç adımlarının bilgi sistemindeki tanımlanma, 1.5 T1
+C.3.2
+yetkinlendirme ve güncelleme sürecini açıklar.
+İK bilgi sistemindeki bir alt değişikliğin süreç C.3.1
+BG.10 1.5 T1
+adımlarına etkilerini açıklar. C.3.2
+Eğitim işleri yaklaşımının hazırlanma, onaylanma ve C.3.1
+BG.11 2.1 T1
+güncelleme sürecini açıklar. C.3.2
+Verilen bir genel yönetim politikası değişikliğinin C.3.1
+BG.12 2.1 T1
+Eğitim işleri yaklaşımına etkisini analiz eder. C.3.2
+Eğitim işleri süreç prosedürlerinin hazırlanma, C.3.1
+BG.13 2.2 T1
+onaylanma ve güncelleme aşamalarını değerlendirir. C.3.2
+Eğitim işleri süreç prosedürlerinin hazırlanmasında C.3.1
+BG.14 2.2 T1
+kullanılan veri ve kaynakları açıklar. C.3.2
+Eğitim işleri süreç prosedürleri ile ilgili yöntem ve C.3.1
+BG.15 2.2 T1
+araçları değerlendirir. C.3.2
+Eğitim işleri süreç prosedürlerinde kullanılan C.3.1
+BG.16 2.2 T1
+dokümanlar ve özelliklerini değerlendirir. C.3.2
+Eğitim ihtiyaç analizinde kullanılan veri ve D.1.1-
+BG.17 3.1 T1
+kaynakları değerlendirir. D.1.4
+Eğitim ihtiyaç analiz yöntemlerinin karşılaştırmalı D.1.1-
+BG.18 3.1 T1
+analizini yapar. D.1.4
+D.1.1-
+BG.19 Eğitim ihtiyaç analiz sürecini değerlendirir. 3.1 T1
+D.1.6
+Eğitim planlama çalışmasında kullanılan veri ve
+BG.20 D.2.1 3.2 T1
+kaynakları açıklar.
+Eğitim uygulama takvimini süreç, içerik ve D.2.2
+BG.21 3.2 T1
+uygulanabilirlik yönünden analiz eder. D.2.3
+©Mesleki Yeterlilik Kurumu 12
+
+===== PAGE 15 =====
+21UY0465-6/A2 Eğitim Planlama, Eğitim Programı Tarih:08/12/2021 Rev. No:00
+Hazırlanmasını Sağlama ve Süreç Yönetimi
+Yeterlilik
+UMS
+Birimi Değerlendirme
+No Bilgi İfadesi İlgili
+Alt Öğrenme Aracı
+Bölüm
+Kazanımı
+Eğitimlerin amaç ve kazanımlarının eğitim
+E.1.1-
+BG.22 ihtiyaçlarına ve kurumsal hedeflere uygunluğunu 4.1 T1
+E.1.4
+değerlendirir.
+Bir eğitim programı içeriğini tasarım yönünden E.2.1-
+BG.23 4.2 T1
+değerlendirir. E.2.4
+Eğitim planlama ve tasarım sürecinde alan uzmanlığı E.1.1-
+BG.24 4.3 T1
+gerektiren durumları tanımlar. E.3.4
+Eğitim organizasyon sürecini kapsam yönünden E.4.1-
+BG.25 4.3 T1
+değerlendirir. E.4.6
+Eğitim uygulama sürecinde kullanılan araç, gereç ve E.3.2
+BG.26 4.3 T1
+ekipmanları tanımlar. E.3.3
+Eğitim hedeflerine uygun öğretim yöntemi ve
+BG.27 E.3.1 4.3 T1
+tekniklerini açıklar.
+E.4.1-
+BG.28 Eğitmenlerin seçim kriterlerini açıklar. 4.4 T1
+E.4.4
+Ölçme ve değerlendirme araçlarının geliştirilmesinde E.5.1-
+BG.29 4.5 T1
+kullanılacak veri ve kaynakları değerlendirir. E.5.3
+E.5.1-
+BG.30 Ölçme ve değerlendirme araçlarını mukayese eder. 4.5 T1
+E.5.3
+b) BECERİ VE YETKİNLİKLER
+Yeterlilik
+UMS
+Birimi Değerlendirme
+No Beceri ve Yetkinlik İfadesi İlgili
+Alt Öğrenme Aracı
+Bölüm
+Kazanımı
+Eğitim ihtiyaç durumunun tespit edilmesi için
+verilen girdileri (kuruluşun misyonu, vizyonu,
+stratejik plan ve hedefleri, operasyonel hedefleri,
+kuruluş içi süreçler, görevler ve yetkinlikler,
+BY.1 D.1.1 3.1 P1
+performans değerlendirme sonuçları, kariyer
+planları, yetenek havuzu, önceki dönem eğitim
+etkinliğine ilişkin ölçüm sonuçları ve benzeri
+girdileri) inceler.
+İK yönetim yapısını ve kurum kültürünü göz
+önünde bulundurarak eğitim ihtiyaç analizi
+*BY.2 çalışmasında kullanılacak analiz yöntemini (anket, D.1.2 3.1 P1
+mülakat, odak grup çalışması, beyin fırtınası,
+değerlendirme merkezi ve benzeri) belirler.
+©Mesleki Yeterlilik Kurumu 13
+
+===== PAGE 16 =====
+21UY0465-6/A2 Eğitim Planlama, Eğitim Programı Tarih:08/12/2021 Rev. No:00
+Hazırlanmasını Sağlama ve Süreç Yönetimi
+Yeterlilik
+UMS
+Birimi Değerlendirme
+No Beceri ve Yetkinlik İfadesi İlgili
+Alt Öğrenme Aracı
+Bölüm
+Kazanımı
+Sunulan verileri birleştirerek eğitim ihtiyaçları D.1.3-
+BY.3 3.1 P1
+analiz raporu hazırlar. D.1.6
+Eğitmenin çalışma programı, eğitim yapılacak
+mekânın dolu-boş olma durumu, katılımcı D.2.1-
+*BY.4 3.2 P1
+personelin iş programlarının uygunluğu gibi veriler D.2.2
+doğrultusunda eğitim takviminin taslağını hazırlar.
+Eğitim takviminde yönetimin belirlediği hususlarda
+BY.5 D.2.3 3.2 P1
+revize takvim çalışması yapar.
+Tespit edilen eğitim ihtiyaçları doğrultusunda
+*BY.6 E.1.1 4.1 P1
+eğitim programı önerileri geliştirir.
+Verilen bir eğitim programının hazırlanma
+BY.7 gerekçesini ve amacını kapsam yönünden E.1.2 4.1 P1
+değerlendirir.
+Bir eğitim programı ile ilgili belirlenen hedef ve
+E.1.3-
+*BY.8 kazanımların kapsam yönünden uygunluğunu 4.1 P1
+E.1.4
+değerlendirir.
+Eğitimin amaç ve hedefleri doğrultusunda
+içeriğinde yer alacak konu başlıklarının E.2.1
+*BY.9 4.2 P1
+belirlenmesi için ihtiyaç duyulan veri ve E.2.2
+kaynaklarla uzmanlık ihtiyacını belirler.
+Eğitimde yer alacak konu başlıklarına göre, sunumu
+*BY.10 yapacak olan ilgili iç ya da dış eğitmenin E.2.3 4.2 P1
+özelliklerini belirler.
+Eğitimin içeriği ve kullanılacak yönteme uygun
+olarak eğitimcinin ve katılımcıların kullanacakları
+4.2
+BY.11 (sunum, eğitim notu, kitapçık, yönergeler ve E.2.4 P1
+4.3
+benzeri) eğitim materyallerinin uygunluğunu
+kontrol eder.
+Eğitim hedeflerine uygun öğretim yöntemi ve
+*BY.12 E.3.1 4.3 P1
+tekniğini seçer.
+BY.13 Eğitimde kullanılacak araç ve gereçleri tespit eder. E.3.2 4.3 P1
+Eğitimin uygulama sürecinde kullanılacak zaman
+BY.14 E.3.4 4.3 P1
+planını hazırlar.
+Eğitim prosedürlerine göre, eğitmen olarak E.4.1-
+*BY.15 4.4 P1
+görevlendirilecek çalışanların niteliklerini belirler. E.4.2
+©Mesleki Yeterlilik Kurumu 14
+
+===== PAGE 17 =====
+21UY0465-6/A2 Eğitim Planlama, Eğitim Programı Tarih:08/12/2021 Rev. No:00
+Hazırlanmasını Sağlama ve Süreç Yönetimi
+Yeterlilik
+UMS
+Birimi Değerlendirme
+No Beceri ve Yetkinlik İfadesi İlgili
+Alt Öğrenme Aracı
+Bölüm
+Kazanımı
+E.4.3
+Eğitmenlerin performanslarının takibine yönelik
+BY.16 E.4.4 4.4 P1
+sistemler geliştirir.
+E.4.6
+Eğitmenlere eğitimin organizasyonu ile ilgili
+BY.17 E.4.5 4.4 P1
+sunulacak bilgileri tanımlar.
+Eğitimin hedefleri ve içeriğine göre kullanılacak
+*BY.18 E.5.1 4.5 P1
+ölçme aracını seçer.
+Eğitim öncesinde katılımcıların seviyelerini
+BY.19 belirlemek için hazırlanan ölçüm araçlarını kontrol E.5.2 4.5 P1
+eder.
+Eğitim sonrasında eğitimin etkinliğini, eğitimin
+amaç ve kazanımlarına uygun olarak, öğrenme ve
+uygulayabilme düzeyini, katılımcı tepkilerini,
+BY.20 öğrenilenlerin performansa etkilerini ölmek için E.5.3 4.5 P1
+geliştirilen araçları (test, anket, tutum ölçeği,
+gözlem formu, eğitmen değerlendirme formu ve
+benzeri) kontrol eder.
+Eğitimin özelliklerini, içeriklerini tanımlayan eğitim
+BY.21 F.1.1 5.1 P1
+kataloğunu hazırlar.
+Kuruluşun iç iletişim prosedürlerine göre,
+F.1.2 5.1
+BY.22 eğitimlerin kuruluş içinde tanıtılmasında P1
+F.2.1 5.2
+gerçekleştirilecek faaliyeti yürütür.
+Eğitim katılımcıları belirlenmesinde izlenecek
+BY.23 F.2.2 5.2 P1
+prosedürleri açıklar.
+Eğitim için gerçekleştirilmesi gereken sınıf düzeni,
+BY.24 ikram, konaklama, ulaşım, araç-gereç temini ve F.2.3 5.2 P1
+benzeri organizasyonu belirler.
+Eğitim sunumlarını ve eğitmen performansını F.2.4-
+BY.25 5.2 P1
+izleme yöntemlerini tanımlar. F.2.5
+Ölçüm sonuçlarını analiz ederek değerlendirme F.3.1-
+BY.26 5.3 P1
+çalışmalarını raporlar. F.3.2
+Eğitim programlarının verimliliğini takip ederek,
+varsa gerekli güncellemeleri (yeni ihtiyaçlar,
+BY.27 F.3.3 5.3 P1
+talepler ve gündem) yapıp eğitim programlarını
+günceller.
+(*) Performans sınavında başarılması zorunlu kritik adımlar.
+©Mesleki Yeterlilik Kurumu 15
+
+===== PAGE 18 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+YETERLİLİK EKLERİ
+1. Ulusal Yeterlilik Hazırlama Ekibi ve Teknik Çalışma Grubu Üyeleri:
+Eğitim Bilgileri*
+Deneyim Bilgileri*
+Adı - Soyadı (Tarih - Eğitim
+(Tarih – İş Yeri – Unvan)
+Kurumu/Bölüm Adı)
+1. Yakup Hakan COŞKUN 2004 - Hacettepe  2016-Devam ediyor
+(Moderatör) Üniversitesi Kamu Pamir Uygunluk
+Yönetimi Bölümü Değerlendirme Ltd. Şti.-
+Genel Müdür
+ 2008-2015 - Mesleki
+Yeterlilik Kurumu –
+Mesleki Yeterlilik
+Uzmanı
+ 2005-2008 - İŞKUR -
+Memur
+2. Nazan KARAASLAN 2013 – Gazi Üniversitesi  2020 - Devam ediyor
+(Moderatör Yardımcısı) Talaşlı Üretim Pamir Uygunluk
+Öğretmenliği Değerlendirme Ltd. Şti. –
+Kalite Yönetim Sistem
+Uzmanı
+ 2019-2020 SETA
+Debriyaj Sistemleri –
+Üretim ve Planlama
+Direktörü
+ 2015-2019 ASO METES
+– Sınav Hizmetleri
+Sorumlusu
+ 2013-2014 Gazi
+Üniversitesi Atatürk
+Meslek Yüksekokulu –
+Öğretim Görevlisi
+©Mesleki Yeterlilik Kurumu 16
+
+===== PAGE 19 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Eğitim Bilgileri*
+Deneyim Bilgileri*
+Adı - Soyadı (Tarih - Eğitim
+(Tarih – İş Yeri – Unvan)
+Kurumu/Bölüm Adı)
+3. Mehmet ERGİN 2020 - Universidad  2013-Devam Ediyor.
+Empresarial de Costa FMA Yönetim
+Rica, İşletme Yönetimi Danışmanlığı ve
+Doktora Programı (Tez Eğitim Hizmetleri Ltd.
+Yazım Aşaması). Şti.
+Tez Konusu :Aile  Kurucu /Aile Şirketleri
+Şirketlerinde Uzmanı Stratejik Planlama
+Kurumsallaşma (Sistem ve Stratejik Yönetim
+Olma) ve Kurumsal çalışıyor, öğreniyor
+Yönetimle Değer Artışı
+ 2010-2013-INDESIT
+Sürecinde Aile
+COMPANY A.Ş. Büyük
+Anayasasının Stratejik
+Müşteriler – Acentalar
+Etkisi ve Türkiye
+Satış Müdürü
+Araştırması
+ 2005–2010 TÜRK
+HENKEL KİMYA SAN.
+2018 – ÇAĞ
+ve TİC. A.Ş. – Geleneksel
+ÜNİVERSİTESİ - Sosyal
+Kanal Satış Müdürü
+Bilimler Enstitüsü
+(RsSM)
+/MERSİN, İşletme
+ 2004 – 2005 EUROİL /
+Yönetimi Doktora
+CAN ASLAN
+Programı
+PETROLCÜLÜK
+Tez Konusu ; Aile
+A.Ş. - Yönetim Kurulu
+Şirketlerinde Stratejik
+Yönetim ve
+Planlama ve Stratejik
+Organizasyon
+Yönetim Uygulamaları,
+Danışmanı & Satış ve
+Türkiye Araştırması
+Pazarlama (İç ve Dış
+Ticaret)
+2002 - SELÇUK
+Müdürü
+ÜNİVERİSTESİ - Sosyal
+ 2001 –2003- SÜTAŞ
+Bilimler Enstitüsü /
+Pastörize Süt ve Süt
+KONYA İşletme – Üretim
+Mamulleri Sanayi Ve
+Yönetimi ve Pazarlama
+Ticaret A.Ş.- Geleneksel
+Tezli Yüksek Lisans
+Kanal Satış Müdürü
+(MBA).
+1991 - İSTANBUL
+ÜNİVERSİTESİ /
+İSTANBUL, İktisat
+Fakültesi, İktisat Bölümü
+Lisans.
+©Mesleki Yeterlilik Kurumu 17
+
+===== PAGE 20 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Eğitim Bilgileri*
+Deneyim Bilgileri*
+Adı - Soyadı (Tarih - Eğitim
+(Tarih – İş Yeri – Unvan)
+Kurumu/Bölüm Adı)
+4. Melek Mengeş TURĞUT Anadolu Üniversitesi-  2020-Hümel Danışmanlık
+İşletme Eğitim Organizasyon-
+İstanbul Rumeli Kurucu Yönetici
+Üniversitesi-İSG Tezli  2013-2019 Yüsekova
+Yüksek lisans Ticaret ve Sanayi Odası-
+Genel Sekreter/ Kalite
+Yönetim Temsilcisi
+/Akreditasyon Sorumlusu
+ 2019-Devam Ediyor –
+Kurumsal Yönetim-
+Bilirkişi
+ 2017- Devam Ediyor
+Türk Loydu/İntertek –
+ISO 9001 Başdenetçi
+5. Aygül BALIK 2000 - İstanbul  2002- 2004 İstanbul
+Üniversitesi Uluslararası Tekstil ve Konfeksiyon
+İlişkiler İhracatçı Birlikleri
+(İTKİB)İnsan Kaynakları
+Geliştirme ve Eğitim
+Departmanı Proje
+Yöneticisi
+ 2004-2006 (İTKİB) AB
+Finansmanlı Tekstil İş
+Kümeleri Proje Yöneticisi
+ 2006-2010 (İTKİB)
+Destek Eğitim Araştırma
+Hizmetleri A.Ş. İnsan
+Kaynakları Müdürü
+ 2010 -2011 Doğum izni
+ 2011-2012 (İTKİB)
+Tekstil Değer Zinciri
+Proje Yöneticisi
+ 2012 -2014 Aygül Balık
+Bireysel Koçluk
+Hizmetleri Şahıs Şirketi
+ 2014 - Devam ediyor
+Arsal Yönetim
+Danışmanlık Hizmetleri
+A.Ş. Kurucu
+©Mesleki Yeterlilik Kurumu 18
+
+===== PAGE 21 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Eğitim Bilgileri*
+Deneyim Bilgileri*
+Adı - Soyadı (Tarih - Eğitim
+(Tarih – İş Yeri – Unvan)
+Kurumu/Bölüm Adı)
+6. Kemal Ok 1985 – Deniz Harp Okulu  1985-95 Dz.K.K. lığı
+Makine Müh. Harp Gemilerinde
+2000- Kocaeli Ünv. Başçarkçılık
+İşletme Yönetim  1995-1999 Yızdızlar
+Organizasyon Y. Suüstü Eğt. Mrk. K.lığı
+Lisans(tezli) Eğitmen
+2003 Deniz Harp
+ 1999-2005 Donanma
+Akademisi
+K.lığı Personel Şube
+(KOMKARSU)
+Müdürlüğü
+2016 Sabancı Ünv.
+ 2005-2006 Gölcük
+Liderlik fakültesi
+Tersane K.lığı Personel
+2001- günümüze KalDer
+Başkanlığı
+EFQM modeli
+ 2006-2007 İSDEMİR
+Değerlendirici,
+Eğitim Müdürlüğü
+Başdeğerlendirci
+ 2007-2016 İSDEMİR
+Eğitimleri
+Yönetim Sistemleri
+2001-2005 Donanma
+Müdürlüğü
+Değişim Projesi
+ 2016-2018 OYAK Maden
+kapsamında
+ve Metalürji Grubu
+TÜSSİDE’den Toplam
+Yönetim Sistemleri
+Kalite Yönetimi
+Müdürü
+bağlamında Değişim
+ 2018-Devam EnEm
+Yönetimi Eğitimleri
+Yönetim Danışmanlık
+2007-2012 İSDEMİR
+Kurucu/Danışman
+Yalın Yönetim Proje
+Liderliği kapsamında
+Yalın Uygulamalar
+2020 Başkent Üniversitesi
+Yönetici Koçluğu Eğitimi
+©Mesleki Yeterlilik Kurumu 19
+
+===== PAGE 22 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Eğitim Bilgileri*
+Deneyim Bilgileri*
+Adı - Soyadı (Tarih - Eğitim
+(Tarih – İş Yeri – Unvan)
+Kurumu/Bölüm Adı)
+7. Fahrettin Otluoğlu 1969- ODTÜ, Yönetim • 1973-1986 Koç Grubu
+Bilimleri (İşletme (Beko Ticaret, Migros,
+Yönetimi) Fakültesi- Beko Teknik, Tat-Beytaş
+Pazarlama Yönetimi şirketlerinde pazarlama
+müdürlüğünden şirket
+genel müdürlüğü
+görevlerinde)
+• 1986-1993 Poly Peck Int.
+Plc -London şirketinin
+Türkiye'deki tarım ve
+gıda üretim ve ticaret
+şirketlerinde; yatırımcı
+şirketinde Genel Müdür,
+gurup şirketlerin Yönetim
+Kurulu Başkan
+Yardımcısı ve Grup
+Şirketleri İcra Kurulu
+Başkanı.
+• 1993-+Devam; Model
+Yönetim Hizmetleri
+Turizm ve Ticaret Şirketi
+(yönetim danışmanlığı ve
+temsilcilik hizmetleri)
+Kurucu Yönetici Ortak;
+Sertifikalı Yönetim
+Danışmanı (CMC) -
+Şirket Kurulum ve
+Birleşmeleri, Strateji,
+Kurumsal Dönüşüm ve
+Uzman/Yönetici
+Değerlendirme
+Danışmanı; Yönetim
+Danışmanları Derneği
+Meslek Kurulu Başkanı
+ve Mesleki
+Standartlar/Süreçler
+eğitimcisi; ICMCI-QAC
+üyesi ve Meslek
+Kuruluşları Lider
+Değerlendiricisi .
+ Yönetim Danışmanlığı
+Ulusal Meslek
+Standartları oluşturma
+komitesi başkanı.
+©Mesleki Yeterlilik Kurumu 20
+
+===== PAGE 23 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Eğitim Bilgileri*
+Deneyim Bilgileri*
+Adı - Soyadı (Tarih - Eğitim
+(Tarih – İş Yeri – Unvan)
+Kurumu/Bölüm Adı)
+8. Bora Sarı 1991 – Bilkent  2010-Devam Ediyor,
+Üniversitesi, İşletme TEM Yönetim Geliştirme
+Bölümü Hizmetleri, Eğitmen ve
+Danışman
+ 2006-2010 Levi Strauss
+İstanbul, Perakende İK ve
+Eğitim Müdürü
+ 1999-2005 Orkestral
+İletişim, Kurucu Ortak ve
+Proje Yöneticisi
+ 1995-1999 Rota Yönetim
+Geliştirme Hizmetleri,
+Organizasyon Hizmeti
+Proje Yöneticisi
+ 1991-1994 Procter &
+Gamble, Satış Bölümü,
+Bölge Müdürü
+©Mesleki Yeterlilik Kurumu 21
+
+===== PAGE 24 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Eğitim Bilgileri*
+Deneyim Bilgileri*
+Adı - Soyadı (Tarih - Eğitim
+(Tarih – İş Yeri – Unvan)
+Kurumu/Bölüm Adı)
+9. Yunus Emre Şentürk 2012–Anadolu  2020 - Devam ediyor
+Üniversitesi İşletme PDRICMA – PDR
+Fakültesi International Coaching
+Mentoring Academy -
+Fakülte Lideri
+ 2017 – Devam Ediyor -
+PDRINTERNATIONAL–
+Eğitim ve Performans
+Geliştirme Danışmanı,
+Yönetici Koçu
+ 2014-2017 Sola Unitas
+CA – Fakülte Lideri
+ 2014-2015 – Faturamtik
+Ödeme Kuruluşu A.Ş. –
+İş Geliştirme Direktörü
+ 2013-2014 – Düşünce
+Okulu – Eğitim
+Danışmanı
+ 2009- 2011 – Adalar
+Belediyesi Özel Kalem
+Müdürü
+ 2007-2009 – UCB
+Pharma İlaç – Satış ve
+Pazarlama Eğitim
+Yöneticisi
+ 2001-2007 – GSK İlaç –
+Satış ve Pazarlama
+Yöneticisi
+10. Eren KARALAR 2005–Kocaeli Üniversitesi  2020-Devam ediyor.
+Jeofizik Mühendisliği B&B Eğitim ve
+Danışmanlık – Eğitim
+Danışmanı
+ 2015–2020 Drogsan İlaç
+A.Ş. – Eğitim Müdürü
+ 2013- 2015 Kariyer.net –
+Eğitim Uzmanı
+ 2012–2013 – Vatan
+Bilgisayar – Eğitim
+Uzmanı
+©Mesleki Yeterlilik Kurumu 22
+
+===== PAGE 25 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Eğitim Bilgileri*
+Deneyim Bilgileri*
+Adı - Soyadı (Tarih - Eğitim
+(Tarih – İş Yeri – Unvan)
+Kurumu/Bölüm Adı)
+11. Ozan Altay 2009-Uluslararası Ticaret  2020 - Devam ediyor
+ve İşletmecilik Torun Akademi – Eğitim
+gelişim Müdürü
+2013- MBA  2017 – 2020 Torun
+Basınçlı Döküm, İK Şefi
+ 2017-2013 Rönesans
+Değişim ve Yönetişim
+Bilimleri Enstitüsü –
+Proje Koordinatörü
+ 2013 – 2010 Vaillant
+Group – Dış Ticaret
+Operasyon Uzmanı
+12. Müge Balkış  1998 – Uludağ ● 2016 - Devam ediyor
+Üniversitesi Tekstil BTYS Denetim Ltd. Şti.
+Mühendisliği ● Denetçi&Eğitmen2012-
+ 2016-2018 Alberk 2016 ÖZEN İPLİK –
+ve TTM ISO Fabrika Müdürü
+9001&14001&45001 LA ● 2007-2009- DURAK
+Tekstil Çin
+ 2016 YDD
+Üretim&Kalite Müdürü
+Yönetim Danışmanlığı
+● 1998-2008 DURAK
+101
+Tekstil – Üretim
+Mühendisi
+13. Evren Serindağ 2002-2006 Pamukkale ● 2010-2013 – Hyundai
+Üni İşletme Assan – Eğitim Uzmanı
+2009-2010 University of ● 2013-2019 – Renault
+South Wales – MSc in Mais – Eğitim Sorumlusu
+Management  2019-2021 – DFDS –
+2018- Yeditepe İnsan Kaynakları
+Universitesi, Doktora Danışmanı
+(Yönetim)
+14. İrem Merve ÇEVİK 2019, İstanbul Aydın · 2020 – Yönetim
+Danışmanları Derneği
+Üniversitesi- İşletme-
+VOC Test Center III
+Lisans
+Projesi- Proje
+2021, İstanbul Aydın
+Koordinatörü – devam
+Üniversitesi- Kalite
+ediyor.
+Yönetimi ve Kalite
+ 2020 Mocuk Dizayn A.Ş.
+Güvence Sistemleri
+Kalite Kontrol Sorumlusu
+ 2017-2020 Botto Auto-
+İdari İşler Uzmanı
+©Mesleki Yeterlilik Kurumu 23
+
+===== PAGE 26 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Eğitim Bilgileri*
+Deneyim Bilgileri*
+Adı - Soyadı (Tarih - Eğitim
+(Tarih – İş Yeri – Unvan)
+Kurumu/Bölüm Adı)
+15. Zeynep Tura Kalın 1987, Boğaziçi  2017-devam ediyor YDD
+Üniversitesi Elektronik, YK Başkanı
+Lisans  1997-Devam ediyor
+1993, Boğaziçi TANGRAM Yönetim
+Üniversitesi Bilgisayar Danışmanlık A.Ş., Genel
+Mühendisliği, Lisans Müdür
+1995 Boğaziçi
+ 2001-2003 Ziraat Bankası
+Üniversitesi Endüstri
+ve Halk Bankası, Yeniden
+Mühendisliği, Yüksek
+Yapılandırma Projeleri
+Lisans
+Yönetimi, GMY
+2001 ve 2008, Harvard
+ 1991-1996 Dünya
+Business School, Kısa
+Bankası Projeleri, Proje
+Dönem Programları
+Yöneticisi
+ 1986-1997 Muhtelif
+bankalarda BT, eğitim ve
+süreç danışmanlığı
+16. H. Serra Bayram Yaşar 2003, İstanbul Teknik  2020 – Yönetim
+Üniversitesi, Çevre Danışmanları Derneği
+Mühendisliği, Lisans VOC Test Center III
+2005, İstanbul Teknik Projesi- Proje
+Üniversitesi, Çevre Koordinatörü – devam
+Bilimleri, Yüksek Lisans ediyor.
+ 2015 – SERR Project –
+Firma sahibi –devam
+ediyor
+ 2011 – 2014 Kayseri
+Ticaret Odası & AB
+Türkiye Delegasyonu ,AB
+Bilgi Merkezleri Ağı
+Projesi Proje
+Koordinatörü
+ 2010 – 2011 Kayseri
+Büyükşehir Belediyesi,
+Ab ve Dış İlişkiler Şube
+Müdürü
+ 2008 – 2010 Kayseri
+Ticaret Odası – ABİGEM
+Projesi İş Geliştirme
+Müdürü
+ 2005 – 2008 Kayseri
+Büyükşehir Belediyesi
+Çevre Yük. Müh.
+©Mesleki Yeterlilik Kurumu 24
+
+===== PAGE 27 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Eğitim Bilgileri*
+Deneyim Bilgileri*
+Adı - Soyadı (Tarih - Eğitim
+(Tarih – İş Yeri – Unvan)
+Kurumu/Bölüm Adı)
+17. ÖNDER KIRATLILAR 1988 SİLAHLI  2011- YÖNETİM
+KUVVETLER DANIŞMANI
+AKADEMİSİ  2008-2010 AİRFEL A.Ş.
+1984 DENİZ HARP YÖN. KUR. ÜYESİ
+AKADEMİSİ
+ 2007-2008 BAYMAK
+1979-1980 MAKİNA
+A.Ş. GENEL MD.
+İLERİ İHTİSAS KURSU
+ 2001-2007 EMAS A.Ş.
+1974 DENİZ HARP
+GENEL MD.
+OKULU
+ 1998-2001 ELMOR A.Ş.
+GENEL MD.
+ 1993-2001 EMAR A.Ş.
+GENEL MD.
+ 1974-1993 DENİZ
+SUBAYI
+*Yalnızca meslekle ilgili olan eğitim/deneyim bilgilerine yer verilecektir.
+2. Görüş İstenen Kişi, Kurum ve Kuruluşlar:
+Ahmet Amanvermez, Kuryön Yönetim Danışmanlığı
+Ankara Sanayi Odası (ASO)
+Ankara Ticaret Odası (ATO)
+Asena Yalınız, Sabancı Üniversitesi Yönetici Geliştirme Birim
+Aşkım Budur, İstanbul Üniversitesi
+Ayşe Şeker, İlbak Holding
+Berrin Bayraktar, LeasePlan
+Bilkent Üniversitesi
+Boğaziçi Üniversitesi
+Buket Çelebiöven, Arçelik
+Burak Aybey, Köksan
+Çağlar Çabuk, Sürdürülebilir Eğitim Gelişim ve Mükemmellik Derneği
+Çalışma ve Sosyal Güvenlik Bakanlığı (İş Sağlığı ve Güvenliği Genel Müdürlüğü)
+Derya Gönüllü, Allianz Partners
+©Mesleki Yeterlilik Kurumu 25
+
+===== PAGE 28 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Devlet Personel Başkanlığı
+Didem Köprücü, Hepsiemlak
+Diğer Bölgesel YDD’LER
+Diğer İK Eğitimi Veren Üniversiteler
+Dilek Koyuncu, İnsan Kaynakları Danışmanı ve Gelişim Koçu
+Doğu MARSİFED
+Dr. Habibe Akşit, Işık Üniversitesi
+Ebru Anıldı, Sabancı Holding
+Eczacıbaşı Holding İnsan Kaynakları
+Ege Bölgesi Sanayi Odası (EBSO)
+Ege Üniversitesi
+Ercan Gülseren, Dinateks A.Ş.
+Erkan Tozluyurt, Tem Yönetim Geliştirme Hizmetleri
+Esra Kemer, CVCheckup CV Danışmanlık ve Kariyer Hizmetleri
+Faruk Baydemir, Estee Lauder
+Fırat Emre İz, Madame Coco
+Füsun Varlık, Anadolu Cam
+H.Murat Babadalı, İnsan Kaynakları ve Kariyer Danışmanlığı
+Hacettepe Üniversitesi İktisadi ve İdari Bilimler Fakültesi
+Hak İşçi Sendikaları Konfederasyonu (HAK-İŞ)
+İBB İnsan Kaynakları
+İdili Türkmenoğlu, Inveon
+İstanbul Aydın Üniversitesi
+İstanbul Ticaret Odası (İTO)
+Kariyer Danışmanlığı ve İnsan Kaynaklarını Geliştirme Derneği
+Kariyer.net
+©Mesleki Yeterlilik Kurumu 26
+
+===== PAGE 29 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Kartal Tolga, TlGHR
+Koç Holding İnsan Kaynakları
+Koç Üniversitesi
+Küçük Ve Orta Ölçekli İşletmeleri Geliştirme Ve Destekleme İdaresi Başkanlığı (KOSGEB)
+Kültür Üniversitesi
+Lisan Ulukan, Panasonic Life Solutions
+M.Cemil Özden, McOzden Danışmanlık
+Marmara Üniversitesi İktisadi ve İdari Bilimler Fakültesi
+Meltem Ferendeci Özgödek, Özgödek Danışmanlık
+Mesleki Eğitim ve Küçük Sanayi Destekleme Vakfı
+Milli Eğitim Bakanlığı Hayat Boyu Öğrenme Genel Müdürlüğü
+Milli Eğitim Bakanlığı Mesleki Ve Teknik Eğitim Genel Müdürlüğü
+Milli Eğitim Bakanlığı Yenilik Ve Eğitim Teknolojileri Genel Müdürlüğü
+Mükrime Alptekin, Hemeniş
+Necdet Kenar, İsper A.Ş.
+Nilsen Altıntaş, TEB
+Nuh Tufan Uzaslan, Bahçeşehir Üniversitesi
+Nuray Aytaç, EAE Corporate
+Nurşen Usta, GG Soft
+Ortadoğu Teknik Üniversitesi İktisadi ve İdari Bilimler Fakültesi
+Özden Aslan, WYG
+Özel İstihdam Büroları Derneği
+Özlem Helvacı, Özlem Helvacı Danışmanlık ve İletişim
+P&G
+Pınar İnal, Assan Aluminyum
+Prof. Dr. Uğur Zel, LC Waikiki
+©Mesleki Yeterlilik Kurumu 27
+
+===== PAGE 30 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Profesyonel Danışmanlar Derneği
+Sabancı Holding İnsan Kaynakları
+Sabancı Üniversitesi
+Sakarya Üniversitesi
+Sanayi ve Teknoloji Bakanlığı
+Şebnem Ergül, Borsa İstanbul
+Sedef Işıldak, Borusan Holding
+Sektörel Dernekler Federeasyonu (SEDEFED)
+Semra Akman, Borusan Holding
+Suna Erkaya, Celebi Havacılık Holding
+Tarım ve Orman Bakanlığı
+Ticaret Bakanlığı
+Tolun Benon, Kocaeli Sanayi Odası
+Torun Akademi
+Tuba Kara Albek, (İNG) Türkiye
+Tuğba Özkabakçı (PERYÖN)
+Tüketici Dernekleri Federasyonu(TÜDEF)
+Tüketici Hakları Derneği (THD)
+Tüketici Yararına Araştırma Derneği (TÜYADER)
+Türk Girişim ve İş Dünyası Konfederasyonu (TÜRKONFED)
+Türkiye Devrimci İşçi Sendikaları Konfederasyonu (DİSK)
+Türkiye Esnaf ve Sanatkârları Konfederasyonu (TESK)
+Türkiye İhracatçılar Meclisi (TİM)
+Türkiye İnsan Yönetimi Derneği (PERYÖN)
+Türkiye İş Kurumu (İş ve Meslek Danışmanlığı Dairesi Başkanlığı)
+Türkiye İşçi Sendikaları Konfederasyonu (TÜRK-İŞ)
+©Mesleki Yeterlilik Kurumu 28
+
+===== PAGE 31 =====
+21UY0465-6 Eğitim Uzmanı (Seviye 6) Tarih:08/12/2021 Rev. No:00
+Türkiye İstatistik Kurumu (TÜİK)
+Türkiye İşveren Sendikaları Konfederasyonu (TİSK)
+Türkiye Kalite Derneği
+Türkiye Metal Sanayicileri Sendikası (MESS)
+Türkiye Odalar ve Borsalar Birliği (TOBB)
+Türkiye Sanayicileri ve İş İnsanları Derneği (TÜSİAD)
+Türkiye Ziraat Odaları Birliği
+Yenibiris.com
+Yükseköğretim Kurulu Başkanlığı (YÖK)
+Zafer İnkaya (BILIN IT)
+3. MYK Sektör Komitesi Üyeleri ve Uzmanlar
+Ahmet Saygın BABAN, Başkan (Türkiye Odalar Borsalar Birliği)
+Gülnur İNAN, Başkan V. (Milli Eğitim Bakanlığı)
+Ayşe ERİM, Üye (Çalışma ve Sosyal Güvenlik Bakanlığı)
+Hasan ŞANLI, Üye (Sanayi ve Teknoloji Bakanlığı)
+Prof. Dr. Ali DANIŞMAN, Üye (Yükseköğretim Kurulu Başkanlığı
+Atakan ÇELİK, Üye (Türkiye Esnaf ve Sanatkârları Konfederasyonu)
+Fadime CAN , Üye (Hak İşçi Sendikaları Konfederasyonu)
+Aytuğ BALAMAN, Üye (Türkiye İşçi Sendikaları Konfederasyonu)
+Ozan MİMAROĞLU, Üye (Türkiye İşveren Sendikaları Konfederasyonu)
+Ekin SARI AKALIN, Üye (Devrimci İşçi Sendikaları Konfederasyonu)
+Süleyman ARIKBOĞA, Üye (Mesleki Yeterlilik Kurumu)
+4. MYK Yönetim Kurulu
+Adem CEYLAN, Başkan (Çalışma ve Sosyal Güvenlik Bakanlığı Temsilcisi)
+Prof. Dr. Mehmet SARIBIYIK, Başkan Vekili (Yükseköğretim Kurulu Başkanlığı Temsilcisi)
+Dr. Recep ALTIN, Üye (Milli Eğitim Bakanlığı Temsilcisi)
+Bendevi PALANDÖKEN, Üye (Meslek Kuruluşları Temsilcisi)
+Dr. Osman YILDIZ, Üye (İşçi Sendikaları Konfederasyonları Temsilcisi)
+Celal KOLOĞLU, Üye (İşveren Sendikaları Konfederasyonu Temsilcisi)
+©Mesleki Yeterlilik Kurumu 29

@@ -1,0 +1,624 @@
+{
+  "a1Knowledge": [
+    {
+      "id": "BG.1",
+      "critical": false,
+      "text": "İş süreçlerinin özelliğinden ve/veya kuruluştan kaynaklanabilecek risk ve tehlikelere karşı yapılması gerekenleri açıklar.",
+      "ums": "A.1.1",
+      "outcome": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.2",
+      "critical": false,
+      "text": "Çalışma ortamında kullanılan araç, gereç ve ekipmanların uygun kullanımını açıklar.",
+      "ums": "A.1.2",
+      "outcome": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.3",
+      "critical": false,
+      "text": "İşverenlerin uyması gereken iş sağlığı ve güvenliği ile ilgili yasal ve çalışma alanına ait kuralları açıklar.",
+      "ums": "A.1.3",
+      "outcome": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.4",
+      "critical": false,
+      "text": "Çalışanların uyması gereken iş sağlığı ve güvenliği ile ilgili yasal ve çalışma alanına ait kuralları açıklar.",
+      "ums": "A.1.3",
+      "outcome": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.5",
+      "critical": false,
+      "text": "Acil durumlarda yapılması gerekenleri açıklar.",
+      "ums": "A.2.1",
+      "outcome": "1.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.6",
+      "critical": false,
+      "text": "Çalışma ortamında oluşan kaza durumunda izlenmesi gereken prosedürleri açıklar.",
+      "ums": "A.2.2 A.2.3",
+      "outcome": "1.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.7",
+      "critical": false,
+      "text": "Çalışma ortamında ortaya çıkan çevresel atıkları ve dönüştürülebilir malzemeleri açıklar.",
+      "ums": "A.3.1",
+      "outcome": "1.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.8",
+      "critical": false,
+      "text": "Kaynakların tasarruflu ve verimli kullanımını açıklar.",
+      "ums": "A.3.2",
+      "outcome": "1.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.9",
+      "critical": false,
+      "text": "İnsan kaynakları yönetiminin dayandığı mevzuatı açıklar.",
+      "ums": "B.1.1",
+      "outcome": "2.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.10",
+      "critical": false,
+      "text": "İnsan kaynakları yönetimi sorumluluğundaki süreçle ilgili mevzuat\\prosedür değişimlerinde ne yapması gerektiğini açıklar.",
+      "ums": "B.1.2",
+      "outcome": "2.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.11",
+      "critical": false,
+      "text": "Kuruluşun hizmet kalite standartlarına uygun prosedürleri oluşturulma konusunda ne yapması gerektiğini açıklar.",
+      "ums": "B.2.1 B.2.2",
+      "outcome": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.12",
+      "critical": false,
+      "text": "Sorumluluk alanındaki hizmetlere ilişkin şikayetlerin yönetim sürecini açıklar.",
+      "ums": "B.2.6",
+      "outcome": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.13",
+      "critical": false,
+      "text": "Süreç iyileştirme ve geliştirme çalışmalarını açıklar.",
+      "ums": "B.2.1 B.2.4 B.2.5",
+      "outcome": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.14",
+      "critical": false,
+      "text": "İş süreçlerinde bilgi gizliliği ve güvenliğini sağlamaya yönelik tedbirleri açıklar.",
+      "ums": "B.3.1 B.3.2",
+      "outcome": "2.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.15",
+      "critical": false,
+      "text": "Dosya ve kayıtların (dijital veya basılı belge) gizliliğini koruyarak güvenli bir şekilde muhafaza ve imhasını açıklar.",
+      "ums": "B.3.3 B.3.4 F.4.1 F.4.2",
+      "outcome": "2.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.16",
+      "critical": false,
+      "text": "Bireysel mesleki gelişiminde izleyeceği yöntemleri açıklar.",
+      "ums": "I.1.1 I.1.2",
+      "outcome": "3.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.17",
+      "critical": false,
+      "text": "Bireysel gelişim ihtiyaçlarına uygun faaliyet ve kaynakların planlama sürecini açıklar.",
+      "ums": "I.1.1 I.1.2",
+      "outcome": "3.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.18",
+      "critical": false,
+      "text": "Mesleği ile ilgili temel araştırma yöntemlerini açıklar.",
+      "ums": "I.1.3",
+      "outcome": "3.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.19",
+      "critical": false,
+      "text": "Bilgi paylaşım süreçlerini açıklar.",
+      "ums": "I.2.1 I.2.2",
+      "outcome": "3.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.20",
+      "critical": false,
+      "text": "Delegasyon süreçlerini açıklar.",
+      "ums": "I.2.1 I.2.2",
+      "outcome": "3.2",
+      "tool": "T1"
+    }
+  ],
+  "a2Knowledge": [
+    {
+      "id": "BG.1",
+      "critical": false,
+      "text": "Sorumluluğundaki süreçlere ilişkin bütçe hazırlamada kullanılan veri ve kaynakları açıklar.",
+      "ums": "C.1.1",
+      "outcome": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.2",
+      "critical": false,
+      "text": "Sorumluluğundaki süreçlere ilişkin bütçe planlama aşamalarını açıklar.",
+      "ums": "C.1.2",
+      "outcome": "1.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.3",
+      "critical": false,
+      "text": "Bütçe uygulama aşamalarını açıklar.",
+      "ums": "C.1.1- C.1.2",
+      "outcome": "1.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.4",
+      "critical": false,
+      "text": "Bütçe revizyon sürecini açıklar.",
+      "ums": "C.1.2",
+      "outcome": "1.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.5",
+      "critical": false,
+      "text": "Sorumluluğundaki süreçler için dış kaynaklardan alınacak hizmetin teknik şartnamesinin hazırlanma sürecini açıklar.",
+      "ums": "C.2.1",
+      "outcome": "1.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.6",
+      "critical": false,
+      "text": "Sorumluluğundaki süreçler için dış kaynaklardan alınacak hizmet için istekliler tarafından verilen tekliflerin değerlendirilmesi sürecini açıklar.",
+      "ums": "C.2.1",
+      "outcome": "1.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.7",
+      "critical": false,
+      "text": "Sorumluluğundaki süreçler için dış kaynaklardan alınan hizmetlerin sözleşme hükümlerine uygunluğunun takibi sürecini açıklar.",
+      "ums": "C.2.2",
+      "outcome": "1.4",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.8",
+      "critical": false,
+      "text": "Sorumluluğundaki süreçler için dış kaynaklardan alınan hizmetlerin performansının değerlendirilmesinde kullanılacak yöntemleri açıklar.",
+      "ums": "C.2.2",
+      "outcome": "1.4",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.9",
+      "critical": false,
+      "text": "Endüstriyel ilişkiler yönetimine ilişkin tanımların ve süreç adımlarının bilgi sistemindeki tanımlanma, yetkinlendirme ve güncelleme sürecini açıklar.",
+      "ums": "C.3.1 C.3.2",
+      "outcome": "1.5",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.10",
+      "critical": false,
+      "text": "İK bilgi sistemindeki bir alt değişikliğin süreç adımlarına etkilerini açıklar.",
+      "ums": "C.3.1 C.3.2",
+      "outcome": "1.5",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.11",
+      "critical": false,
+      "text": "Eğitim işleri yaklaşımının hazırlanma, onaylanma ve güncelleme sürecini açıklar.",
+      "ums": "C.3.1 C.3.2",
+      "outcome": "2.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.12",
+      "critical": false,
+      "text": "Verilen bir genel yönetim politikası değişikliğinin Eğitim işleri yaklaşımına etkisini analiz eder.",
+      "ums": "C.3.1 C.3.2",
+      "outcome": "2.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.13",
+      "critical": false,
+      "text": "Eğitim işleri süreç prosedürlerinin hazırlanma, onaylanma ve güncelleme aşamalarını değerlendirir.",
+      "ums": "C.3.1 C.3.2",
+      "outcome": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.14",
+      "critical": false,
+      "text": "Eğitim işleri süreç prosedürlerinin hazırlanmasında kullanılan veri ve kaynakları açıklar.",
+      "ums": "C.3.1 C.3.2",
+      "outcome": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.15",
+      "critical": false,
+      "text": "Eğitim işleri süreç prosedürleri ile ilgili yöntem ve araçları değerlendirir.",
+      "ums": "C.3.1 C.3.2",
+      "outcome": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.16",
+      "critical": false,
+      "text": "Eğitim işleri süreç prosedürlerinde kullanılan dokümanlar ve özelliklerini değerlendirir.",
+      "ums": "C.3.1 C.3.2",
+      "outcome": "2.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.17",
+      "critical": false,
+      "text": "Eğitim ihtiyaç analizinde kullanılan veri ve kaynakları değerlendirir.",
+      "ums": "D.1.1- D.1.4",
+      "outcome": "3.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.18",
+      "critical": false,
+      "text": "Eğitim ihtiyaç analiz yöntemlerinin karşılaştırmalı analizini yapar.",
+      "ums": "D.1.1- D.1.4",
+      "outcome": "3.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.19",
+      "critical": false,
+      "text": "Eğitim ihtiyaç analiz sürecini değerlendirir.",
+      "ums": "D.1.1- D.1.6",
+      "outcome": "3.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.20",
+      "critical": false,
+      "text": "Eğitim planlama çalışmasında kullanılan veri ve kaynakları açıklar.",
+      "ums": "D.2.1",
+      "outcome": "3.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.21",
+      "critical": false,
+      "text": "Eğitim uygulama takvimini süreç, içerik ve uygulanabilirlik yönünden analiz eder.",
+      "ums": "D.2.2 D.2.3",
+      "outcome": "3.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.22",
+      "critical": false,
+      "text": "Eğitimlerin amaç ve kazanımlarının eğitim ihtiyaçlarına ve kurumsal hedeflere uygunluğunu değerlendirir.",
+      "ums": "E.1.1- E.1.4",
+      "outcome": "4.1",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.23",
+      "critical": false,
+      "text": "Bir eğitim programı içeriğini tasarım yönünden değerlendirir.",
+      "ums": "E.2.1- E.2.4",
+      "outcome": "4.2",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.24",
+      "critical": false,
+      "text": "Eğitim planlama ve tasarım sürecinde alan uzmanlığı gerektiren durumları tanımlar.",
+      "ums": "E.1.1- E.3.4",
+      "outcome": "4.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.25",
+      "critical": false,
+      "text": "Eğitim organizasyon sürecini kapsam yönünden değerlendirir.",
+      "ums": "E.4.1- E.4.6",
+      "outcome": "4.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.26",
+      "critical": false,
+      "text": "Eğitim uygulama sürecinde kullanılan araç, gereç ve ekipmanları tanımlar.",
+      "ums": "E.3.2 E.3.3",
+      "outcome": "4.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.27",
+      "critical": false,
+      "text": "Eğitim hedeflerine uygun öğretim yöntemi ve tekniklerini açıklar.",
+      "ums": "E.3.1",
+      "outcome": "4.3",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.28",
+      "critical": false,
+      "text": "Eğitmenlerin seçim kriterlerini açıklar.",
+      "ums": "E.4.1- E.4.4",
+      "outcome": "4.4",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.29",
+      "critical": false,
+      "text": "Ölçme ve değerlendirme araçlarının geliştirilmesinde kullanılacak veri ve kaynakları değerlendirir.",
+      "ums": "E.5.1- E.5.3",
+      "outcome": "4.5",
+      "tool": "T1"
+    },
+    {
+      "id": "BG.30",
+      "critical": false,
+      "text": "Ölçme ve değerlendirme araçlarını mukayese eder.",
+      "ums": "E.5.1- E.5.3",
+      "outcome": "4.5",
+      "tool": "T1"
+    }
+  ],
+  "a2Skills": [
+    {
+      "id": "BY.1",
+      "critical": false,
+      "text": "Eğitim ihtiyaç durumunun tespit edilmesi için verilen girdileri (kuruluşun misyonu, vizyonu, stratejik plan ve hedefleri, operasyonel hedefleri, kuruluş içi süreçler, görevler ve yetkinlikler, performans değerlendirme sonuçları, kariyer planları, yetenek havuzu, önceki dönem eğitim etkinliğine ilişkin ölçüm sonuçları ve benzeri girdileri) inceler.",
+      "ums": "D.1.1",
+      "outcome": "3.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.2",
+      "critical": true,
+      "text": "İK yönetim yapısını ve kurum kültürünü göz önünde bulundurarak eğitim ihtiyaç analizi çalışmasında kullanılacak analiz yöntemini (anket, mülakat, odak grup çalışması, beyin fırtınası, değerlendirme merkezi ve benzeri) belirler.",
+      "ums": "D.1.2",
+      "outcome": "3.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.3",
+      "critical": false,
+      "text": "Sunulan verileri birleştirerek eğitim ihtiyaçları analiz raporu hazırlar.",
+      "ums": "D.1.3- D.1.6",
+      "outcome": "3.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.4",
+      "critical": true,
+      "text": "Eğitmenin çalışma programı, eğitim yapılacak mekânın dolu-boş olma durumu, katılımcı personelin iş programlarının uygunluğu gibi veriler doğrultusunda eğitim takviminin taslağını hazırlar.",
+      "ums": "D.2.1- D.2.2",
+      "outcome": "3.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.5",
+      "critical": false,
+      "text": "Eğitim takviminde yönetimin belirlediği hususlarda revize takvim çalışması yapar.",
+      "ums": "D.2.3",
+      "outcome": "3.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.6",
+      "critical": true,
+      "text": "Tespit edilen eğitim ihtiyaçları doğrultusunda eğitim programı önerileri geliştirir.",
+      "ums": "E.1.1",
+      "outcome": "4.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.7",
+      "critical": false,
+      "text": "Verilen bir eğitim programının hazırlanma gerekçesini ve amacını kapsam yönünden değerlendirir.",
+      "ums": "E.1.2",
+      "outcome": "4.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.8",
+      "critical": true,
+      "text": "Bir eğitim programı ile ilgili belirlenen hedef ve kazanımların kapsam yönünden uygunluğunu değerlendirir.",
+      "ums": "E.1.3- E.1.4",
+      "outcome": "4.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.9",
+      "critical": true,
+      "text": "Eğitimin amaç ve hedefleri doğrultusunda içeriğinde yer alacak konu başlıklarının belirlenmesi için ihtiyaç duyulan veri ve kaynaklarla uzmanlık ihtiyacını belirler.",
+      "ums": "E.2.1 E.2.2",
+      "outcome": "4.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.10",
+      "critical": true,
+      "text": "Eğitimde yer alacak konu başlıklarına göre, sunumu yapacak olan ilgili iç ya da dış eğitmenin özelliklerini belirler.",
+      "ums": "E.2.3",
+      "outcome": "4.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.11",
+      "critical": false,
+      "text": "Eğitimin içeriği ve kullanılacak yönteme uygun olarak eğitimcinin ve katılımcıların kullanacakları (sunum, eğitim notu, kitapçık, yönergeler ve benzeri) eğitim materyallerinin uygunluğunu kontrol eder.",
+      "ums": "E.2.4",
+      "outcome": "4.2 4.3",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.12",
+      "critical": true,
+      "text": "Eğitim hedeflerine uygun öğretim yöntemi ve tekniğini seçer.",
+      "ums": "E.3.1",
+      "outcome": "4.3",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.13",
+      "critical": false,
+      "text": "Eğitimde kullanılacak araç ve gereçleri tespit eder.",
+      "ums": "E.3.2",
+      "outcome": "4.3",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.14",
+      "critical": false,
+      "text": "Eğitimin uygulama sürecinde kullanılacak zaman planını hazırlar.",
+      "ums": "E.3.4",
+      "outcome": "4.3",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.15",
+      "critical": true,
+      "text": "Eğitim prosedürlerine göre, eğitmen olarak görevlendirilecek çalışanların niteliklerini belirler.",
+      "ums": "E.4.1- E.4.2",
+      "outcome": "4.4",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.16",
+      "critical": false,
+      "text": "Eğitmenlerin performanslarının takibine yönelik sistemler geliştirir.",
+      "ums": "E.4.3 E.4.4 E.4.6",
+      "outcome": "4.4",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.17",
+      "critical": false,
+      "text": "Eğitmenlere eğitimin organizasyonu ile ilgili sunulacak bilgileri tanımlar.",
+      "ums": "E.4.5",
+      "outcome": "4.4",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.18",
+      "critical": true,
+      "text": "Eğitimin hedefleri ve içeriğine göre kullanılacak ölçme aracını seçer.",
+      "ums": "E.5.1",
+      "outcome": "4.5",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.19",
+      "critical": false,
+      "text": "Eğitim öncesinde katılımcıların seviyelerini belirlemek için hazırlanan ölçüm araçlarını kontrol eder.",
+      "ums": "E.5.2",
+      "outcome": "4.5",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.20",
+      "critical": false,
+      "text": "Eğitim sonrasında eğitimin etkinliğini, eğitimin amaç ve kazanımlarına uygun olarak, öğrenme ve uygulayabilme düzeyini, katılımcı tepkilerini, öğrenilenlerin performansa etkilerini ölmek için geliştirilen araçları (test, anket, tutum ölçeği, gözlem formu, eğitmen değerlendirme formu ve benzeri) kontrol eder.",
+      "ums": "E.5.3",
+      "outcome": "4.5",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.21",
+      "critical": false,
+      "text": "Eğitimin özelliklerini, içeriklerini tanımlayan eğitim kataloğunu hazırlar.",
+      "ums": "F.1.1",
+      "outcome": "5.1",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.22",
+      "critical": false,
+      "text": "Kuruluşun iç iletişim prosedürlerine göre, eğitimlerin kuruluş içinde tanıtılmasında gerçekleştirilecek faaliyeti yürütür.",
+      "ums": "F.1.2 F.2.1",
+      "outcome": "5.1 5.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.23",
+      "critical": false,
+      "text": "Eğitim katılımcıları belirlenmesinde izlenecek prosedürleri açıklar.",
+      "ums": "F.2.2",
+      "outcome": "5.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.24",
+      "critical": false,
+      "text": "Eğitim için gerçekleştirilmesi gereken sınıf düzeni, ikram, konaklama, ulaşım, araç-gereç temini ve benzeri organizasyonu belirler.",
+      "ums": "F.2.3",
+      "outcome": "5.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.25",
+      "critical": false,
+      "text": "Eğitim sunumlarını ve eğitmen performansını izleme yöntemlerini tanımlar.",
+      "ums": "F.2.4- F.2.5",
+      "outcome": "5.2",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.26",
+      "critical": false,
+      "text": "Ölçüm sonuçlarını analiz ederek değerlendirme çalışmalarını raporlar.",
+      "ums": "F.3.1- F.3.2",
+      "outcome": "5.3",
+      "tool": "P1"
+    },
+    {
+      "id": "BY.27",
+      "critical": false,
+      "text": "Eğitim programlarının verimliliğini takip ederek, varsa gerekli güncellemeleri (yeni ihtiyaçlar, talepler ve gündem) yapıp eğitim programlarını günceller.",
+      "ums": "F.3.3",
+      "outcome": "5.3",
+      "tool": "P1"
+    }
+  ]
+}
