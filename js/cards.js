@@ -15,6 +15,7 @@ fetch("data/courses.json")
 
     coursesObj = {
       title: course.heading.title,
+      slug: course.page.slug,
       price: course.sidebar.courseInfo.price,
       heroImage: course.content.heroImage.src,
     };
@@ -27,7 +28,7 @@ fetch("data/courses.json")
                     <div>
                       <strong class="bg-success text-white font-outfit text-uppercase price-tag">${coursesObj.price}</strong>
                     </div>
-                    <h3 class="post-heading"><a href="course-single-temp.html?slug=egiticinin-egitimi" tabindex="-1">${coursesObj.title}</a></h3>
+                      <h3 class="post-heading"><a href="/kurslar/${encodeURIComponent(coursesObj.slug)}" tabindex="-1">${coursesObj.title}</a></h3>
                     <div class="post-author">
                       <div class="alignleft no-shrink rounded-circle">
                         <a href="about.html" tabindex="-1"><img src="images/Selcan-Arslan.jpg" class="rounded-circle" alt="image description"></a>

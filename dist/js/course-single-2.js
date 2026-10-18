@@ -109,22 +109,26 @@ async function renderCourse(data) {
     document.getElementById("headingBg").style.backgroundImage = data.heading.backgroundImage;
     document.getElementById("headingTitle").textContent = data.heading.title;
 
-    // breadcrumb
-    const { listItems } = data.breadcrumb;
+    // Always present a human-readable course hierarchy. The URL slug is only
+    // used to find the course and must never be exposed as breadcrumb text.
+    const breadcrumbItems = [
+      { label: "Anasayfa", href: "index.html" },
+      { label: "Kurslar", href: "courses-list.html" },
+      { label: data.content?.mainTitle || data.heading?.title || "Kurs" },
+    ];
     const breadCrumb = document.getElementById("js-breadcrumb");
     breadCrumb.innerHTML = "";
-    listItems.forEach((item, index) => {
+    breadcrumbItems.forEach((item, index) => {
       const li = document.createElement("li");
-      const isLast = index === listItems.length - 1;
-      const linkTarget = item === "Anasayfa" ? "index.html" : item === "Kurs" || item === "Kurslar" ? "courses-list.html" : null;
+      const isLast = index === breadcrumbItems.length - 1;
 
-      if (!isLast && linkTarget) {
+      if (!isLast && item.href) {
         const link = document.createElement("a");
-        link.href = linkTarget;
-        link.textContent = item;
+        link.href = item.href;
+        link.textContent = item.label;
         li.appendChild(link);
       } else {
-        li.textContent = item;
+        li.textContent = item.label;
       }
 
       breadCrumb.appendChild(li);
@@ -143,36 +147,36 @@ async function renderCourse(data) {
       if (matchingOption) programSelect.value = matchingOption.value;
     }
 
-    // instructor image and name
-    const { src, alt } = dataContent.viewHeader.author.image;
+    // Word belgesinde bulunmayan eğitmen, kategori ve puan bilgilerini gösterme.
+    const courseViewHeader = document.getElementById("courseViewHeader");
+    const viewHeader = dataContent.viewHeader;
+    if (viewHeader?.author && viewHeader?.category && viewHeader?.rating) {
+      const { src, alt } = viewHeader.author.image || {};
+      const img = document.getElementById("vhAuthorImg");
+      if (img) {
+        img.src = src || "";
+        img.alt = alt || "";
+      }
 
-    const img = document.getElementById("vhAuthorImg");
-    img.src = src;
-    img.alt = alt;
-
-    const vhAuthorLabel = document.getElementById("vhAuthorLabel");
-    const vhAuthorName = document.getElementById("vhAuthorName");
-    vhAuthorLabel.textContent = dataContent.viewHeader.author.label;
-    vhAuthorName.textContent = dataContent.viewHeader.author.name;
-
-    const vhCategoryValue = document.getElementById("vhCategoryValue");
-    vhCategoryValue.textContent = dataContent.viewHeader.category.value;
-
-    const { vhStars, totalReviews } = dataContent.viewHeader.rating;
-
-    // kaç yıldız olacağı hesaplanacak
-
-    document.getElementById("vhReviewCount").textContent = `(${totalReviews} Yorum)`;
+      document.getElementById("vhAuthorLabel").textContent = viewHeader.author.label || "";
+      document.getElementById("vhAuthorName").textContent = viewHeader.author.name || "";
+      document.getElementById("vhCategoryValue").textContent = viewHeader.category.value || "";
+      document.getElementById("vhReviewCount").textContent = `(${viewHeader.rating.totalReviews || 0} Yorum)`;
+      if (courseViewHeader) courseViewHeader.hidden = false;
+    } else if (courseViewHeader) {
+      courseViewHeader.hidden = true;
+    }
 
     const courseHeroImg = document.getElementById("courseHeroImg");
-    courseHeroImg.src = dataContent.heroImage.src;
-    courseHeroImg.alt = dataContent.heroImage.alt;
+    courseHeroImg.src = dataContent.heroImage?.src || "";
+    courseHeroImg.alt = dataContent.heroImage?.alt || dataContent.mainTitle || "";
 
     // paragraf başlangıç
 
     const courseBlocksMount = document.getElementById("courseBlocksMount");
 
-    dataContent.blocks.forEach((block) => {
+    courseBlocksMount.innerHTML = "";
+    (dataContent.blocks || []).forEach((block) => {
       const { type, level, text, intro, items } = block;
 
       if (type === "heading" && level === 3) {
@@ -219,7 +223,11 @@ async function renderCourse(data) {
       // 1️⃣ Accordion bloğunu bul
       const accordionBlock = dataContent.blocks.find((block) => block.type === "accordion");
 
-      if (!accordionBlock) return;
+      if (!accordionBlock) {
+        const mount = document.getElementById("accordion");
+        if (mount) mount.hidden = true;
+        return;
+      }
 
       const items = accordionBlock.items;
       const mount = document.getElementById("accordion");
@@ -466,7 +474,13 @@ async function renderCourse(data) {
     // 2) Eğitmen kutusu
     function fillInstructorBox(data) {
       const instructor = data?.content?.instructor;
-      if (!instructor) return;
+      const box = document.getElementById("courseInstructorBox");
+      if (!instructor) {
+        if (box) box.hidden = true;
+        return;
+      }
+
+      if (box) box.hidden = false;
 
       const img = document.getElementById("instructorImg");
       if (img && instructor.image?.src) {
@@ -487,10 +501,17 @@ async function renderCourse(data) {
     // 3) Yorumlar listesi
     function fillReviews(data) {
       const reviews = data?.content?.reviews;
-      if (!reviews) return;
-
       const mount = document.getElementById("courseReviewsMount");
+      const form = document.querySelector(".reviesSubmissionForm");
+      if (!reviews) {
+        if (mount) mount.hidden = true;
+        if (form) form.hidden = true;
+        return;
+      }
+
       if (!mount) return;
+      mount.hidden = false;
+      if (form) form.hidden = false;
 
       const items = Array.isArray(reviews.items) ? reviews.items : [];
       mount.innerHTML = items
@@ -526,7 +547,35 @@ async function renderCourse(data) {
     // 4) Sidebar
     function fillSidebar(data) {
       const sb = data?.sidebar;
-      if (!sb) return;
+      const sidebar = document.getElementById("sidebar");
+      const content = document.getElementById("content");
+      if (!sb) {
+        if (sidebar) sidebar.hidden = false;
+        if (content) {
+          content.classList.remove("col-md-12");
+          content.classList.add("col-md-9");
+        }
+        ["sbCourseInfo", "sbCategories", "sbOfficialDocument", "sbCourseVideo", "sbTags"].forEach((id) => {
+          const section = document.getElementById(id);
+          if (section) section.hidden = true;
+        });
+        return;
+      }
+
+      if (sidebar) sidebar.hidden = false;
+      if (content) {
+        content.classList.remove("col-md-12");
+        content.classList.add("col-md-9");
+      }
+
+      const courseInfoSection = document.getElementById("sbCourseInfo");
+      if (courseInfoSection) courseInfoSection.hidden = !sb.courseInfo;
+
+      const categoriesSection = document.getElementById("sbCategories");
+      if (categoriesSection) categoriesSection.hidden = !Array.isArray(sb.categories) || !sb.categories.length;
+
+      const tagsSection = document.getElementById("sbTags");
+      if (tagsSection) tagsSection.hidden = !Array.isArray(sb.tags) || !sb.tags.length;
 
       // Facts (Students, Duration, Lectures, Video, Certificate)
       const facts = document.getElementById("sbFacts");

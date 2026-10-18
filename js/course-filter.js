@@ -71,13 +71,8 @@ document.addEventListener("DOMContentLoaded", () => {
        return
      }
 
-     // sayfaya slug ile git
-     // not: index.html ve diğer linklerde kullanılan şablon sayfa
-     // course-single-temp.html olduğu için burayı ona göre ayarlıyoruz.
-     // Eğer ileride farklı bir hedef gerekirse bu satırı tek değişken
-     // ile yönetmek daha kolay olacaktır.
-     const targetPage = 'course-single-temp.html';
-     window.location.href = `${targetPage}?slug=${encodeURIComponent(slug)}`
+     // Kursun temiz URL'sine git.
+     window.location.href = `/kurslar/${encodeURIComponent(slug)}`
    })
  })
 

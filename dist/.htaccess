@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Eski sorgu parametreli kurs adreslerini kalici olarak temiz URL'ye tasir.
+RewriteCond %{THE_REQUEST} \s/+course-single-temp\.html\?slug=([A-Za-z0-9-]+) [NC]
+RewriteRule ^course-single-temp\.html$ /kurslar/%1? [R=301,L,NE]
+
+# Temiz kurs URL'lerini ortak kurs sablonundan sunar.
+RewriteRule ^kurslar/([A-Za-z0-9-]+)/?$ course-single-temp.html?slug=$1 [L,QSA,NC]
